@@ -62,11 +62,31 @@ body {
   animation-delay: calc(var(--i, 0) * 110ms + 150ms);
 }
 
+/* CTA traka: krugovi na vodi koji se šire iz jedne tačke */
+@keyframes ripple {
+  from {
+    opacity: 0.55;
+    transform: scale(0.08);
+  }
+  to {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+.ripple {
+  animation: ripple 6s linear infinite;
+  animation-delay: calc(var(--i, 0) * -2s);
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
   }
   .rise {
     animation: none;
+  }
+  .ripple {
+    display: none;
   }
 }

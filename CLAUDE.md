@@ -8,7 +8,14 @@ Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Refe
 
 - The section the proposal calls "Usluge" is named **"Servis"** everywhere (menu, route `/servis`, copy). Never write "Usluge".
 - All copy is Serbian, Latin script. `lang="sr"`.
-- Routes and menu live in `lib/site.ts`. Never hardcode a path; use `routes`.
+- Routes are Serbian (`/primene`, `/proizvodi/masine`, `/proizvodi/pribor`, `/servis`, `/kontakt`), decided 2026-10-04.
+- Servis has no hub page: `/servis` is one page (repairs, spare parts), demonstrations are at `/servis/demonstracije`.
+- Routes and menu live in `content/site.ts`. Never hardcode a path; use `routes`.
+
+## Content sources
+
+- The developer has permission from Falch and Mlazmatik to take texts, images and data from falch.com and mlazmatik.co.rs. Rewrite texts (no word-for-word copies), replace Falch contact details with Mlazmatik's, never invent technical specs.
+- Fonts (Archivo, IBM Plex Sans, IBM Plex Mono) and the 25 s hero video are approved as they are.
 
 ## Layout rules (keep every page consistent)
 
@@ -25,15 +32,30 @@ Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Refe
 - **Fonts:** Archivo (`font-display`, headings), IBM Plex Sans (`font-sans`, body), IBM Plex Mono (`font-mono`, eyebrows, numbers, technical data such as bar/kW/codes).
 - **Buttons:** `components/ui/ButtonLink`, always `rounded-full`. `light` and `outline` on dark backgrounds, `brand` and `ghost` on light.
 - **Cards:** white, `rounded-2xl`, `ring-1 ring-line`, hover lift with brand-tinted shadow, image `aspect-[4/3]`, mono pill label over the image. See `components/home/CategoryCards.tsx`.
+- **Dark sections:** alternate light (`mist`) and dark (`bg-ink text-white`) sections for rhythm; on dark use `SectionHeading tone="dark"` and `ButtonLink` `light`/`outline`.
+- **Image tiles:** full-bleed photo, `rounded-2xl`, ink gradient from the bottom, mono pill top-left, title bottom-left, round arrow bottom-right. See `components/home/FeaturedPrimene.tsx`.
+- **Brand band:** `components/CtaBand.tsx` is the only full `bg-brand` surface (water-ripple rings, headline, Kontakt button, phone). Reuse it at the end of inner pages instead of inventing new CTAs.
+- **Editorial list:** heading in a sticky left column, hairline-divided rows with an icon tile on the right. See `components/home/WhyUs.tsx`.
 - **Motion:** `.rise` entrance with `--i` stagger; respect `prefers-reduced-motion`.
 
 ## Images and video
 
-- Originals go in `media-src/` (not deployed). Run `npm run images` to produce WebP in `public/media/` (max 1920px wide, same folder structure). Only reference the `.webp` files.
-- Always render with `next/image` and a correct `sizes`. Above-the-fold image gets `preload`.
+- Originals go in `media-src/` (git-ignored, not deployed). `npm run images` writes WebP to `public/media/<path>-<width>.webp` and the manifest `lib/images.json`. Both are committed. Nothing is deleted unless you pass `-- --prune`.
+- Sizes depend on the file name (profiles at the top of `scripts/optimize-images.mjs`): `01` and any other name get 480/960/1600 (cover: cards, tiles, large view); `02`, `03`, ... get a single 960 px file used for both the thumbnail and the lightbox (decided 2026-10-04 to keep the repo small enough for Vercel Hobby limits); `video` gets 480/960 (YouTube poster). So in every gallery folder the cover is `01` and the rest are numbered. The largest size is about two thirds of the weight, so do not add sizes casually.
+- Always render images with `components/ui/Img` (`src` is the path in `media-src/` without extension, e.g. `"primene/hidrodemolicija"`), with a required `alt` and a correct `sizes`. First-screen images get `priority`. Never use `next/image`: it would bill Vercel image optimization to the client.
 - Video and YouTube load on click, except the hero background video, which is skipped on slow connections, data saver and reduced motion.
+
+## Home page order
+
+Hero (with trust bar), category cards, *Izdvojene mašine* (not built yet; goes before Primene once machine data arrives), Primene, Zašto mi, CTA band, footer.
 
 ## Structure
 
-- `components/ui/` shared building blocks, `components/<page>/` sections of one page, `lib/` data and config.
-- Server components by default; `"use client"` only where state or browser APIs are needed.
+- `content/` holds all text and data; components contain no copy. `site.ts` (routes, menu, company contact data, trust numbers, default CTA text), `home.ts` (home page texts), `applications.json` and `application-groups.json`. Machines and accessories will follow as JSON.
+- `lib/` holds code that reads content (`applications.ts`, `images.ts`) and the generated `images.json`.
+- `npm run validate` checks content against the image manifest and runs automatically before `npm run build`. Extend `scripts/validate-content.mjs` with every new content file.
+- `components/ui/` shared building blocks (`Container`, `SectionHeading`, `PageHeader`, `Img`, `Gallery` with lightbox, `YouTube` click-to-load, `ButtonLink`), `components/<page>/` sections of one page.
+- Inner pages start with `PageHeader` (dark, breadcrumb, h1, lead) and end with `CtaBand`.
+- Filters keep their state in the URL with Serbian parameter names (`/primene?grupa=brodovi`).
+- Server components by default; `"use client"` only where state or browser APIs are needed. Pass server-rendered `Img` elements into client components as props instead of importing the manifest on the client.
+- Footer is in `app/layout.tsx`.

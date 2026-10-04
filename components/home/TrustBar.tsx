@@ -1,6 +1,6 @@
 import type { CSSProperties } from "react";
 import Container from "@/components/ui/Container";
-import { trust } from "@/lib/site";
+import { trust } from "@/content/site";
 
 export default function TrustBar() {
   return (

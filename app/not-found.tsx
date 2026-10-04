@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import ButtonLink from "@/components/ui/ButtonLink";
 import Container from "@/components/ui/Container";
 import Eyebrow from "@/components/ui/Eyebrow";
-import { routes } from "@/lib/site";
+import { routes } from "@/content/site";
 
 export const metadata: Metadata = { title: "Stranica nije pronađena" };
 

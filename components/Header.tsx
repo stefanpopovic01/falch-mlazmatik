@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { nav, routes } from "@/lib/site";
+import { nav, routes } from "@/content/site";
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);

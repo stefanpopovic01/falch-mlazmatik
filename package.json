@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "images": "node scripts/optimize-images.mjs"
+    "images": "node scripts/optimize-images.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "prebuild": "node scripts/validate-content.mjs"
   },
   "dependencies": {
     "next": "16.3.8",

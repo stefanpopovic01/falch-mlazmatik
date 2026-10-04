@@ -1,0 +1,1886 @@
+{
+  "application_renovation_monument_03": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "hero-poster": {
+    "width": 1600,
+    "height": 460,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "high-tech-water-filtration-at-sunrise": {
+    "width": 1484,
+    "height": 1060,
+    "widths": [
+      480,
+      960,
+      1484
+    ]
+  },
+  "primene/ciscenje-brodova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-brodova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-brodova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-brodova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-brodova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-brodova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-celicnih-povrsina/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-cevi/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-cevi/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-cevi/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-cevi/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-cevi/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-cevi/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-delova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-delova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-delova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-delova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-delova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-delova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-fasada/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-fasada/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-fasada/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-fasada/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-fasada/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-fasada/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-gradjevinskih-masina/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijske-opreme/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-industrijskih-podova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-izmenjivaca-toplote/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-krovova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-krovova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-krovova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-krovova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-krovova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-krovova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-lakirnica/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-lakirnica/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-lakirnica/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-lakirnica/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-lakirnica/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-lakirnica/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-masina-za-puteve/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-masina-za-puteve/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-masina-za-puteve/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-masina-za-puteve/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-masina-za-puteve/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-na-zeleznici/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-oplata/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-oplata/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-oplata/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-oplata/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-oplata/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-oplata/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-posuda-kalupa-i-filtera/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-rezervoara/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-rezervoara/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-rezervoara/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-rezervoara/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-rezervoara/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-rezervoara/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-skela/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-skela/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-skela/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-skela/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-skela/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-skela/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-spoljnih-povrsina/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-u-poljoprivredi/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-unutar-objekata/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/ciscenje-vozila/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/ciscenje-vozila/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-vozila/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-vozila/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/ciscenje-vozila/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/hidrodemolicija/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/hidrodemolicija/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/hidrodemolicija/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/hidrodemolicija/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/hidrodemolicija/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/hidrodemolicija/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-brodova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-brodova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-brodova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-brodova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-brodova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-brodova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-fasada/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-fasada/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-fasada/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-fasada/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-fasada/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-fasada/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-kontejnera/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-kontejnera/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-kontejnera/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-kontejnera/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-kontejnera/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-kontejnera/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-limenih-krovova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-limenih-krovova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-limenih-krovova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-limenih-krovova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-limenih-krovova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-limenih-krovova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-podova/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-podova/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-podova/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-podova/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-podova/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-podova/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/obnova-spomenika/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-spomenika/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-spomenika/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-spomenika/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-spomenika/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-vozila/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/obnova-vozila/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-vozila/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-vozila/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-vozila/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/obnova-vozila/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/podvodni-radovi/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/podvodni-radovi/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/podvodni-radovi/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/podvodni-radovi/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/podvodni-radovi/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/podvodni-radovi/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/sanacija-betona/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/sanacija-betona/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-betona/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-betona/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-betona/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-betona/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/sanacija-posle-pozara/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/sanacija-posle-pozara/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-posle-pozara/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-posle-pozara/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/sanacija-posle-pozara/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/secenje-vodenim-mlazom/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-bitumena/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-bitumena/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-bitumena/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-bitumena/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-bitumena/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-bitumena/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-grafita/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-grafita/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-grafita/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-grafita/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-grafita/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-grafita/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-gume/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-gume/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-gume/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-gume/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-gume/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-gume/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-kore/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-kore/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kore/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kore/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kore/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kore/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-korozije/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-korozije/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-korozije/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-korozije/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-korozije/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-korozije/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-kovarine/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-kovarine/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kovarine/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kovarine/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-kovarine/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-oznaka-na-putu/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-starih-premaza/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "primene/uklanjanje-zvakacih-guma/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis": {
+    "width": 360,
+    "height": 257,
+    "widths": [
+      360
+    ]
+  }
+}

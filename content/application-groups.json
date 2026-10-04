@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "gradjevinarstvo",
+    "label": "Građevinarstvo"
+  },
+  {
+    "slug": "oplate-i-skele",
+    "label": "Oplate i skele"
+  },
+  {
+    "slug": "renoviranje",
+    "label": "Renoviranje"
+  },
+  {
+    "slug": "ciscenje",
+    "label": "Čišćenje"
+  },
+  {
+    "slug": "industrija",
+    "label": "Industrija"
+  },
+  {
+    "slug": "saobracaj",
+    "label": "Saobraćaj i komunalije"
+  },
+  {
+    "slug": "brodovi",
+    "label": "Brodovi i pomorstvo"
+  },
+  {
+    "slug": "poljoprivreda",
+    "label": "Poljoprivreda i šumarstvo"
+  }
+]
