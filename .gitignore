@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# originali slika i videa (WebP verzije su u public/media)
+/media-src/
