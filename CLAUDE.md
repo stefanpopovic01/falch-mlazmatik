@@ -56,6 +56,8 @@ Hero (with trust bar), category cards, Izdvojene mašine (machines with `feature
 - `npm run validate` checks content against the image manifest and runs automatically before `npm run build`. Extend `scripts/validate-content.mjs` with every new content file.
 - `components/ui/` shared building blocks (`Container`, `SectionHeading`, `PageHeader`, `Img`, `Gallery` with lightbox, `YouTube` click-to-load, `Steps` numbered columns for real sequences, `ButtonLink`), `components/<page>/` sections of one page.
 - Inner pages start with `PageHeader` (dark, breadcrumb, h1, lead) and end with `CtaBand`.
+- Contact: `/kontakt` has one form (`components/kontakt/ContactForm.tsx`, texts in `content/kontakt.ts`) that reads `tema`, `proizvod` and `varijanta` from the URL. It posts JSON to `NEXT_PUBLIC_FORM_ENDPOINT` (Formspree or Web3Forms; see `.env.example`), then sets a sessionStorage flag and goes to `/kontakt/hvala`, which is `noindex`. Without the endpoint the form shows a clear message instead of pretending to send. `lib/analytics.ts` holds the conversion hook, a no-op until the cookie banner and analytics exist.
+- `error` (`#b3261e`) is the only extra color and is used solely for form error messages.
 - Links to the contact form carry the enquiry topic: use `contactHref("servis" | "rezervni-deo" | "demonstracija")` from `content/site.ts` (`/kontakt?tema=...`). The contact page must read `tema`.
 - Galleries: build items with `galleryItem()` from `lib/gallery.tsx` and lay them out with grid classes on `Gallery`.
 - Do not copy Falch's service guarantees (response, repair and delivery times, 25-year parts availability) unless Mlazmatik confirms them.

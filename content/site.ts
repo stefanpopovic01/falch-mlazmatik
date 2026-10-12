@@ -7,6 +7,7 @@ export const routes = {
   servis: "/servis",
   demonstracije: "/servis/demonstracije",
   kontakt: "/kontakt",
+  hvala: "/kontakt/hvala",
   privatnost: "/privatnost",
   kolacici: "/kolacici",
 } as const;

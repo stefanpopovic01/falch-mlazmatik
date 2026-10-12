@@ -8,6 +8,8 @@
   --color-mist: #f4f2f9;
   --color-line: #e3dfef;
   --color-muted: #5d5873;
+  /* Samo za poruke o grešci u formularima */
+  --color-error: #b3261e;
 
   --font-sans: var(--font-plex-sans);
   --font-display: var(--font-archivo);
