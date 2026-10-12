@@ -1,54 +1,80 @@
 [
   {
     "slug": "dovod-vode",
-    "label": "Dovod vode"
+    "label": "Dovod vode",
+    "intro": "Filteri, razdelnici, spojnice i creva za dovod vode do mašine.",
+    "cover": "Z0000504"
   },
   {
     "slug": "creva-i-kablovi",
-    "label": "Creva i kablovi"
+    "label": "Creva i kablovi",
+    "intro": "Visokopritisna creva, bubnjevi i upravljački kablovi.",
+    "cover": "E1010025"
   },
   {
     "slug": "pistolji",
-    "label": "Pištolji"
+    "label": "Pištolji",
+    "intro": "Visokopritisni pištolji za ručni rad, do 3000 bara.",
+    "cover": "Z0000208"
   },
   {
     "slug": "koplja",
-    "label": "Koplja"
+    "label": "Koplja",
+    "intro": "Koplja i produžeci za različite dužine i pritiske.",
+    "cover": "E0810040"
   },
   {
     "slug": "mlaznice",
-    "label": "Mlaznice"
+    "label": "Mlaznice",
+    "intro": "Tačkaste, pljosnate i rotacione mlaznice, sa delovima za održavanje.",
+    "cover": "Z0000117"
   },
   {
     "slug": "peskarenje",
-    "label": "Peskarenje"
+    "label": "Peskarenje",
+    "intro": "Glave, mlaznice i creva za peskarenje uz pomoć vode.",
+    "cover": "Z0000166"
   },
   {
     "slug": "ciscenje-cevi-i-rezervoara",
-    "label": "Čišćenje cevi i rezervoara"
+    "label": "Čišćenje cevi i rezervoara",
+    "intro": "Mlaznice i creva za cevi, kao i glave za čišćenje rezervoara.",
+    "cover": "Z0000304"
   },
   {
     "slug": "ciscenje-povrsina",
-    "label": "Čišćenje površina"
+    "label": "Čišćenje površina",
+    "intro": "Pribor za ravnomerno čišćenje podova, zidova i velikih površina.",
+    "cover": "Z0000866"
   },
   {
     "slug": "pomocni-alat",
-    "label": "Pomoćni alat"
+    "label": "Pomoćni alat",
+    "intro": "Pomagala koja olakšavaju vođenje mlaza.",
+    "cover": "Z0000571"
   },
   {
     "slug": "otpadna-voda",
-    "label": "Otpadna voda"
+    "label": "Otpadna voda",
+    "intro": "Filtriranje i odvođenje otpadne vode sa mesta rada.",
+    "cover": "E0500034"
   },
   {
     "slug": "razno",
-    "label": "Razno"
+    "label": "Razno",
+    "intro": "Daljinsko upravljanje, dodatna oprema za mašine i potrošni materijal.",
+    "cover": "Z0000585"
   },
   {
     "slug": "zastitna-odeca",
-    "label": "Zaštitna odeća"
+    "label": "Zaštitna odeća",
+    "intro": "Zaštitna odela, čizme, rukavice i šlemovi za rad visokim pritiskom.",
+    "cover": "Z0000076"
   },
   {
     "slug": "spojnice",
-    "label": "Spojnice"
+    "label": "Spojnice",
+    "intro": "Nipli, redukcije, navojne i okretne spojnice.",
+    "cover": "E1230034"
   }
 ]

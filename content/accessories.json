@@ -13,6 +13,12 @@
         "src": "pribor/a0130004/01",
         "alt": "Ispitni uređaj combicheck"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "for control cable function testing"
+      }
     ]
   },
   {
@@ -27,7 +33,8 @@
         "src": "pribor/a0500021/01",
         "alt": "Ključ quicklock"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "C010",
@@ -42,6 +49,16 @@
       {
         "src": "pribor/c010/01",
         "alt": "Mast za montažu gumenih delova"
+      },
+      {
+        "src": "pribor/c010/02",
+        "alt": "Mast za montažu gumenih delova, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "50g"
       }
     ]
   },
@@ -60,6 +77,36 @@
         "src": "pribor/d0030/01",
         "alt": "Tačkasta mlaznica 0° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "030"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,03 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 12"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -76,6 +123,36 @@
       {
         "src": "pribor/d0035/01",
         "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "035"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,11 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 12"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
       }
     ]
   },
@@ -94,6 +171,36 @@
         "src": "pribor/d0040/01",
         "alt": "Tačkasta mlaznica 0° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "040"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,19 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 12"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -110,6 +217,36 @@
       {
         "src": "pribor/d0045/01",
         "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,26 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 12"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
       }
     ]
   },
@@ -128,6 +265,36 @@
         "src": "pribor/d0055/01",
         "alt": "Tačkasta mlaznica 0° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "055"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,39 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 12"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -142,7 +309,8 @@
         "src": "pribor/d045/01",
         "alt": "Čaura creva za glavu za peskarenje"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "D051",
@@ -157,6 +325,12 @@
       {
         "src": "pribor/d051/01",
         "alt": "Mlaznica za peskarenje, bor-karbid, 500 bar, Ø8"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Dužina",
+        "value": "5mm"
       }
     ]
   },
@@ -175,6 +349,32 @@
         "src": "pribor/d2530/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "030"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -191,6 +391,32 @@
       {
         "src": "pribor/d2540/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "040"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
       }
     ]
   },
@@ -209,6 +435,32 @@
         "src": "pribor/d2545/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -225,6 +477,32 @@
       {
         "src": "pribor/d2555/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "055"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
       }
     ]
   },
@@ -243,6 +521,32 @@
         "src": "pribor/d2560/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "060"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
+      }
     ]
   },
   {
@@ -257,7 +561,8 @@
         "src": "pribor/e0190122/01",
         "alt": "Ključ C/B"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E0500034",
@@ -271,7 +576,8 @@
         "src": "pribor/e0500034/01",
         "alt": "Čičak traka za crevo za otpadnu vodu i visokopritisno crevo 50/400 mm"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E0500148",
@@ -285,7 +591,8 @@
         "src": "pribor/e0500148/01",
         "alt": "Čičak traka za upravljački kabl i visokopritisno crevo 25/200 mm"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E0500282",
@@ -299,7 +606,8 @@
         "src": "pribor/e0500282/01",
         "alt": "Magnet za filter jedinicu 600"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E0700119",
@@ -313,7 +621,8 @@
         "src": "pribor/e0700119/01",
         "alt": "Brava za prikolicu"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E0800008",
@@ -338,6 +647,48 @@
         "src": "pribor/e0800008/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "14 – 31 l/min (3,7 – 8,2 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "060"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,18 kg"
+      }
     ]
   },
   {
@@ -355,6 +706,40 @@
       {
         "src": "pribor/e0800036/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "031"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,20 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
       }
     ]
   },
@@ -375,6 +760,36 @@
         "src": "pribor/e0800053/01",
         "alt": "Pljosnata mlaznica 15° 2500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "15°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar (36260 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "028"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 2"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 20 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,01 kg"
+      }
     ]
   },
   {
@@ -393,6 +808,36 @@
       {
         "src": "pribor/e0800054/01",
         "alt": "Pljosnata mlaznica 15° 2500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "15°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar (36260 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "043"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 2"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 20 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,01 kg"
       }
     ]
   },
@@ -420,6 +865,52 @@
         "src": "pribor/e0800057/01",
         "alt": "Drainclean 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "11,6 – 45 l/min (3,1 – 11,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø19 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "051"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "16 × 38 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -445,6 +936,48 @@
       {
         "src": "pribor/e0800058/01",
         "alt": "Drainclean 15"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "11,6 – 45 l/min (3,1 – 11,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø19 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "051"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "16 × 38 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
       }
     ]
   },
@@ -472,6 +1005,48 @@
         "src": "pribor/e0800093/01",
         "alt": "Drainclean 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "3,9 – 15 l/min (1 – 4 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø13 – 30 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M7ig"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "017"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "10 × 28 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -497,6 +1072,48 @@
       {
         "src": "pribor/e0800094/01",
         "alt": "Drainclean 15"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "11,6 – 45 l/min (3,1 – 11,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø13 – 30 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M7ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "051"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "10 × 28 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
       }
     ]
   },
@@ -524,6 +1141,52 @@
         "src": "pribor/e0800100/01",
         "alt": "Drainclean 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "11,6 – 45 l/min (3,1 – 11,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø19 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "3× 35°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 3"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "14"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "051"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "16 × 38 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -549,6 +1212,60 @@
         "src": "pribor/e0800107/01",
         "alt": "Drainspeed 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 300 bar (1450 – 4351 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "17 – 30 l/min (4,5 – 7,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø44 – 120 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 20°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "4 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 15"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "075"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "5000 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "39 × 77 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,42 kg"
+      }
     ]
   },
   {
@@ -566,6 +1283,40 @@
       {
         "src": "pribor/e0800109/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0074"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,60 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
       }
     ]
   },
@@ -593,6 +1344,56 @@
         "src": "pribor/e0800114/01",
         "alt": "Drainclean 25"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 2500 bar (1450 – 36260 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "15,7 – 78 l/min (4,1 – 20,6 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø17 – 40 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M10ig"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "3× 45°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "14"
+      },
+      {
+        "label": "Zamena mlaznice",
+        "value": "beim Hersteller"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "14 × 40 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -610,6 +1411,20 @@
       {
         "src": "pribor/e0800116/01",
         "alt": "Tačkasta mlaznica 0° 2500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M3 spoljni navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 007/0"
+      },
+      {
+        "label": "Ostalo",
+        "value": "50mm za drainclean 25 sw2 4kt. style 14"
       }
     ]
   },
@@ -637,6 +1452,56 @@
         "src": "pribor/e0800117/01",
         "alt": "Drainclean 25"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 2500 bar (1450 – 36260 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "15,7 – 78 l/min (4,1 – 20,6 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "14"
+      },
+      {
+        "label": "Zamena mlaznice",
+        "value": "beim Hersteller"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 45 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -663,6 +1528,56 @@
         "src": "pribor/e0800118/01",
         "alt": "Drainclean 25"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 2500 bar (1450 – 36260 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "15,7 – 78 l/min (4,1 – 20,6 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø18 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "3/8\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "14"
+      },
+      {
+        "label": "Zamena mlaznice",
+        "value": "beim Hersteller"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "15 × 40 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -688,6 +1603,52 @@
         "src": "pribor/e0800139/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "12 – 28 l/min (3,2 – 7,4 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "055"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -705,6 +1666,44 @@
       {
         "src": "pribor/e0800164/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800164/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800164/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "016"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,90 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -732,6 +1731,60 @@
         "src": "pribor/e0800166/01",
         "alt": "Drainclean 12"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1200 bar (1450 – 17405 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "15,7 – 54 l/min (4,1 – 14,3 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø20 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "4 / -"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "14"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "065"
+      },
+      {
+        "label": "Zamena mlaznice",
+        "value": "beim Hersteller"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "17 × 32 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -749,6 +1802,44 @@
       {
         "src": "pribor/e0800167/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800167/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800167/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "018"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,95 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -767,6 +1858,44 @@
       {
         "src": "pribor/e0800169/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800169/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800169/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "029"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,20 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -785,6 +1914,44 @@
       {
         "src": "pribor/e0800173/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800173/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800173/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "015"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,85 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -803,6 +1970,44 @@
       {
         "src": "pribor/e0800191/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800191/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800191/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "044"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,45 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -820,6 +2025,32 @@
       {
         "src": "pribor/e0800244/01",
         "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "25°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "034"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 13"
+      },
+      {
+        "label": "Masa",
+        "value": "0,02 kg"
       }
     ]
   },
@@ -839,6 +2070,40 @@
         "src": "pribor/e0800301/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "017"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,90 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
+      }
     ]
   },
   {
@@ -856,6 +2121,40 @@
       {
         "src": "pribor/e0800302/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "019"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,95 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
       }
     ]
   },
@@ -875,6 +2174,40 @@
         "src": "pribor/e0800303/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "021"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,00 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
+      }
     ]
   },
   {
@@ -892,6 +2225,40 @@
       {
         "src": "pribor/e0800306/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0041"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "0,45 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
       }
     ]
   },
@@ -911,6 +2278,36 @@
       {
         "src": "pribor/e0800310/01",
         "alt": "Pljosnata mlaznica 15° 2500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "15°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar (36260 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "021"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 2"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 20 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,01 kg"
       }
     ]
   },
@@ -938,6 +2335,52 @@
         "src": "pribor/e0800364/01",
         "alt": "Drainclean 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "4,1 – 16 l/min (1,1 – 4,2 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø13 – 30 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M7ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "018"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "10 × 28 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -962,6 +2405,48 @@
       {
         "src": "pribor/e0800372/01",
         "alt": "Drainclean 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "10 – 23 l/min (2,6 – 6,1 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
       }
     ]
   },
@@ -988,6 +2473,52 @@
         "src": "pribor/e0800374/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "10 – 23 l/min (2,6 – 6,1 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -1012,6 +2543,48 @@
       {
         "src": "pribor/e0800382/01",
         "alt": "Drainclean 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "7 – 15 l/min (1,8 – 4 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "030"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
       }
     ]
   },
@@ -1038,6 +2611,52 @@
         "src": "pribor/e0800383/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "7 – 15 l/min (1,8 – 4 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "030"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -1062,6 +2681,28 @@
       {
         "src": "pribor/e0800409/01",
         "alt": "Drainclean 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "maks. 30kW, 100-500bar, maks. 0 rpm, 4/2, 3x135°/0/0/1x0°, style: drilled"
+      },
+      {
+        "label": "Protok",
+        "value": "14-31l/min"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø:19mm/l:24mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "060"
       }
     ]
   },
@@ -1088,6 +2729,48 @@
         "src": "pribor/e0800466/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "8 – 18 l/min (2,1 – 4,8 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 3"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "035"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -1113,6 +2796,52 @@
         "src": "pribor/e0800467/01",
         "alt": "Drainclean 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "8 – 18 l/min (2,1 – 4,8 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø22 – 60 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "- / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "035"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "19 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -1130,6 +2859,44 @@
       {
         "src": "pribor/e0800491/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800491/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800491/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "020"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,00 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -1148,6 +2915,44 @@
       {
         "src": "pribor/e0800494/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800494/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800494/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "022"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,05 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -1175,6 +2980,64 @@
         "src": "pribor/e0800503/01",
         "alt": "Drainspeed 10"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "300 – 1000 bar (4351 – 14504 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "12 – 22 l/min (3,2 – 5,8 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø23 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "2× 150°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "2× 95°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "2× 45° x-jet"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "6 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 14"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "030"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "7500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "18 × 72 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,106 kg"
+      }
     ]
   },
   {
@@ -1192,6 +3055,44 @@
       {
         "src": "pribor/e0800514/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      },
+      {
+        "src": "pribor/e0800514/02",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/e0800514/03",
+        "alt": "Tačkasta mlaznica 0° 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "098"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "2,10 mm"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Masa",
+        "value": "0,14 kg"
       }
     ]
   },
@@ -1218,6 +3119,60 @@
         "src": "pribor/e0800536/01",
         "alt": "Drainspeed 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "300 – 1500 bar (4351 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "10 – 50 l/min (2,6 – 13,2 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø33 – 80 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "2× 135°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "2× 90°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "4 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "15"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "055"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "10000 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "28 × 56 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,21 kg"
+      }
     ]
   },
   {
@@ -1235,6 +3190,40 @@
       {
         "src": "pribor/e0800544/01",
         "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ugao mlaza",
+        "value": "0°"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "utični"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1,45 mm"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 5"
+      },
+      {
+        "label": "Ø × Ø × dužina",
+        "value": "8 × 12 × 24 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,001 kg"
       }
     ]
   },
@@ -1263,6 +3252,52 @@
         "src": "pribor/e0800551/01",
         "alt": "Drainclean 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "19,4 – 75 l/min (5,1 – 19,8 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø19 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "3× 135°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 4"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "085"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "16 × 38 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0 kg"
+      }
     ]
   },
   {
@@ -1288,6 +3323,64 @@
       {
         "src": "pribor/e0800552/01",
         "alt": "Drainspeed 10"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "300 – 1000 bar (4351 – 14504 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "34 – 61 l/min (9 – 16,1 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø23 – 50 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "2× 150°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "2× 95°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "2× 45° x-jet"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "6 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "style 14"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "085"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "7500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "18 × 72 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,105 kg"
       }
     ]
   },
@@ -1316,6 +3409,56 @@
         "src": "pribor/e0800571/01",
         "alt": "Drainspeed 14"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1400 bar (20305 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "41 – 76 l/min (10,8 – 20,1 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø31 – 80 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "1/4\" ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "2× 135° / 1× 160°"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "1× 30°, 1× 20°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 5"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "090"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "12000 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "26 × 48 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,113 kg"
+      }
     ]
   },
   {
@@ -1332,6 +3475,16 @@
       {
         "src": "pribor/e0810029/01",
         "alt": "Zaštita mlaznice 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x 1/4\" unutrašnji navoj za style 12/13"
       }
     ]
   },
@@ -1355,6 +3508,32 @@
         "src": "pribor/e0810040/01",
         "alt": "Koplje 20"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14"
+      },
+      {
+        "label": "Dužina",
+        "value": "3 mm, 800 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\" unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -1376,6 +3555,32 @@
       {
         "src": "pribor/e0810050/01",
         "alt": "Koplje 20"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14"
+      },
+      {
+        "label": "Dužina",
+        "value": "3 mm, 1200 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj"
       }
     ]
   },
@@ -1400,6 +3605,36 @@
         "src": "pribor/e0810128/01",
         "alt": "Koplje 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 4"
+      },
+      {
+        "label": "Ostalo",
+        "value": "8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14"
+      },
+      {
+        "label": "Dužina",
+        "value": "3 mm, 800 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -1423,6 +3658,36 @@
         "src": "pribor/e0810129/01",
         "alt": "Koplje 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 4"
+      },
+      {
+        "label": "Ostalo",
+        "value": "8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14"
+      },
+      {
+        "label": "Dužina",
+        "value": "3 mm, 1200 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -1439,6 +3704,16 @@
       {
         "src": "pribor/e0810136/01",
         "alt": "Čaura 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/2\" unutrašnji navoj x 1/2\" unutrašnji navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "v2a"
       }
     ]
   },
@@ -1461,6 +3736,35 @@
         "src": "pribor/e1010025/01",
         "alt": "Visokopritisno crevo nonstop 12"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1200 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN10"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M24 unutrašnji navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
+      },
+      {
+        "label": "U kompletu",
+        "value": "hose connector"
+      }
+    ],
+    "standard": [
+      "Z0000150"
     ]
   },
   {
@@ -1482,6 +3786,19 @@
         "src": "pribor/e1010049/01",
         "alt": "Visokopritisno crevo nonstop 2"
       }
+    ],
+    "specs": [
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ig × M22×1,5ig"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "250 bar (3626 psi)"
+      }
+    ],
+    "standard": [
+      "V044"
     ]
   },
   {
@@ -1500,6 +3817,24 @@
       {
         "src": "pribor/e1010070/01",
         "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
       }
     ]
   },
@@ -1521,6 +3856,28 @@
         "src": "pribor/e1010072/01",
         "alt": "Visokopritisno crevo nonstop 25 ph"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN5"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 5m"
+      },
+      {
+        "label": "Ostalo",
+        "value": "safety plus"
+      }
     ]
   },
   {
@@ -1539,6 +3896,24 @@
       {
         "src": "pribor/e1010095/01",
         "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
       }
     ]
   },
@@ -1561,6 +3936,35 @@
         "src": "pribor/e1010096/01",
         "alt": "Visokopritisno crevo nonstop 14"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1450 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN12"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M24 unutrašnji navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
+      },
+      {
+        "label": "U kompletu",
+        "value": "hose connector"
+      }
+    ],
+    "standard": [
+      "Z0000150"
     ]
   },
   {
@@ -1579,6 +3983,24 @@
       {
         "src": "pribor/e1010097/01",
         "alt": "Visokopritisno crevo nonstop 25"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN13"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16''unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
       }
     ]
   },
@@ -1599,6 +4021,28 @@
       {
         "src": "pribor/e1010099/01",
         "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN6"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 5m"
+      },
+      {
+        "label": "Ostalo",
+        "value": "safety plus"
       }
     ]
   },
@@ -1621,6 +4065,35 @@
         "src": "pribor/e1010155/01",
         "alt": "Visokopritisno crevo nonstop 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN10"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M24 unutrašnji navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
+      },
+      {
+        "label": "U kompletu",
+        "value": "hose connector"
+      }
+    ],
+    "standard": [
+      "Z0000150"
     ]
   },
   {
@@ -1642,6 +4115,35 @@
         "src": "pribor/e1010156/01",
         "alt": "Visokopritisno crevo nonstop 15 pl"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN16"
+      },
+      {
+        "label": "Priključak",
+        "value": "M36 unutrašnji navoj x M36 unutrašnji navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
+      },
+      {
+        "label": "U kompletu",
+        "value": "hose connector"
+      }
+    ],
+    "standard": [
+      "E1230443"
     ]
   },
   {
@@ -1656,7 +4158,8 @@
         "src": "pribor/e1010169/01",
         "alt": "Sigurnosna sajla (whip check) 500 mm za nonstop creva"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1130009",
@@ -1676,6 +4179,20 @@
         "src": "pribor/e1130009/01",
         "alt": "Zaporni ventil protoka 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26x1, 5 spoljni navoj x M26x1, 5 unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "maks. 90 l/min"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "40 bar"
+      }
     ]
   },
   {
@@ -1691,6 +4208,12 @@
       {
         "src": "pribor/e1190041/01",
         "alt": "Potisni prsten 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh unutrašnji navoj Ø19x14mm za pressure screw E1190042/E1190056 tube Ø14.3"
       }
     ]
   },
@@ -1710,6 +4233,20 @@
         "src": "pribor/e1190042/01",
         "alt": "Potisni vijak 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x iØ14"
+      },
+      {
+        "label": "Ostalo",
+        "value": "6/19"
+      },
+      {
+        "label": "Dužina",
+        "value": "0mm"
+      }
     ]
   },
   {
@@ -1726,6 +4263,16 @@
       {
         "src": "pribor/e1190044/01",
         "alt": "Nožni ventil"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Ostalo",
+        "value": "7-pins"
       }
     ]
   },
@@ -1744,6 +4291,20 @@
       {
         "src": "pribor/e1190045/01",
         "alt": "Nožni ventil"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "100 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x M22 unutrašnji navoj"
       }
     ]
   },
@@ -1765,6 +4326,31 @@
         "src": "pribor/e1190069/01",
         "alt": "Nožni ventil"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M26 unutrašnji navoj x M26 unutrašnji navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "dump gun"
+      },
+      {
+        "label": "U kompletu",
+        "value": "adapter"
+      }
+    ],
+    "standard": [
+      "E1230034"
     ]
   },
   {
@@ -1779,7 +4365,8 @@
         "src": "pribor/e1210132/01",
         "alt": "Držač creva za otpadnu vodu"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1210194",
@@ -1797,6 +4384,16 @@
         "src": "pribor/e1210194/01",
         "alt": "Zaštita od prskanja"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "stainless steel"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø300mm, Ø15mm"
+      }
     ]
   },
   {
@@ -1811,7 +4408,8 @@
         "src": "pribor/e1210196/01",
         "alt": "Spojnica creva Ø50 mm V2A"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1210235",
@@ -1828,6 +4426,16 @@
       {
         "src": "pribor/e1210235/01",
         "alt": "Zaštitna ploča za pointspeed regulation 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 15/30kW"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø64 mm"
       }
     ]
   },
@@ -1847,6 +4455,16 @@
         "src": "pribor/e1210334/01",
         "alt": "Zaštitna ploča za pointspeed regulation 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "6/2, 125kW"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø74 mm"
+      }
     ]
   },
   {
@@ -1864,6 +4482,16 @@
       {
         "src": "pribor/e1210336/01",
         "alt": "Zaštitna ploča za pointspeed regulation 30"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 125kW"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø74 mm"
       }
     ]
   },
@@ -1883,6 +4511,16 @@
         "src": "pribor/e1210346/01",
         "alt": "Zaštitna ploča za pointspeed regulation 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 40kW"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø74 mm"
+      }
     ]
   },
   {
@@ -1900,6 +4538,16 @@
       {
         "src": "pribor/e1210367/01",
         "alt": "Pipe helper za drainspeed"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "Z0000845/846/614/574"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øi:28mm, Øout: 100mm l: 150mm"
       }
     ]
   },
@@ -1919,6 +4567,16 @@
         "src": "pribor/e1210941/01",
         "alt": "Zaštitna ploča za pointspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 125kW"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø42mm"
+      }
     ]
   },
   {
@@ -1933,7 +4591,8 @@
         "src": "pribor/e1211013/01",
         "alt": "Držač osigurača mlaznice za pointspeed 30"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1211016",
@@ -1947,7 +4606,8 @@
         "src": "pribor/e1211016/01",
         "alt": "Držač za filter jedinicu 600"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1230025",
@@ -1962,6 +4622,12 @@
       {
         "src": "pribor/e1230025/01",
         "alt": "Redukcija 1500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x M24 spoljni navoj"
       }
     ]
   },
@@ -1979,6 +4645,12 @@
         "src": "pribor/e1230033/01",
         "alt": "Redukcija 1500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x 9/16\"unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -1995,6 +4667,12 @@
         "src": "pribor/e1230034/01",
         "alt": "Dupli nipl 1800 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M24 spoljni navoj x 9/16\"unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -2010,6 +4688,12 @@
       {
         "src": "pribor/e1230053/01",
         "alt": "Redukcija 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x M22 spoljni navoj"
       }
     ]
   },
@@ -2029,6 +4713,20 @@
         "src": "pribor/e1230132/01",
         "alt": "Držač mlaznice za style 1–6"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 spoljni navoj x M26 unutrašnji navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "for E1300039"
+      }
     ]
   },
   {
@@ -2045,6 +4743,12 @@
         "src": "pribor/e1230175/01",
         "alt": "Redukcija 1500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/2\" unutrašnji navoj x M26 spoljni navoj"
+      }
     ]
   },
   {
@@ -2058,6 +4762,32 @@
       {
         "src": "pribor/e1230213/01",
         "alt": "Dupli nipl 2500 bar M26 outer thread x M18-lh outer thread"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "0 – 2500 bar (0 – 36260 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M26×1,5ag"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M18×1,5ag lh"
+      },
+      {
+        "label": "Otvor ključa",
+        "value": "SW27"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN6"
+      },
+      {
+        "label": "Masa",
+        "value": "0,214 kg"
       }
     ]
   },
@@ -2073,7 +4803,8 @@
         "src": "pribor/e1230214/01",
         "alt": "Redukcija 3000 bar 9/16\"unf-lh inner thread x M14-lh outer thread"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1230215",
@@ -2089,6 +4820,16 @@
       {
         "src": "pribor/e1230215/01",
         "alt": "Redukcija 1500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M7 unutrašnji navoj x  1/4\" spoljni navoj"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø 17mm"
       }
     ]
   },
@@ -2106,6 +4847,12 @@
         "src": "pribor/e1230240/01",
         "alt": "Redukcija 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M14-lh unutrašnji navoj x 9/16''unf-lh spoljni navoj"
+      }
     ]
   },
   {
@@ -2121,6 +4868,12 @@
       {
         "src": "pribor/e1230330/01",
         "alt": "Dupli nipl 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x 9/16\"unf-lh spoljni navoj"
       }
     ]
   },
@@ -2139,6 +4892,12 @@
         "src": "pribor/e1230356/01",
         "alt": "Dupli nipl 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M30 spoljni navoj x M26 spoljni navoj, quicklock"
+      }
     ]
   },
   {
@@ -2154,6 +4913,12 @@
       {
         "src": "pribor/e1230443/01",
         "alt": "Spojnica creva 1500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M36 spoljni navoj x M36 spoljni navoj"
       }
     ]
   },
@@ -2176,6 +4941,28 @@
         "src": "pribor/e1230715/01",
         "alt": "Potisna mlaznica za čišćenje cevi 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" spoljni navoj x 1/4\" unutrašnji navoj, 4 x M4 unutrašnji navoj"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "135°"
+      },
+      {
+        "label": "Ostalo",
+        "value": "style 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø18mm"
+      }
     ]
   },
   {
@@ -2191,6 +4978,12 @@
       {
         "src": "pribor/e1230717/01",
         "alt": "Dupli nipl 1500bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x M24 spoljni navoj dko"
       }
     ]
   },
@@ -2209,6 +5002,16 @@
         "src": "pribor/e1300039/01",
         "alt": "Nosač mlaznice za style 1–6"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj za E1230132"
+      }
     ]
   },
   {
@@ -2223,7 +5026,8 @@
         "src": "pribor/e1300040/01",
         "alt": "Prelazni adapter C/52 – Geka"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1300080",
@@ -2237,7 +5041,8 @@
         "src": "pribor/e1300080/01",
         "alt": "Dupli nipl 1500 bar M24 outer thread x 1/4\" outer thread"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1300172",
@@ -2252,6 +5057,12 @@
       {
         "src": "pribor/e1300172/01",
         "alt": "Čaura 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 unutrašnji navoj x M26 unutrašnji navoj DN 8"
       }
     ]
   },
@@ -2271,6 +5082,20 @@
         "src": "pribor/e1300175/01",
         "alt": "Okretna spojnica 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "M26 unutrašnji navoj 50 l/min"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0° x M26 spoljni navoj"
+      }
     ]
   },
   {
@@ -2286,6 +5111,12 @@
       {
         "src": "pribor/e1300203/01",
         "alt": "Redukcija 1500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x M7 spoljni navoj"
       }
     ]
   },
@@ -2305,6 +5136,20 @@
         "src": "pribor/e1300210/01",
         "alt": "Okretna spojnica 1200 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "M24 spoljni navoj 130 l/min"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0° x M26 spoljni navoj"
+      }
     ]
   },
   {
@@ -2322,6 +5167,16 @@
         "src": "pribor/e1300215/01",
         "alt": "Y-razdelnik 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "3 x M30x2 unutrašnji navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      }
     ]
   },
   {
@@ -2337,6 +5192,12 @@
       {
         "src": "pribor/e1300246/01",
         "alt": "Redukcija 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 unutrašnji navoj x M30 spoljni navoj"
       }
     ]
   },
@@ -2354,6 +5215,12 @@
         "src": "pribor/e1300443/01",
         "alt": "Dupli nipl 500bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x M24 spoljni navoj"
+      }
     ]
   },
   {
@@ -2370,6 +5237,12 @@
         "src": "pribor/e1300459/01",
         "alt": "Čaura 1000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M24 unutrašnji navoj"
+      }
     ]
   },
   {
@@ -2384,7 +5257,8 @@
         "src": "pribor/e1400887/01",
         "alt": "Utikač 7-pinski za upravljački kabl"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1400888",
@@ -2398,7 +5272,8 @@
         "src": "pribor/e1400888/01",
         "alt": "Spojnica 7-pinska za upravljački kabl"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1500073",
@@ -2413,6 +5288,12 @@
       {
         "src": "pribor/e1500073/01",
         "alt": "Komplet za prepravku jack ring"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4 x 1500 kg nominal load capacity"
       }
     ]
   },
@@ -2429,6 +5310,16 @@
       {
         "src": "pribor/e1500207/01",
         "alt": "Komplet za prepravku: zaštita od varnica za BJ/TJ 125"
+      },
+      {
+        "src": "pribor/e1500207/02",
+        "alt": "Komplet za prepravku: zaštita od varnica za BJ/TJ 125, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "stage 5"
       }
     ]
   },
@@ -2448,6 +5339,12 @@
         "src": "pribor/e1500243/01",
         "alt": "Easy check za easy 2"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "15kW-500kW, diesel/el., including 2-year contract"
+      }
     ]
   },
   {
@@ -2462,7 +5359,8 @@
         "src": "pribor/e1600007/01",
         "alt": "Filter uložak za filter jedinicu 15, grubi"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1600023",
@@ -2476,7 +5374,8 @@
         "src": "pribor/e1600023/01",
         "alt": "Filter uložak za filter jedinicu 30, standardni"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1600082",
@@ -2490,7 +5389,8 @@
         "src": "pribor/e1600082/01",
         "alt": "Filter uložak za filter jedinicu 30, nano"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1600089",
@@ -2504,7 +5404,8 @@
         "src": "pribor/e1600089/01",
         "alt": "Filter uložak za filter jedinicu 200, nano"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "E1600090",
@@ -2518,7 +5419,8 @@
         "src": "pribor/e1600090/01",
         "alt": "Filter uložak za filter jedinicu 600, nano"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "F0000040",
@@ -2534,6 +5436,12 @@
         "src": "pribor/f0000040/01",
         "alt": "Mast za montažu metalnih delova"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "70g"
+      }
     ]
   },
   {
@@ -2548,7 +5456,8 @@
         "src": "pribor/g100/01",
         "alt": "P1"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "G312",
@@ -2561,6 +5470,68 @@
       {
         "src": "pribor/g312/01",
         "alt": "H99/500"
+      },
+      {
+        "src": "pribor/g312/02",
+        "alt": "H99/500, fotografija 2"
+      },
+      {
+        "src": "pribor/g312/03",
+        "alt": "H99/500, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "0 – 500 bar (0 – 7252 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "10 – 50 l/min (2,6 – 13,2 US gal/min)"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "+10 – +98 °C"
+      },
+      {
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "99 kW, 230 V AC"
+      },
+      {
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "5.4 l/h"
+      },
+      {
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "0,4 kW / 0,3 kW, 0 o/min, -, 2800 o/min, vazdušno"
+      },
+      {
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "230 V / 50 Hz, 10 A, 3 m"
+      },
+      {
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "20 l"
+      },
+      {
+        "label": "Masa",
+        "value": "105 kg"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "700 × 720 × 1035 mm"
+      },
+      {
+        "label": "Nivo buke",
+        "value": "LpA = 69 dB, LwA = 86 dB"
       }
     ]
   },
@@ -2576,7 +5547,8 @@
         "src": "pribor/g9800105/01",
         "alt": "Uvodnik za poklopac rezervoara za glavu za čišćenje, sa kuglastim zglobom"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "N003",
@@ -2591,6 +5563,12 @@
       {
         "src": "pribor/n003/01",
         "alt": "Spojni nipl za koplje 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x M22 spoljni navoj"
       }
     ]
   },
@@ -2609,6 +5587,16 @@
         "src": "pribor/n005/01",
         "alt": "Dupli nipl 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "v2a"
+      }
     ]
   },
   {
@@ -2625,6 +5613,16 @@
       {
         "src": "pribor/n006/01",
         "alt": "Dupli nipl 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 3/8\" spoljni navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "v2a"
       }
     ]
   },
@@ -2643,6 +5641,16 @@
         "src": "pribor/n075/01",
         "alt": "Dupli nipl 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/2\" spoljni navoj"
+      },
+      {
+        "label": "Ostalo",
+        "value": "v2a"
+      }
     ]
   },
   {
@@ -2658,6 +5666,12 @@
       {
         "src": "pribor/n076/01",
         "alt": "Redukcija 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x 1/2\" spoljni navoj"
       }
     ]
   },
@@ -2675,6 +5689,12 @@
         "src": "pribor/n099/01",
         "alt": "Čaura 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x 1/4\" unutrašnji navoj"
+      }
     ]
   },
   {
@@ -2691,6 +5711,12 @@
         "src": "pribor/n121/01",
         "alt": "Redukcija 630 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj x 1/8\" spoljni navoj"
+      }
     ]
   },
   {
@@ -2706,6 +5732,12 @@
       {
         "src": "pribor/n383/01",
         "alt": "Redukcija 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1/2\" unutrašnji navoj x M22 spoljni navoj"
       }
     ]
   },
@@ -2728,6 +5760,19 @@
         "src": "pribor/s001/01",
         "alt": "Visokopritisno crevo nonstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ig × M22×1,5ig"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      }
+    ],
+    "standard": [
+      "V044"
     ]
   },
   {
@@ -2749,6 +5794,19 @@
         "src": "pribor/s002/01",
         "alt": "Visokopritisno crevo nonstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ig × M22×1,5ig"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      }
+    ],
+    "standard": [
+      "V044"
     ]
   },
   {
@@ -2770,6 +5828,19 @@
         "src": "pribor/s003/01",
         "alt": "Visokopritisno crevo nonstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ig × M22×1,5ig"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      }
+    ],
+    "standard": [
+      "V044"
     ]
   },
   {
@@ -2784,7 +5855,8 @@
         "src": "pribor/s050/01",
         "alt": "Bubanj za visokopritisno crevo DN10, do 30 m (500 bar) ili 20 m (1200 bar)"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "S054",
@@ -2805,6 +5877,19 @@
         "src": "pribor/s054/01",
         "alt": "Visokopritisno crevo nonstop 2"
       }
+    ],
+    "specs": [
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ig × M22×1,5ig"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "250 bar (3626 psi)"
+      }
+    ],
+    "standard": [
+      "V044"
     ]
   },
   {
@@ -2828,6 +5913,36 @@
         "src": "pribor/s104/01",
         "alt": "Crevo za čišćenje cevi drainstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 10mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/15"
+      }
     ]
   },
   {
@@ -2850,6 +5965,36 @@
       {
         "src": "pribor/s105/01",
         "alt": "Crevo za čišćenje cevi drainstop 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m, 10mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/15"
       }
     ]
   },
@@ -2875,6 +6020,40 @@
         "src": "pribor/s108/01",
         "alt": "Crevo za čišćenje cevi drainstop 2"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "200 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/8\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 5"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 00mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø10"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/15"
+      },
+      {
+        "label": "U kompletu",
+        "value": "nozzle 055"
+      }
     ]
   },
   {
@@ -2899,6 +6078,40 @@
         "src": "pribor/s115/01",
         "alt": "Crevo za čišćenje cevi drainstop 2"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "200 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/8\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 5"
+      },
+      {
+        "label": "Dužina",
+        "value": "15m, 00mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø10"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/15"
+      },
+      {
+        "label": "U kompletu",
+        "value": "nozzle 055"
+      }
     ]
   },
   {
@@ -2921,6 +6134,32 @@
         "src": "pribor/s126/01",
         "alt": "Crevo za čišćenje cevi drainstop 10"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m, 90mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø11"
+      },
+      {
+        "label": "Ostalo",
+        "value": "50/13"
+      }
     ]
   },
   {
@@ -2939,6 +6178,20 @@
         "src": "pribor/v001/01",
         "alt": "Okretna spojnica 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "M22 unutrašnji navoj 50 l/min"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "0° x M22 spoljni navoj"
+      }
     ]
   },
   {
@@ -2954,6 +6207,12 @@
       {
         "src": "pribor/v003/01",
         "alt": "Dupla navojna spojnica 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x M22 unutrašnji navoj"
       }
     ]
   },
@@ -2971,6 +6230,12 @@
         "src": "pribor/v005/01",
         "alt": "Navojna spojnica 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x 1/4\" unutrašnji navoj"
+      }
     ]
   },
   {
@@ -2986,6 +6251,12 @@
       {
         "src": "pribor/v006/01",
         "alt": "Navojna spojnica, duga, 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x 1/4\" spoljni navoj"
       }
     ]
   },
@@ -3003,6 +6274,12 @@
         "src": "pribor/v007/01",
         "alt": "Navojna spojnica, kratka, 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x 1/4\" spoljni navoj"
+      }
     ]
   },
   {
@@ -3018,6 +6295,12 @@
       {
         "src": "pribor/v044/01",
         "alt": "Spojnica creva 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x M22 spoljni navoj"
       }
     ]
   },
@@ -3038,6 +6321,12 @@
         "src": "pribor/w020/01",
         "alt": "Kofer za pribor 64 × 23 × 23 cm sa setom spojnica"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "hose clamps, quick regulating tap, teflon tape i hose holder, stainless steel"
+      }
     ]
   },
   {
@@ -3055,6 +6344,16 @@
         "src": "pribor/w1300048/01",
         "alt": "Adapter za antifriz"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "20 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj/M26 unutrašnji navoj/M36 unutrašnji navoj x geka"
+      }
     ]
   },
   {
@@ -3069,7 +6368,8 @@
         "src": "pribor/z0000003/01",
         "alt": "Koncentrat omekšivača vode 10 l"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000008",
@@ -3083,7 +6383,8 @@
         "src": "pribor/z0000008/01",
         "alt": "Usisno koplje za pesak sa regulacijom količine"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000009",
@@ -3102,6 +6403,32 @@
       {
         "src": "pribor/z0000009/01",
         "alt": "Twister 5 100 vp 500 bar"
+      },
+      {
+        "src": "pribor/z0000009/02",
+        "alt": "Twister 5 100 vp 500 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000009/03",
+        "alt": "Twister 5 100 vp 500 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Protok",
+        "value": "max 50l/min"
+      },
+      {
+        "label": "Temperatura",
+        "value": "80 °C"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "2/1 veličina mlaznice 055"
+      },
+      {
+        "label": "Ostalo",
+        "value": "2x016 style 16, vp=1x025 style 22"
       }
     ]
   },
@@ -3117,7 +6444,8 @@
         "src": "pribor/z0000041/01",
         "alt": "Zaštita za stopala 30"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000068",
@@ -3133,6 +6461,12 @@
       {
         "src": "pribor/z0000068/01",
         "alt": "Čizme 8 sa čeličnom zaštitom za rad visokim pritiskom"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "S5, eu 44 / uk 10"
       }
     ]
   },
@@ -3150,6 +6484,20 @@
       {
         "src": "pribor/z0000075/01",
         "alt": "Kecelja tex 30"
+      },
+      {
+        "src": "pribor/z0000075/02",
+        "alt": "Kecelja tex 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000075/03",
+        "alt": "Kecelja tex 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "PPE according EU 2016/425, one size"
       }
     ]
   },
@@ -3166,6 +6514,20 @@
       {
         "src": "pribor/z0000076/01",
         "alt": "Zaštitno odelo tex 1"
+      },
+      {
+        "src": "pribor/z0000076/02",
+        "alt": "Zaštitno odelo tex 1, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000076/03",
+        "alt": "Zaštitno odelo tex 1, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "veličina L (corresponds to veličina 50/52)"
       }
     ]
   },
@@ -3183,6 +6545,24 @@
       {
         "src": "pribor/z0000079/01",
         "alt": "Zaštitno odelo tex 3"
+      },
+      {
+        "src": "pribor/z0000079/02",
+        "alt": "Zaštitno odelo tex 3, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000079/03",
+        "alt": "Zaštitno odelo tex 3, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "U kompletu",
+        "value": "kneepad"
+      },
+      {
+        "label": "Ostalo",
+        "value": "veličina L (corresponds to veličina 50/52)"
       }
     ]
   },
@@ -3198,7 +6578,8 @@
         "src": "pribor/z0000100/01",
         "alt": "Posuda za pesak 120 l"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000117",
@@ -3215,6 +6596,20 @@
       {
         "src": "pribor/z0000117/01",
         "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 055 20° v2a style 20"
       }
     ]
   },
@@ -3237,6 +6632,28 @@
         "src": "pribor/z0000128/01",
         "alt": "Koplje 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "310 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "1000mm"
+      },
+      {
+        "label": "Ostalo",
+        "value": "with stepless pressure regulator, without nozzle"
+      }
     ]
   },
   {
@@ -3251,7 +6668,8 @@
         "src": "pribor/z0000129/01",
         "alt": "Set zaptivki za priključak mlaznice 3000 bar, za style 1/2/3/4/5"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000131",
@@ -3274,6 +6692,36 @@
         "src": "pribor/z0000131/01",
         "alt": "Crevo za čišćenje cevi drainstop 10"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 90mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø11"
+      },
+      {
+        "label": "Ostalo",
+        "value": "50/13"
+      }
     ]
   },
   {
@@ -3288,7 +6736,8 @@
         "src": "pribor/z0000136/01",
         "alt": "Oslonac za rame za koplje do Ø15 mm"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000137",
@@ -3302,7 +6751,8 @@
         "src": "pribor/z0000137/01",
         "alt": "Ručka za koplje do Ø15 mm"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000141",
@@ -3317,6 +6767,16 @@
       {
         "src": "pribor/z0000141/01",
         "alt": "Drainsafe"
+      },
+      {
+        "src": "pribor/z0000141/02",
+        "alt": "Drainsafe, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "safety stop za drainstop hoses"
       }
     ]
   },
@@ -3336,6 +6796,20 @@
         "src": "pribor/z0000142/01",
         "alt": "Rotaciona mlaznica pointspeed 12 one 1200 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70°C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 041 20° v2a style 21"
+      }
     ]
   },
   {
@@ -3354,6 +6828,16 @@
         "src": "pribor/z0000149/01",
         "alt": "Set zaptivki"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "high pressure hose nonstop 12/14/15, 1200/1450/1500 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24"
+      }
     ]
   },
   {
@@ -3369,6 +6853,12 @@
       {
         "src": "pribor/z0000150/01",
         "alt": "Spojnica creva 1500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M24 spoljni navoj x M24 spoljni navoj"
       }
     ]
   },
@@ -3387,6 +6877,20 @@
       {
         "src": "pribor/z0000157/01",
         "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 025 20° v2a style 20"
       }
     ]
   },
@@ -3409,6 +6913,28 @@
         "src": "pribor/z0000164/01",
         "alt": "Koplje 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "1000mm"
+      },
+      {
+        "label": "Ostalo",
+        "value": "with stepless pressure regulator, without nozzle"
+      }
     ]
   },
   {
@@ -3427,6 +6953,20 @@
         "src": "pribor/z0000166/01",
         "alt": "Glava za peskarenje, bor-karbid, 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 045 style 16"
+      }
     ]
   },
   {
@@ -3444,6 +6984,20 @@
       {
         "src": "pribor/z0000167/01",
         "alt": "Glava za peskarenje, bor-karbid, 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 055 style 16"
       }
     ]
   },
@@ -3468,6 +7022,36 @@
         "src": "pribor/z0000172/01",
         "alt": "Crevo za čišćenje cevi drainstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "30m, 10mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/15"
+      }
     ]
   },
   {
@@ -3488,6 +7072,28 @@
         "src": "pribor/z0000173/01",
         "alt": "Usisno crevo za pesak 15 m + visokopritisno crevo nonstop 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN10"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x M22 unutrašnji navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m"
+      }
     ]
   },
   {
@@ -3502,7 +7108,8 @@
         "src": "pribor/z0000174/01",
         "alt": "Usisno crevo za pesak 7 m"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000180",
@@ -3520,6 +7127,20 @@
         "src": "pribor/z0000180/01",
         "alt": "Rotaciona mlaznica pointspeed 3 one 350 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 045 20° style 19"
+      }
     ]
   },
   {
@@ -3535,6 +7156,12 @@
       {
         "src": "pribor/z0000184/01",
         "alt": "Set za popravku pointspeed 12 one, veličina mlaznice 041"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "Z0000142"
       }
     ]
   },
@@ -3556,6 +7183,40 @@
         "src": "pribor/z0000208/01",
         "alt": "Visokopritisni pištolj 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "+5 – +70 °C"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M26×1,5ig"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M26×1,5ig"
+      },
+      {
+        "label": "Safety plus",
+        "value": "Da"
+      },
+      {
+        "label": "Priključak upravljačkog kabla",
+        "value": "utikač, 7 pinova"
+      },
+      {
+        "label": "Masa",
+        "value": "1,05 kg"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "255 × 207 × 45 mm"
+      }
     ]
   },
   {
@@ -3574,6 +7235,32 @@
         "src": "pribor/z0000209/01",
         "alt": "Visokopritisni pištolj 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar (7252 psi)"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "+5 – +98 °C"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ag"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M22×1,5ig"
+      },
+      {
+        "label": "Masa",
+        "value": "0,84 kg"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "229 × 195 × 45 mm"
+      }
     ]
   },
   {
@@ -3591,6 +7278,32 @@
       {
         "src": "pribor/z0000210/01",
         "alt": "Visokopritisni pištolj 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "300 bar (4351 psi)"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "+5 – +100 °C"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ag"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M22×1,5ig"
+      },
+      {
+        "label": "Masa",
+        "value": "0,76 kg"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "227 × 192 × 45 mm"
       }
     ]
   },
@@ -3614,6 +7327,32 @@
         "src": "pribor/z0000211/01",
         "alt": "Crevo za čišćenje cevi drainstop 10"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "30m, 90mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø11"
+      },
+      {
+        "label": "Ostalo",
+        "value": "50/13"
+      }
     ]
   },
   {
@@ -3630,6 +7369,12 @@
         "src": "pribor/z0000214/01",
         "alt": "Bubanj za visokopritisno crevo nonstop 13/14/25/30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "max 20m"
+      }
     ]
   },
   {
@@ -3645,6 +7390,12 @@
       {
         "src": "pribor/z0000216/01",
         "alt": "Upravljački kabl, 7 pinova"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Dužina",
+        "value": "25m"
       }
     ]
   },
@@ -3665,6 +7416,36 @@
         "src": "pribor/z0000217/01",
         "alt": "Visokopritisni dump pištolj 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "+5 – +70 °C"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M26×1,5ig"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M26×1,5ig"
+      },
+      {
+        "label": "Safety plus",
+        "value": "Da"
+      },
+      {
+        "label": "Masa",
+        "value": "2,35 kg"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "351,5 × 246 × 45 mm"
+      }
     ]
   },
   {
@@ -3680,6 +7461,12 @@
       {
         "src": "pribor/z0000218/01",
         "alt": "Razdelnik Geka – 2 × Geka"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "with ball valve"
       }
     ]
   },
@@ -3698,6 +7485,12 @@
         "src": "pribor/z0000225/01",
         "alt": "Rukavice za rad mlazom"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "water absorbing neoprene, veličina XL (10)"
+      }
     ]
   },
   {
@@ -3715,6 +7508,12 @@
         "src": "pribor/z0000226/01",
         "alt": "Rukavice za rad mlazom"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "water absorbing neoprene, veličina L (9)"
+      }
     ]
   },
   {
@@ -3731,6 +7530,12 @@
       {
         "src": "pribor/z0000234/01",
         "alt": "Veliki set za popravku"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "pointspeed regulation 30, Z0000582/Z0000573/Z0000564"
       }
     ]
   },
@@ -3750,6 +7555,20 @@
         "src": "pribor/z0000253/01",
         "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 035 20° v2a style 20"
+      }
     ]
   },
   {
@@ -3767,6 +7586,20 @@
       {
         "src": "pribor/z0000256/01",
         "alt": "Glava za peskarenje, bor-karbid, 500 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 030 style 16"
       }
     ]
   },
@@ -3787,6 +7620,24 @@
       {
         "src": "pribor/z0000257/01",
         "alt": "Twister 30 260vc3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M26 unutrašnji navoj/quicklock"
+      },
+      {
+        "label": "Protok",
+        "value": "16/4  nozzle 2500 bar 18l/min  A1+B1+C1+D1=0"
+      },
+      {
+        "label": "Ostalo",
+        "value": "45mm style 9, vp=1x040 style 22"
       }
     ]
   },
@@ -3812,6 +7663,32 @@
         "src": "pribor/z0000304/01",
         "alt": "Glava za čišćenje rezervoara 4"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "maks. 45kW, 200-400bar, maks. 60 rpm, 4x style 12"
+      },
+      {
+        "label": "Protok",
+        "value": "15-60l/min"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø:170mm/l:152mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/2\"ig"
+      },
+      {
+        "label": "Temperatura",
+        "value": "maks. 90°C"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "060"
+      }
     ]
   },
   {
@@ -3827,6 +7704,12 @@
       {
         "src": "pribor/z0000320/01",
         "alt": "Upravljački kabl, 7 pinova"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Dužina",
+        "value": "50m"
       }
     ]
   },
@@ -3846,6 +7729,20 @@
         "src": "pribor/z0000322/01",
         "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 030 20° v2a style 20"
+      }
     ]
   },
   {
@@ -3862,6 +7759,12 @@
         "src": "pribor/z0000404/01",
         "alt": "Sigurnosna obujmica 40 mm za visokopritisno crevo nonstop 25/30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "gun ili machine"
+      }
     ]
   },
   {
@@ -3876,7 +7779,8 @@
         "src": "pribor/z0000406/01",
         "alt": "Sigurnosna obujmica 205 mm, priključak quicklock, za visokopritisno crevo nonstop 25/30"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000504",
@@ -3894,6 +7798,23 @@
         "src": "pribor/z0000504/01",
         "alt": "Filter jedinica 200"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "10 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "40 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "200 l/min"
+      }
+    ],
+    "standard": [
+      "E1600089"
     ]
   },
   {
@@ -3908,7 +7829,8 @@
         "src": "pribor/z0000534/01",
         "alt": "Bubanj sa crevom za vodu 3/4\", 25 m"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000546",
@@ -3931,6 +7853,36 @@
       {
         "src": "pribor/z0000546/01",
         "alt": "Rotaciona mlaznica pointspeed regulation 5"
+      },
+      {
+        "src": "pribor/z0000546/02",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000546/03",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 40kW, 1+2=0, 70mm 3+4=0, 90mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 500 bar 28 l/min"
       }
     ]
   },
@@ -3957,6 +7909,28 @@
         "src": "pribor/z0000556/01",
         "alt": "Drainspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "maks. 280kW, 500-3000bar, maks. 1500 rpm, 3/1, 0/3x90°/0/0, style: 5"
+      },
+      {
+        "label": "Protok",
+        "value": "10-50l/min"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø:880mm/l:210mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh ig"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "016"
+      }
     ]
   },
   {
@@ -3978,6 +7952,32 @@
       {
         "src": "pribor/z0000564/01",
         "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      },
+      {
+        "src": "pribor/z0000564/02",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000564/03",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "6/2, 125kW, 35mm 4+5+6=0, 40mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16\"unf-lh in. thr."
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 2500 bar 19 l/min 1+2+3=0"
       }
     ]
   },
@@ -3996,6 +7996,12 @@
         "src": "pribor/z0000570/01",
         "alt": "Drain helper 250"
       }
+    ],
+    "specs": [
+      {
+        "label": "Dimenzije",
+        "value": "Øout: 300-900mm, l: 859mm"
+      }
     ]
   },
   {
@@ -4009,8 +8015,17 @@
       {
         "src": "pribor/z0000571/01",
         "alt": "Plafonski i podni helper 125"
+      },
+      {
+        "src": "pribor/z0000571/02",
+        "alt": "Plafonski i podni helper 125, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000571/03",
+        "alt": "Plafonski i podni helper 125, fotografija 3"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000572",
@@ -4028,6 +8043,35 @@
         "src": "pribor/z0000572/01",
         "alt": "Filter jedinica 600"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "0 – 10 bar (0 – 145 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "0 – 600 l/min (0 – 158,5 US gal/min)"
+      },
+      {
+        "label": "Priključak izlaza vode",
+        "value": "Geka / C52"
+      },
+      {
+        "label": "Dužina × širina × visina",
+        "value": "1305 × 590 × 660 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "66 kg"
+      },
+      {
+        "label": "Temperatura vode",
+        "value": "0 – +80 °C"
+      }
+    ],
+    "standard": [
+      "E1600090"
     ]
   },
   {
@@ -4049,6 +8093,32 @@
       {
         "src": "pribor/z0000573/01",
         "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      },
+      {
+        "src": "pribor/z0000573/02",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000573/03",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 125kW, 50mm 3+4=0, 40mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16\"unf-lh unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 2500 bar 19 l/min 1+2=0"
       }
     ]
   },
@@ -4075,6 +8145,68 @@
         "src": "pribor/z0000574/01",
         "alt": "Drainspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 – 3000 bar (7252 – 43511 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "20 – 50 l/min (5,3 – 13,2 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø106 – 300 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "4× 135°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "3× 90°"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "4× 45°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "12 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "9"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1+2+3+4+5=0, 6+7+8=0032, 9=0025, 10=0, 11+12=0025"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "2500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "101 × 251 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "3,38 kg"
+      }
     ]
   },
   {
@@ -4090,6 +8222,16 @@
       {
         "src": "pribor/z0000579/01",
         "alt": "Navojna spojnica quicklock 3000 bar"
+      },
+      {
+        "src": "pribor/z0000579/02",
+        "alt": "Navojna spojnica quicklock 3000 bar, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh x quicklock za high pressure hose nonstop 25/30"
       }
     ]
   },
@@ -4108,6 +8250,12 @@
         "src": "pribor/z0000580/01",
         "alt": "Dupli nipl quicklock 3000 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x M26 spoljni navoj, quicklock za machine/gun"
+      }
     ]
   },
   {
@@ -4123,6 +8271,12 @@
       {
         "src": "pribor/z0000581/01",
         "alt": "Set zaptivki"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "quicklock"
       }
     ]
   },
@@ -4145,6 +8299,32 @@
       {
         "src": "pribor/z0000582/01",
         "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      },
+      {
+        "src": "pribor/z0000582/02",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000582/03",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 40kW, 50mm 3+4=0, 45mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16\"unf-lh unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 1000 bar 13 l/min 1+2=0"
       }
     ]
   },
@@ -4165,6 +8345,12 @@
         "src": "pribor/z0000585/01",
         "alt": "Radio upravljanje"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "6-channel, bj/tj 125, easy 1, range about 100m"
+      }
     ]
   },
   {
@@ -4181,6 +8367,12 @@
       {
         "src": "pribor/z0000588/01",
         "alt": "Spojnica creva 3000 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x M26 spoljni navoj, quicklock"
       }
     ]
   },
@@ -4200,6 +8392,28 @@
       {
         "src": "pribor/z0000591/01",
         "alt": "Podvodna jedinica 3000 bar"
+      },
+      {
+        "src": "pribor/z0000591/02",
+        "alt": "Podvodna jedinica 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000591/03",
+        "alt": "Podvodna jedinica 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M26 spoljni navoj x M26 unutrašnji navoj"
+      },
+      {
+        "label": "U kompletu",
+        "value": "nozzle holder za style 3"
+      },
+      {
+        "label": "Ostalo",
+        "value": "4, 5"
       }
     ]
   },
@@ -4220,6 +8434,28 @@
       {
         "src": "pribor/z0000593/01",
         "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
       }
     ]
   },
@@ -4242,6 +8478,32 @@
         "src": "pribor/z0000594/01",
         "alt": "Visokopritisno crevo nonstop 25 ph"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "2500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN5"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj/ quicklock"
+      },
+      {
+        "label": "Dužina",
+        "value": "5m"
+      },
+      {
+        "label": "Ostalo",
+        "value": "safety plus"
+      }
     ]
   },
   {
@@ -4262,6 +8524,28 @@
         "src": "pribor/z0000599/01",
         "alt": "Visokopritisno crevo nonstop 30 ph"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m"
+      }
     ]
   },
   {
@@ -4278,6 +8562,12 @@
         "src": "pribor/z0000602/01",
         "alt": "Veliki set za popravku za pointspeed regulation 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "Z0000776/546"
+      }
     ]
   },
   {
@@ -4292,7 +8582,8 @@
         "src": "pribor/z0000603/01",
         "alt": "Set točkova za twister 30"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000609",
@@ -4307,6 +8598,12 @@
       {
         "src": "pribor/z0000609/01",
         "alt": "Kalem za upravljački kabl"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "maks. 75 m"
       }
     ]
   },
@@ -4333,6 +8630,64 @@
         "src": "pribor/z0000614/01",
         "alt": "Drainspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 – 3000 bar (7252 – 43511 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "20 – 50 l/min (5,3 – 13,2 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø106 – 300 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "9/16'' unf-lh ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "4× 135°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "3× 90°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "3× 45° x-jet"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "10 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "9"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1+2+3=0, 4+5+6=0032, 7=0025, 8=0, 9+10=0025"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "2500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "101 × 234 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "2,74 kg"
+      }
     ]
   },
   {
@@ -4350,6 +8705,20 @@
       {
         "src": "pribor/z0000620/01",
         "alt": "Filter jedinica 15"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "10 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "40 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "15 l/min"
       }
     ]
   },
@@ -4372,6 +8741,32 @@
         "src": "pribor/z0000624/01",
         "alt": "Visokopritisno crevo nonstop 30 ph"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN6"
+      },
+      {
+        "label": "Priključak",
+        "value": "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock"
+      },
+      {
+        "label": "Dužina",
+        "value": "5m"
+      },
+      {
+        "label": "Ostalo",
+        "value": "safety plus"
+      }
     ]
   },
   {
@@ -4387,6 +8782,16 @@
       {
         "src": "pribor/z0000630/01",
         "alt": "Tandem manager 500 bar"
+      },
+      {
+        "src": "pribor/z0000630/02",
+        "alt": "Tandem manager 500 bar, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x M22 spoljni navoj x M22 spoljni navoj"
       }
     ]
   },
@@ -4411,7 +8816,48 @@
       {
         "src": "pribor/z0000636/01",
         "alt": "Base filt 50 band"
+      },
+      {
+        "src": "pribor/z0000636/02",
+        "alt": "Base filt 50 band, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000636/03",
+        "alt": "Base filt 50 band, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Protok",
+        "value": "0 - 50 l/min"
+      },
+      {
+        "label": "Temperatura",
+        "value": "80 °C"
+      },
+      {
+        "label": "Ostalo",
+        "value": "filter area 1, 6 m², width filter fleece 1 m"
+      },
+      {
+        "label": "Napon",
+        "value": "400 V/50 Hz/16 A"
+      },
+      {
+        "label": "Dužina",
+        "value": "5 m"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "264 x 158 x 187 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "822 kg"
+      }
+    ],
+    "standard": [
+      "E1600090"
     ]
   },
   {
@@ -4428,6 +8874,12 @@
       {
         "src": "pribor/z0000653/01",
         "alt": "Kablovsko daljinsko upravljanje easy 1 za Base Jet/Trail Jet 15/30/125, sa 2 × 50 m upravljačkog kabla"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "emergency stop, maks. range 200m cable"
       }
     ]
   },
@@ -4452,6 +8904,24 @@
         "src": "pribor/z0000664/01",
         "alt": "Rotaciona mlaznica pointspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 125kW, 1+2=0, 50mm 3+4=0, 40mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16\"unf-lh unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 2500 bar 19 l/min"
+      }
     ]
   },
   {
@@ -4468,6 +8938,12 @@
         "src": "pribor/z0000669/01",
         "alt": "Razdelnik dovoda vode, 6 × brza spojnica 3/4\""
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "2 x C/52"
+      }
     ]
   },
   {
@@ -4482,7 +8958,8 @@
         "src": "pribor/z0000670/01",
         "alt": "Brza regulaciona slavina C/52"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000672",
@@ -4497,6 +8974,20 @@
       {
         "src": "pribor/z0000672/01",
         "alt": "Zaštitna jakna tex 30, nivo zaštite 20/30"
+      },
+      {
+        "src": "pribor/z0000672/02",
+        "alt": "Zaštitna jakna tex 30, nivo zaštite 20/30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000672/03",
+        "alt": "Zaštitna jakna tex 30, nivo zaštite 20/30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "CE 89/686/EEC veličina L/XL"
       }
     ]
   },
@@ -4514,6 +9005,24 @@
       {
         "src": "pribor/z0000675/01",
         "alt": "Zaštitne pantalone tex 30"
+      },
+      {
+        "src": "pribor/z0000675/02",
+        "alt": "Zaštitne pantalone tex 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000675/03",
+        "alt": "Zaštitne pantalone tex 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "U kompletu",
+        "value": "kneepad nivo zaštite 20/30"
+      },
+      {
+        "label": "Ostalo",
+        "value": "CE 89/686/EEC veličina L/XL"
       }
     ]
   },
@@ -4529,7 +9038,8 @@
         "src": "pribor/z0000688/01",
         "alt": "Bubanj sa crevom za vodu C/52, 20 m"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000690",
@@ -4543,7 +9053,8 @@
         "src": "pribor/z0000690/01",
         "alt": "Razdelnik C/CC sa kuglastim slavinama"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000699",
@@ -4562,6 +9073,32 @@
       {
         "src": "pribor/z0000699/01",
         "alt": "Pumpa za vodu P450"
+      },
+      {
+        "src": "pribor/z0000699/02",
+        "alt": "Pumpa za vodu P450, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000699/03",
+        "alt": "Pumpa za vodu P450, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "5 bar"
+      },
+      {
+        "label": "Ostalo",
+        "value": "maks. 50 m delivery height, 50 Hz"
+      },
+      {
+        "label": "Protok",
+        "value": "maks. 450 l/min"
+      },
+      {
+        "label": "Napon",
+        "value": "400 V"
       }
     ]
   },
@@ -4577,7 +9114,8 @@
         "src": "pribor/z0000701/01",
         "alt": "Usisna korpa C/52 sa nepovratnim ventilom"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0000702",
@@ -4593,6 +9131,16 @@
       {
         "src": "pribor/z0000702/01",
         "alt": "Usisno crevo C/52"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "2"
+      },
+      {
+        "label": "Dužina",
+        "value": "5 m"
       }
     ]
   },
@@ -4613,6 +9161,32 @@
       {
         "src": "pribor/z0000718/01",
         "alt": "Cont sed 100"
+      },
+      {
+        "src": "pribor/z0000718/02",
+        "alt": "Cont sed 100, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000718/03",
+        "alt": "Cont sed 100, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Protok",
+        "value": "0 - 100 l/min"
+      },
+      {
+        "label": "Ugao mlaza",
+        "value": "80° C"
+      },
+      {
+        "label": "Ostalo",
+        "value": "volume 7000 l, 391 x 188 x 169 cm"
+      },
+      {
+        "label": "Masa",
+        "value": "1850 kg"
       }
     ]
   },
@@ -4637,6 +9211,36 @@
         "src": "pribor/z0000769/01",
         "alt": "Crevo za čišćenje cevi drainstop 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M7 spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 4"
+      },
+      {
+        "label": "Dužina",
+        "value": "7m, 80mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø7"
+      },
+      {
+        "label": "Ostalo",
+        "value": "90/9"
+      }
     ]
   },
   {
@@ -4660,6 +9264,36 @@
         "src": "pribor/z0000770/01",
         "alt": "Crevo za čišćenje cevi drainstop 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj x M7 spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 4"
+      },
+      {
+        "label": "Dužina",
+        "value": "15m, 80mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø7"
+      },
+      {
+        "label": "Ostalo",
+        "value": "90/9"
+      }
     ]
   },
   {
@@ -4681,6 +9315,32 @@
       {
         "src": "pribor/z0000774/01",
         "alt": "Crevo za čišćenje cevi drainstop 30"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj DN 4"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 80mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø9"
+      },
+      {
+        "label": "Ostalo",
+        "value": "90/12"
       }
     ]
   },
@@ -4704,6 +9364,32 @@
         "src": "pribor/z0000775/01",
         "alt": "Crevo za čišćenje cevi drainstop 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj DN 4"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m, 80mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø9"
+      },
+      {
+        "label": "Ostalo",
+        "value": "90/12"
+      }
     ]
   },
   {
@@ -4726,6 +9412,36 @@
       {
         "src": "pribor/z0000776/01",
         "alt": "Rotaciona mlaznica pointspeed regulation 5"
+      },
+      {
+        "src": "pribor/z0000776/02",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000776/03",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 15kW, 65mm 3+4=0, 55mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "500 bar 15 l/min 1+2=0"
       }
     ]
   },
@@ -4743,6 +9459,12 @@
       {
         "src": "pribor/z0000782/01",
         "alt": "Veliki set za popravku"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "pointspeed 30/corner 30, Z0001008/Z0000664/Z0000833"
       }
     ]
   },
@@ -4764,6 +9486,16 @@
         "src": "pribor/z0000796/01",
         "alt": "Y-razdelnik 500 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "1 x M22x1, 5 unutrašnji navoj, 2 x M22x1, 5 spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN10"
+      }
     ]
   },
   {
@@ -4782,6 +9514,20 @@
         "src": "pribor/z0000809/01",
         "alt": "Rotaciona mlaznica pointspeed 3 one 350 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 060 20° style 19"
+      }
     ]
   },
   {
@@ -4798,6 +9544,16 @@
       {
         "src": "pribor/z0000823/01",
         "alt": "Tandem manager 3000 bar"
+      },
+      {
+        "src": "pribor/z0000823/02",
+        "alt": "Tandem manager 3000 bar, fotografija 2"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Priključak",
+        "value": "3x M36 x 2, 0 unutrašnji navoj"
       }
     ]
   },
@@ -4820,6 +9576,32 @@
       {
         "src": "pribor/z0000829/01",
         "alt": "Koplje 1 weed ex"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "100 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN7"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 13"
+      },
+      {
+        "label": "Dužina",
+        "value": "1mm, 900mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj"
       }
     ]
   },
@@ -4847,6 +9629,64 @@
         "src": "pribor/z0000845/01",
         "alt": "Drainspeed 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 – 1500 bar (7252 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "30 – 130 l/min (7,9 – 34,3 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø106 – 318 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M24×1,5ag"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "4× 135°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "3× 90°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "3× 45° x-jet"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "10 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "9"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1+2+3=0, 4+5+6+7=013, 8=0, 9+10=013"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "2500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "101 × 252 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "2,78 kg"
+      }
     ]
   },
   {
@@ -4873,6 +9713,68 @@
         "src": "pribor/z0000846/01",
         "alt": "Drainspeed 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 – 1500 bar (7252 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "30 – 130 l/min (7,9 – 34,3 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø106 – 318 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M24×1,5ag"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "4× 135°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "3× 90°"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "4× 45°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 0°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "12 / 0"
+      },
+      {
+        "label": "Tip (style)",
+        "value": "9"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "1+2+3+4+5=0, 6+7+8+9=013, 10=0, 11+12=013"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "2500 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "101 × 269 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "3,41 kg"
+      }
     ]
   },
   {
@@ -4894,6 +9796,32 @@
       {
         "src": "pribor/z0000847/01",
         "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 8"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 10mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/16"
       }
     ]
   },
@@ -4918,6 +9846,36 @@
         "src": "pribor/z0000848/01",
         "alt": "Crevo za čišćenje cevi drainstop 10"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m, 10mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "40/16"
+      }
     ]
   },
   {
@@ -4937,6 +9895,24 @@
         "src": "pribor/z0000853/01",
         "alt": "Reduktor pritiska 16 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "60 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "38 l/min"
+      },
+      {
+        "label": "U kompletu",
+        "value": "manometer"
+      },
+      {
+        "label": "Priključak",
+        "value": "geka"
+      }
     ]
   },
   {
@@ -4955,6 +9931,24 @@
       {
         "src": "pribor/z0000854/01",
         "alt": "Reduktor pritiska 16 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "30 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "370 l/min"
+      },
+      {
+        "label": "U kompletu",
+        "value": "manometer"
+      },
+      {
+        "label": "Priključak",
+        "value": "c/52"
       }
     ]
   },
@@ -4978,6 +9972,36 @@
       {
         "src": "pribor/z0000862/01",
         "alt": "Crevo za čišćenje cevi drainstop 30"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 5"
+      },
+      {
+        "label": "Dužina",
+        "value": "20m, 80mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø13"
+      },
+      {
+        "label": "Ostalo",
+        "value": "30/17"
       }
     ]
   },
@@ -5003,7 +10027,32 @@
       {
         "src": "pribor/z0000866/01",
         "alt": "Scater 30 380 v paintshop 3000 bar"
+      },
+      {
+        "src": "pribor/z0000866/02",
+        "alt": "Scater 30 380 v paintshop 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000866/03",
+        "alt": "Scater 30 380 v paintshop 3000 bar, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "a-drive, 16/4, + -10°, nozzle 2500 bar, 24 l / min, hard, style 9, angle 20°/-20°"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70°C"
+      },
+      {
+        "label": "Protok",
+        "value": "40 l/min"
+      }
+    ],
+    "standard": [
+      "Z073"
     ]
   },
   {
@@ -5026,6 +10075,36 @@
       {
         "src": "pribor/z0000884/01",
         "alt": "Crevo za čišćenje cevi drainstop 15"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "1500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 6"
+      },
+      {
+        "label": "Dužina",
+        "value": "10m, 40mm"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø12"
+      },
+      {
+        "label": "Ostalo",
+        "value": "60/16"
       }
     ]
   },
@@ -5054,6 +10133,64 @@
         "src": "pribor/z0000898/01",
         "alt": "Drainspeed 15"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "100 – 1500 bar (1450 – 21756 psi)"
+      },
+      {
+        "label": "Protok",
+        "value": "10 – 30 l/min (2,6 – 7,9 US gal/min)"
+      },
+      {
+        "label": "Područje primene: Ø cevi / kanala",
+        "value": "Ø14,5 – 30 mm"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M7ig"
+      },
+      {
+        "label": "Potisni mlaz (A)",
+        "value": "2× 140°"
+      },
+      {
+        "label": "Bočni mlaz (B)",
+        "value": "2× 90°"
+      },
+      {
+        "label": "Kočioni mlaz (C)",
+        "value": "1× 60°"
+      },
+      {
+        "label": "Prednji mlaz (D)",
+        "value": "1× 30°, 1× 20°"
+      },
+      {
+        "label": "Broj uložaka mlaznica (navoj/otvor)",
+        "value": "0 / 7"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "035"
+      },
+      {
+        "label": "Najveći broj obrtaja",
+        "value": "12000 rpm"
+      },
+      {
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "label": "Ø × dužina",
+        "value": "9,5 × 68 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,3 kg"
+      }
     ]
   },
   {
@@ -5073,6 +10210,12 @@
         "src": "pribor/z0000961/01",
         "alt": "Radio upravljanje"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4-channel, bj/tj 125/250/500, easy 2, range about 100m"
+      }
     ]
   },
   {
@@ -5090,6 +10233,20 @@
       {
         "src": "pribor/z0000965/01",
         "alt": "Rotaciona mlaznica pointspeed 12 one 1200 bar"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70°C"
+      },
+      {
+        "label": "Priključak",
+        "value": "M24 unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 021 20° v2a style 21"
       }
     ]
   },
@@ -5113,7 +10270,36 @@
       {
         "src": "pribor/z0000969/01",
         "alt": "Scater 5 380 vp (025) 500 bar"
+      },
+      {
+        "src": "pribor/z0000969/02",
+        "alt": "Scater 5 380 vp (025) 500 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0000969/03",
+        "alt": "Scater 5 380 vp (025) 500 bar, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "98 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "60 l/min, 30 l/min"
+      },
+      {
+        "label": "Ostalo",
+        "value": "20/10, nozzle 500 bar, soft, style 9, angle 18°"
+      }
+    ],
+    "standard": [
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "F0000040",
+      "Z073"
     ]
   },
   {
@@ -5130,6 +10316,12 @@
         "src": "pribor/z0000987/01",
         "alt": "Set za popravku pointspeed 12 one, veličina mlaznice 021"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "Z0000965"
+      }
     ]
   },
   {
@@ -5144,7 +10336,8 @@
         "src": "pribor/z0000988/01",
         "alt": "Zaštitni šlem, kombinovani"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z0001008",
@@ -5166,6 +10359,24 @@
       {
         "src": "pribor/z0001008/01",
         "alt": "Rotaciona mlaznica pointspeed 30"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "4/2, 40kW, 1+2=0, 50mm 3+4=0, 55mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16\"unf-lh unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "nozzle 1000 bar 16 l/min"
       }
     ]
   },
@@ -5191,6 +10402,24 @@
         "src": "pribor/z0001011/01",
         "alt": "Rotaciona mlaznica pointspeed 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "6/3, 40 kW, nozzle 2000 bar, 1+2=0, 40mm 5+6=0, 20mm style 9"
+      },
+      {
+        "label": "Radni pritisak",
+        "value": "3000 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "70 °C 9/16 unf-lh unutrašnji navoj"
+      },
+      {
+        "label": "Protok",
+        "value": "8 l/min"
+      }
     ]
   },
   {
@@ -5210,7 +10439,36 @@
       {
         "src": "pribor/z0001020/01",
         "alt": "Base filt 50 big bag"
+      },
+      {
+        "src": "pribor/z0001020/02",
+        "alt": "Base filt 50 big bag, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001020/03",
+        "alt": "Base filt 50 big bag, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Protok",
+        "value": "0 - 50 l/min"
+      },
+      {
+        "label": "Temperatura",
+        "value": "80 °C"
+      },
+      {
+        "label": "Ostalo",
+        "value": "filter surface 5 m², 134 x 124 x 158 cm"
+      },
+      {
+        "label": "Masa",
+        "value": "275 kg"
+      }
+    ],
+    "standard": [
+      "E0190122"
     ]
   },
   {
@@ -5228,6 +10486,12 @@
         "src": "pribor/z0001022/01",
         "alt": "Radio upravljanje"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "gun, range about 100 m"
+      }
     ]
   },
   {
@@ -5244,6 +10508,20 @@
       {
         "src": "pribor/z0001717/01",
         "alt": "Kablovsko daljinsko upravljanje easy 2 za Base Jet/Trail Jet 15-500 easy 2"
+      },
+      {
+        "src": "pribor/z0001717/02",
+        "alt": "Kablovsko daljinsko upravljanje easy 2 za Base Jet/Trail Jet 15-500 easy 2, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001717/03",
+        "alt": "Kablovsko daljinsko upravljanje easy 2 za Base Jet/Trail Jet 15-500 easy 2, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "emergency stop, maks. range 200m cable"
       }
     ]
   },
@@ -5267,6 +10545,28 @@
       {
         "src": "pribor/z0001725/01",
         "alt": "Scater 5 260 v formworks 500 bar"
+      },
+      {
+        "src": "pribor/z0001725/02",
+        "alt": "Scater 5 260 v formworks 500 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001725/03",
+        "alt": "Scater 5 260 v formworks 500 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "98 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "30 l/min, 15 l/min"
+      },
+      {
+        "label": "Ostalo",
+        "value": "12/6, nozzle 500 bar, medium, style 9, angle 20°"
       }
     ]
   },
@@ -5287,6 +10587,32 @@
       {
         "src": "pribor/z0001740/01",
         "alt": "Base sed 30"
+      },
+      {
+        "src": "pribor/z0001740/02",
+        "alt": "Base sed 30, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001740/03",
+        "alt": "Base sed 30, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Protok",
+        "value": "0 - 30 l/min"
+      },
+      {
+        "label": "Temperatura",
+        "value": "80°C"
+      },
+      {
+        "label": "Ostalo",
+        "value": "volume 535 l, 120 x 80  x 80 cm"
+      },
+      {
+        "label": "Masa",
+        "value": "74 kg"
       }
     ]
   },
@@ -5310,7 +10636,36 @@
       {
         "src": "pribor/z0001746/01",
         "alt": "Scater 5 260 vp (030) 500 bar"
+      },
+      {
+        "src": "pribor/z0001746/02",
+        "alt": "Scater 5 260 vp (030) 500 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001746/03",
+        "alt": "Scater 5 260 vp (030) 500 bar, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "98 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "30 l/min, 24 l/min"
+      },
+      {
+        "label": "Ostalo",
+        "value": "12/6, nozzle 300 bar, soft, style 9, angle 25°"
+      }
+    ],
+    "standard": [
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "F0000040",
+      "Z073"
     ]
   },
   {
@@ -5333,6 +10688,28 @@
       {
         "src": "pribor/z0001747/01",
         "alt": "Scater 30 380 v 3000 bar"
+      },
+      {
+        "src": "pribor/z0001747/02",
+        "alt": "Scater 30 380 v 3000 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001747/03",
+        "alt": "Scater 30 380 v 3000 bar, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "70°C"
+      },
+      {
+        "label": "Protok",
+        "value": "45 l/min"
+      },
+      {
+        "label": "Ostalo",
+        "value": "20/10, nozzle 2500 bar, 24 l / min, soft, style 9, angle 6°"
       }
     ]
   },
@@ -5356,7 +10733,32 @@
       {
         "src": "pribor/z0001751/01",
         "alt": "Scater 5 260 v 500 bar"
+      },
+      {
+        "src": "pribor/z0001751/02",
+        "alt": "Scater 5 260 v 500 bar, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001751/03",
+        "alt": "Scater 5 260 v 500 bar, fotografija 3"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "98 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "30 l/min, 24 l/min"
+      },
+      {
+        "label": "Ostalo",
+        "value": "12/6, nozzle 300 bar, soft, style 9, angle 18°"
+      }
+    ],
+    "standard": [
+      "F0000040"
     ]
   },
   {
@@ -5383,6 +10785,40 @@
       {
         "src": "pribor/z0001753/01",
         "alt": "Glava za čišćenje rezervoara 15"
+      },
+      {
+        "src": "pribor/z0001753/02",
+        "alt": "Glava za čišćenje rezervoara 15, fotografija 2"
+      },
+      {
+        "src": "pribor/z0001753/03",
+        "alt": "Glava za čišćenje rezervoara 15, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "maks. 500kW, 500-1500bar, maks. 50 rpm, 0ag, 2x style 5 (4, 9, 10)"
+      },
+      {
+        "label": "Protok",
+        "value": "20-310l/min"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Ø:130mm/l:432mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "M36x2"
+      },
+      {
+        "label": "Temperatura",
+        "value": "maks. 70°C"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "172"
       }
     ]
   },
@@ -5398,7 +10834,8 @@
         "src": "pribor/z009/01",
         "alt": "Set brzih spojnica 3/4\""
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z010",
@@ -5412,7 +10849,8 @@
         "src": "pribor/z010/01",
         "alt": "Brza regulaciona slavina 3/4\""
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z015",
@@ -5431,6 +10869,36 @@
         "src": "pribor/z015/01",
         "alt": "Produžno koplje 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "0 – 500 bar (0 – 7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ag"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "M22×1,5ig"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN7"
+      },
+      {
+        "label": "Spoljni prečnik",
+        "value": "42 mm"
+      },
+      {
+        "label": "Dužina",
+        "value": "0 mm"
+      },
+      {
+        "label": "Masa",
+        "value": "0,4 kg"
+      }
     ]
   },
   {
@@ -5448,6 +10916,16 @@
         "src": "pribor/z029e001/01",
         "alt": "Set zaptivki"
       }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "high pressure hose nonstop 2/5 220/500 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22"
+      }
     ]
   },
   {
@@ -5463,6 +10941,12 @@
       {
         "src": "pribor/z029e002/01",
         "alt": "Set zaptivki za visokopritisni pištolj 3/5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "300/500 bar"
       }
     ]
   },
@@ -5485,6 +10969,32 @@
         "src": "pribor/z030/01",
         "alt": "Koplje 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "0 – 500 bar (0 – 7252 psi)"
+      },
+      {
+        "label": "Visokopritisni priključak",
+        "value": "M22×1,5ag"
+      },
+      {
+        "label": "Visokopritisni izlazni priključak",
+        "value": "1/4\" ag"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN8"
+      },
+      {
+        "label": "Spoljni prečnik",
+        "value": "14 mm"
+      },
+      {
+        "label": "Dužina",
+        "value": "450 mm"
+      }
     ]
   },
   {
@@ -5505,6 +11015,32 @@
       {
         "src": "pribor/z031/01",
         "alt": "Koplje 5"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "600 mm"
       }
     ]
   },
@@ -5527,6 +11063,32 @@
         "src": "pribor/z032/01",
         "alt": "Koplje 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "900 mm"
+      }
     ]
   },
   {
@@ -5548,6 +11110,32 @@
         "src": "pribor/z033/01",
         "alt": "Koplje 5"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "500 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "155 °C"
+      },
+      {
+        "label": "Nazivni prečnik",
+        "value": "DN 8"
+      },
+      {
+        "label": "Dimenzije",
+        "value": "Øa 14 mm"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 spoljni navoj x 1/4\" spoljni navoj"
+      },
+      {
+        "label": "Dužina",
+        "value": "1200 mm"
+      }
     ]
   },
   {
@@ -5564,6 +11152,16 @@
       {
         "src": "pribor/z036/01",
         "alt": "Adapter za redukciju"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "20 bar"
+      },
+      {
+        "label": "Priključak",
+        "value": "M22 unutrašnji navoj x geka"
       }
     ]
   },
@@ -5585,6 +11183,24 @@
         "src": "pribor/z064/01",
         "alt": "Filter jedinica 30"
       }
+    ],
+    "specs": [
+      {
+        "label": "Radni pritisak",
+        "value": "10 bar"
+      },
+      {
+        "label": "Temperatura",
+        "value": "40 °C"
+      },
+      {
+        "label": "Protok",
+        "value": "30 l/min uklj. holder"
+      },
+      {
+        "label": "Ostalo",
+        "value": "manometer, 2 additional water connections"
+      }
     ]
   },
   {
@@ -5599,7 +11215,8 @@
         "src": "pribor/z073/01",
         "alt": "Držač creva"
       }
-    ]
+    ],
+    "specs": []
   },
   {
     "code": "Z081",
@@ -5617,6 +11234,20 @@
         "src": "pribor/z081/01",
         "alt": "Rotaciona mlaznica pointspeed 2 one 200 bar"
       }
+    ],
+    "specs": [
+      {
+        "label": "Temperatura",
+        "value": "90 °C"
+      },
+      {
+        "label": "Priključak",
+        "value": "1/4\" unutrašnji navoj"
+      },
+      {
+        "label": "Veličina mlaznice",
+        "value": "veličina mlaznice 045 20° style 18"
+      }
     ]
   },
   {
@@ -5632,6 +11263,12 @@
       {
         "src": "pribor/z094/01",
         "alt": "Set vizira"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Ostalo",
+        "value": "5 pieces"
       }
     ]
   }

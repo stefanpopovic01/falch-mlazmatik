@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import CtaBand from "@/components/CtaBand";
 import MachineCard from "@/components/masine/MachineCard";
 import MachineHero from "@/components/masine/MachineHero";
 import AccessoryCard from "@/components/pribor/AccessoryCard";
+import ArrowIcon from "@/components/ui/ArrowIcon";
 import Breadcrumbs from "@/components/ui/Breadcrumbs";
 import Container from "@/components/ui/Container";
 import Gallery from "@/components/ui/Gallery";
@@ -11,7 +13,7 @@ import Img from "@/components/ui/Img";
 import SectionHeading from "@/components/ui/SectionHeading";
 import YouTube from "@/components/ui/YouTube";
 import { company, quoteHref, routes } from "@/content/site";
-import { getAccessory, groupByCategory } from "@/lib/accessories";
+import { categoryHref, getAccessory, groupByCategory } from "@/lib/accessories";
 import { galleryItem } from "@/lib/gallery";
 import { getImage, resolveImage } from "@/lib/images";
 import {
@@ -196,6 +198,13 @@ export default async function MasinaPage({ params }: PageProps<"/proizvodi/masin
                     </li>
                   ))}
                 </ul>
+                <Link
+                  href={categoryHref(group.category.slug)}
+                  className="group/link mb-8 inline-flex items-center gap-2 font-semibold text-brand underline-offset-4 hover:underline"
+                >
+                  Sve u kategoriji {group.category.label}
+                  <ArrowIcon className="transition-transform duration-300 group-hover/link:translate-x-1" />
+                </Link>
               </details>
             ))}
           </div>

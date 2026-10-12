@@ -64,6 +64,19 @@ for (const [i, item] of accessories.entries()) {
   accessorySlugs.add(item.slug);
   if (!categorySlugs.has(item.category)) fail(where, `nepoznata kategorija "${item.category}"`);
   for (const image of item.images ?? []) checkImage(where, image);
+  if ((item.images ?? []).length > 3) fail(where, "najviše 3 slike");
+  for (const spec of item.specs ?? []) {
+    if (!spec.label || !spec.value) fail(where, `nepotpun red specifikacije "${spec.label ?? "?"}"`);
+  }
+}
+for (const item of accessories) {
+  for (const code of item.standard ?? []) {
+    if (!accessoryCodes.has(code)) fail(`accessories.json [${item.code}]`, `standardni pribor "${code}" ne postoji`);
+  }
+}
+for (const category of categories) {
+  if (!category.label || !category.intro) fail(`accessory-categories.json [${category.slug}]`, "nedostaje label ili intro");
+  if (!accessoryCodes.has(category.cover)) fail(`accessory-categories.json [${category.slug}]`, `cover "${category.cover}" ne postoji u accessories.json`);
 }
 
 // ---------- mašine ----------

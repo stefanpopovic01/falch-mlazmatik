@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { type ReactNode, useEffect, useState } from "react";
 import ArrowIcon from "@/components/ui/ArrowIcon";
-import Lightbox from "@/components/ui/Lightbox";
+import ProductGallery from "@/components/ui/ProductGallery";
 import { quoteHref } from "@/content/site";
 import type { ResolvedImage } from "@/lib/images";
 
@@ -23,8 +23,6 @@ const PARAM = "varijanta";
 
 export default function MachineHero({ name, kicker, variants, chips, brochure }: Props) {
   const [variantId, setVariantId] = useState(variants[0].id);
-  const [imageIndex, setImageIndex] = useState(0);
-  const [zoom, setZoom] = useState<number | null>(null);
 
   // Izabrana varijanta se čuva u adresi (?varijanta=...); osnovna mašina je bez parametra.
   useEffect(() => {
@@ -34,12 +32,10 @@ export default function MachineHero({ name, kicker, variants, chips, brochure }:
 
   const variant = variants.find((item) => item.id === variantId) ?? variants[0];
   const isBase = variant === variants[0];
-  const image = variant.images[imageIndex] ?? variant.images[0];
   const quote = quoteHref(variant.itemNumber, isBase ? undefined : variant.label);
 
   const select = (next: Variant) => {
     setVariantId(next.id);
-    setImageIndex(0);
     const url = new URL(window.location.href);
     if (next === variants[0]) url.searchParams.delete(PARAM);
     else url.searchParams.set(PARAM, next.id);
@@ -49,47 +45,8 @@ export default function MachineHero({ name, kicker, variants, chips, brochure }:
   return (
     <div className="mt-8 grid gap-10 lg:grid-cols-12 lg:gap-8">
       <div className="lg:col-span-7">
-        <button
-          type="button"
-          onClick={() => setZoom(imageIndex)}
-          aria-label="Uvećaj sliku"
-          className="relative block aspect-[4/3] w-full cursor-zoom-in overflow-hidden rounded-2xl bg-white ring-1 ring-line"
-        >
-          <img
-            key={image.src}
-            src={image.src}
-            srcSet={image.srcSet}
-            sizes="(min-width: 1024px) 56vw, 100vw"
-            alt={image.alt}
-            fetchPriority="high"
-            className="absolute inset-0 size-full object-contain p-6 lg:p-10"
-          />
-        </button>
-
-        {variant.images.length > 1 && (
-          <ul className="mt-3 grid grid-cols-5 gap-3">
-            {variant.images.map((item, i) => (
-              <li key={item.src}>
-                <button
-                  type="button"
-                  onClick={() => setImageIndex(i)}
-                  aria-label={`Slika ${i + 1} od ${variant.images.length}`}
-                  aria-current={i === imageIndex}
-                  className={`relative block aspect-square w-full overflow-hidden rounded-xl bg-white transition-shadow ${
-                    i === imageIndex ? "ring-2 ring-brand" : "ring-1 ring-line hover:ring-brand-light"
-                  }`}
-                >
-                  <img
-                    src={item.thumb}
-                    alt=""
-                    loading="lazy"
-                    className="absolute inset-0 size-full object-contain p-1.5"
-                  />
-                </button>
-              </li>
-            ))}
-          </ul>
-        )}
+        {/* key vraća galeriju na prvu sliku kada se promeni varijanta */}
+        <ProductGallery key={variant.id} images={variant.images} />
       </div>
 
       <div className="lg:col-span-5 lg:pl-4">
@@ -168,14 +125,6 @@ export default function MachineHero({ name, kicker, variants, chips, brochure }:
         </Link>
       </div>
 
-      <Lightbox
-        images={variant.images.map((item) => item.full)}
-        index={zoom}
-        onChange={(next) => {
-          setZoom(next);
-          if (next !== null) setImageIndex(next);
-        }}
-      />
     </div>
   );
 }

@@ -2575,6 +2575,13 @@
       800
     ]
   },
+  "pribor/c010/02": {
+    "width": 400,
+    "height": 280,
+    "widths": [
+      400
+    ]
+  },
   "pribor/d0030/01": {
     "width": 800,
     "height": 500,
@@ -2847,6 +2854,20 @@
       800
     ]
   },
+  "pribor/e0800164/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800164/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
   "pribor/e0800166/01": {
     "width": 800,
     "height": 500,
@@ -2863,12 +2884,40 @@
       800
     ]
   },
+  "pribor/e0800167/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800167/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
   "pribor/e0800169/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
       800
+    ]
+  },
+  "pribor/e0800169/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800169/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
     ]
   },
   "pribor/e0800173/01": {
@@ -2879,12 +2928,40 @@
       800
     ]
   },
+  "pribor/e0800173/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800173/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
   "pribor/e0800191/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
       800
+    ]
+  },
+  "pribor/e0800191/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800191/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
     ]
   },
   "pribor/e0800244/01": {
@@ -3007,12 +3084,40 @@
       800
     ]
   },
+  "pribor/e0800491/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800491/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
   "pribor/e0800494/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
       800
+    ]
+  },
+  "pribor/e0800494/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800494/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
     ]
   },
   "pribor/e0800503/01": {
@@ -3029,6 +3134,20 @@
     "widths": [
       480,
       800
+    ]
+  },
+  "pribor/e0800514/02": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
+    ]
+  },
+  "pribor/e0800514/03": {
+    "width": 423,
+    "height": 279,
+    "widths": [
+      423
     ]
   },
   "pribor/e0800536/01": {
@@ -3583,6 +3702,13 @@
       800
     ]
   },
+  "pribor/e1500207/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/e1500243/01": {
     "width": 800,
     "height": 500,
@@ -3652,6 +3778,20 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/g312/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/g312/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -3895,6 +4035,20 @@
       800
     ]
   },
+  "pribor/z0000009/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000009/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000041/01": {
     "width": 800,
     "height": 500,
@@ -3919,6 +4073,20 @@
       800
     ]
   },
+  "pribor/z0000075/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000075/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000076/01": {
     "width": 800,
     "height": 500,
@@ -3927,11 +4095,39 @@
       800
     ]
   },
+  "pribor/z0000076/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000076/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000079/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000079/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000079/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -3996,6 +4192,13 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000141/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4271,6 +4474,20 @@
       800
     ]
   },
+  "pribor/z0000546/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000546/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000556/01": {
     "width": 800,
     "height": 500,
@@ -4284,6 +4501,20 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000564/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000564/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4303,6 +4534,20 @@
       800
     ]
   },
+  "pribor/z0000571/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000571/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000572/01": {
     "width": 800,
     "height": 500,
@@ -4319,6 +4564,20 @@
       800
     ]
   },
+  "pribor/z0000573/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000573/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000574/01": {
     "width": 800,
     "height": 500,
@@ -4332,6 +4591,13 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000579/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4359,6 +4625,20 @@
       800
     ]
   },
+  "pribor/z0000582/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000582/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000585/01": {
     "width": 800,
     "height": 500,
@@ -4380,6 +4660,20 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000591/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000591/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4463,11 +4757,32 @@
       800
     ]
   },
+  "pribor/z0000630/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000636/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000636/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000636/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4511,11 +4826,39 @@
       800
     ]
   },
+  "pribor/z0000672/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000672/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000675/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000675/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000675/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4543,6 +4886,20 @@
       800
     ]
   },
+  "pribor/z0000699/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000699/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000701/01": {
     "width": 800,
     "height": 500,
@@ -4564,6 +4921,20 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000718/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000718/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4607,6 +4978,20 @@
       800
     ]
   },
+  "pribor/z0000776/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000776/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000782/01": {
     "width": 800,
     "height": 500,
@@ -4636,6 +5021,13 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000823/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4711,6 +5103,20 @@
       800
     ]
   },
+  "pribor/z0000866/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000866/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0000884/01": {
     "width": 800,
     "height": 500,
@@ -4748,6 +5154,20 @@
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0000969/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0000969/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4791,6 +5211,20 @@
       800
     ]
   },
+  "pribor/z0001020/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001020/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0001022/01": {
     "width": 800,
     "height": 500,
@@ -4807,11 +5241,39 @@
       800
     ]
   },
+  "pribor/z0001717/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001717/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0001725/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0001725/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001725/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4823,11 +5285,39 @@
       800
     ]
   },
+  "pribor/z0001740/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001740/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0001746/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0001746/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001746/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
       800
     ]
   },
@@ -4839,6 +5329,20 @@
       800
     ]
   },
+  "pribor/z0001747/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001747/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0001751/01": {
     "width": 800,
     "height": 500,
@@ -4847,11 +5351,39 @@
       800
     ]
   },
+  "pribor/z0001751/02": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001751/03": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      800
+    ]
+  },
   "pribor/z0001753/01": {
     "width": 800,
     "height": 500,
     "widths": [
       480,
+      800
+    ]
+  },
+  "pribor/z0001753/02": {
+    "width": 800,
+    "height": 534,
+    "widths": [
+      800
+    ]
+  },
+  "pribor/z0001753/03": {
+    "width": 800,
+    "height": 534,
+    "widths": [
       800
     ]
   },
