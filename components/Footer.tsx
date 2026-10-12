@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
+import CookieSettingsButton from "@/components/consent/CookieSettingsButton";
 import Container from "@/components/ui/Container";
 import { company, routes } from "@/content/site";
 
@@ -122,7 +123,7 @@ export default function Footer() {
           <p>
             © {new Date().getFullYear()} {company.name}
           </p>
-          <ul className="flex gap-6">
+          <ul className="flex flex-wrap gap-x-6 gap-y-2">
             <li>
               <Link href={routes.privatnost} className="transition-colors hover:text-white">
                 Privatnost
@@ -132,6 +133,11 @@ export default function Footer() {
               <Link href={routes.kolacici} className="transition-colors hover:text-white">
                 Kolačići
               </Link>
+            </li>
+            <li>
+              <CookieSettingsButton className="transition-colors hover:text-white">
+                Podešavanja kolačića
+              </CookieSettingsButton>
             </li>
           </ul>
         </div>

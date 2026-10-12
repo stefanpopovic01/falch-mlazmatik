@@ -59,6 +59,8 @@ export const trust = [
 // Podaci preuzeti sa mlazmatik.co.rs (sedište i servis). Potvrditi sa klijentom.
 export const company = {
   name: "Mlazmatik d.o.o.",
+  pib: "101055662",
+  maticniBroj: "08655693",
   description:
     "Industrijske visokopritisne mašine i pribor FALCH, uz servis, rezervne delove i demonstracije.",
   address: ["Maršala Tita 1B", "26212 Kačarevo"],

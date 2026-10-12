@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { Archivo, IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
+import ConsentManager from "@/components/consent/ConsentManager";
+import CookieBanner from "@/components/consent/CookieBanner";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import { consentDefaultScript } from "@/lib/consent";
 import "./globals.css";
 
 const archivo = Archivo({
@@ -36,6 +39,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="sr"
       className={`${archivo.variable} ${plexSans.variable} ${plexMono.variable} antialiased`}
     >
+      <head>
+        {/* Google Consent Mode v2: sve odbijeno dok posetilac ne odluči. Mora biti pre Google skripti. */}
+        <script dangerouslySetInnerHTML={{ __html: consentDefaultScript }} />
+      </head>
       <body>
         <a
           href="#sadrzaj"
@@ -46,6 +53,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Header />
         <main id="sadrzaj">{children}</main>
         <Footer />
+        <CookieBanner />
+        <ConsentManager />
       </body>
     </html>
   );
