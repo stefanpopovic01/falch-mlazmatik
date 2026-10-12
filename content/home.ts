@@ -46,6 +46,13 @@ export const cards = {
   ],
 };
 
+export const featuredMachines = {
+  eyebrow: "Izdvojene mašine",
+  title: "Od radionice do gradilišta.",
+  lead: "Izbor iz ponude, od kompaktnih mašina na točkovima do prikolica od 110 kW.",
+  button: "Sve mašine",
+};
+
 export const featuredApplications = {
   eyebrow: "Primene",
   title: "Jedan mlaz vode, desetine poslova.",

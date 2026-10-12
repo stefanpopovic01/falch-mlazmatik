@@ -20,6 +20,27 @@ export function getImage(src: string) {
     srcSet: image.widths.map((w) => `${fileFor(src, w)} ${w}w`).join(", "),
     // Za pregledače bez srcset podrške
     fallback: fileFor(src, image.widths.findLast((w) => w <= 1280) ?? image.widths[0]),
+    smallest: fileFor(src, image.widths[0]),
     largest: fileFor(src, image.widths.at(-1)!),
+  };
+}
+
+export type ResolvedImage = {
+  alt: string;
+  src: string;
+  srcSet: string;
+  thumb: string;
+  full: { src: string; width: number; height: number; alt: string };
+};
+
+// Podaci slike za klijentske komponente (koje ne smeju da uvoze manifest)
+export function resolveImage(image: { src: string; alt: string }): ResolvedImage {
+  const data = getImage(image.src);
+  return {
+    alt: image.alt,
+    src: data.fallback,
+    srcSet: data.srcSet,
+    thumb: data.smallest,
+    full: { src: data.largest, width: data.width, height: data.height, alt: image.alt },
   };
 }

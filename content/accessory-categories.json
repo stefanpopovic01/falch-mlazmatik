@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "dovod-vode",
+    "label": "Dovod vode"
+  },
+  {
+    "slug": "creva-i-kablovi",
+    "label": "Creva i kablovi"
+  },
+  {
+    "slug": "pistolji",
+    "label": "Pištolji"
+  },
+  {
+    "slug": "koplja",
+    "label": "Koplja"
+  },
+  {
+    "slug": "mlaznice",
+    "label": "Mlaznice"
+  },
+  {
+    "slug": "peskarenje",
+    "label": "Peskarenje"
+  },
+  {
+    "slug": "ciscenje-cevi-i-rezervoara",
+    "label": "Čišćenje cevi i rezervoara"
+  },
+  {
+    "slug": "ciscenje-povrsina",
+    "label": "Čišćenje površina"
+  },
+  {
+    "slug": "pomocni-alat",
+    "label": "Pomoćni alat"
+  },
+  {
+    "slug": "otpadna-voda",
+    "label": "Otpadna voda"
+  },
+  {
+    "slug": "razno",
+    "label": "Razno"
+  },
+  {
+    "slug": "zastitna-odeca",
+    "label": "Zaštitna odeća"
+  },
+  {
+    "slug": "spojnice",
+    "label": "Spojnice"
+  }
+]

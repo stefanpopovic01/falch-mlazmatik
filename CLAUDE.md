@@ -41,17 +41,17 @@ Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Refe
 ## Images and video
 
 - Originals go in `media-src/` (git-ignored, not deployed). `npm run images` writes WebP to `public/media/<path>-<width>.webp` and the manifest `lib/images.json`. Both are committed. Nothing is deleted unless you pass `-- --prune`.
-- Sizes depend on the file name (profiles at the top of `scripts/optimize-images.mjs`): `01` and any other name get 480/960/1600 (cover: cards, tiles, large view); `02`, `03`, ... get a single 960 px file used for both the thumbnail and the lightbox (decided 2026-10-04 to keep the repo small enough for Vercel Hobby limits); `video` or `video-<name>` gets 480/960 (YouTube poster). So in every gallery folder the cover is `01` and the rest are numbered. The largest size is about two thirds of the weight, so do not add sizes casually.
+- Sizes depend on the file name (profiles at the top of `scripts/optimize-images.mjs`): `01` and any other name get 480/960/1600 (cover: cards, tiles, large view); `02`, `03`, ... get a single 960 px file used for both the thumbnail and the lightbox (decided 2026-10-04 to keep the repo small enough for Vercel Hobby limits); `video` or `video-<name>` gets 480/960 (YouTube poster); everything under `pribor/` gets 480/960 (small product shots). So in every gallery folder the cover is `01` and the rest are numbered. The largest size is about two thirds of the weight, so do not add sizes casually.
 - Always render images with `components/ui/Img` (`src` is the path in `media-src/` without extension, e.g. `"primene/hidrodemolicija"`), with a required `alt` and a correct `sizes`. First-screen images get `priority`. Never use `next/image`: it would bill Vercel image optimization to the client.
 - Video and YouTube load on click, except the hero background video, which is skipped on slow connections, data saver and reduced motion.
 
 ## Home page order
 
-Hero (with trust bar), category cards, *Izdvojene mašine* (not built yet; goes before Primene once machine data arrives), Primene, Zašto mi, CTA band, footer.
+Hero (with trust bar), category cards, Izdvojene mašine (machines with `featured: true`), Primene, Zašto mi, CTA band, footer.
 
 ## Structure
 
-- `content/` holds all text and data; components contain no copy. `site.ts` (routes, menu, company contact data, trust numbers, default CTA text), `home.ts` (home page texts), `servis.ts` (texts of `/servis` and `/servis/demonstracije`), `applications.json` and `application-groups.json`. Machines and accessories will follow as JSON.
+- `content/` holds all text and data; components contain no copy. `site.ts` (routes, menu, company contact data, trust numbers, default CTA text), `home.ts` (home page texts), `servis.ts` (texts of `/servis` and `/servis/demonstracije`), `applications.json`, `application-groups.json`, `machines.json`, `machines-info.ts` (listing intro, power buckets for the filter, guide and FAQ), `accessories.json`, `accessory-categories.json`.
 - `lib/` holds code that reads content (`applications.ts`, `images.ts`) and the generated `images.json`.
 - `npm run validate` checks content against the image manifest and runs automatically before `npm run build`. Extend `scripts/validate-content.mjs` with every new content file.
 - `components/ui/` shared building blocks (`Container`, `SectionHeading`, `PageHeader`, `Img`, `Gallery` with lightbox, `YouTube` click-to-load, `Steps` numbered columns for real sequences, `ButtonLink`), `components/<page>/` sections of one page.
@@ -59,6 +59,12 @@ Hero (with trust bar), category cards, *Izdvojene mašine* (not built yet; goes 
 - Links to the contact form carry the enquiry topic: use `contactHref("servis" | "rezervni-deo" | "demonstracija")` from `content/site.ts` (`/kontakt?tema=...`). The contact page must read `tema`.
 - Galleries: build items with `galleryItem()` from `lib/gallery.tsx` and lay them out with grid classes on `Gallery`.
 - Do not copy Falch's service guarantees (response, repair and delivery times, 25-year parts availability) unless Mlazmatik confirms them.
+- Machine images live in `media-src/masine/<slug>/`: `01`-`05` gallery, `11`-`14` photos in use, `21`+, `31`+ ... images of the 1st, 2nd ... variant, `video` poster. Accessory images: `media-src/pribor/<code lowercase>/01`.
+- Machine data was imported from falch.com on 2026-10-12. `kw` is pump power, `bar` and `lpm` are the maximums; never derive them from the name. Each machine may carry a `review` array of spec values that looked wrong on Falch's site; it is not rendered. Rows whose Falch value contained a template placeholder were dropped. Never render a "rent" row.
+- Brochures are linked to Falch's hosted PDF (`brochure` is a URL), not stored in the repo: 26 files at about 1.9 MB each would add roughly 50 MB.
+- Accessory names were machine-translated from a term list in the import; `nameEn` keeps the original and `details` the rest of Falch's title. Accessory pages are not built yet, so `AccessoryCard` is not a link.
+- Quote links: `quoteHref(itemNumber, variantLabel?)` from `content/site.ts` (`/kontakt?proizvod=G411&varijanta=...`).
+- Product pages have no `PageHeader`: they start on the light background with `Breadcrumbs tone="light"` and `pt-28 lg:pt-36`.
 - Filters keep their state in the URL with Serbian parameter names (`/primene?grupa=brodovi`).
 - Server components by default; `"use client"` only where state or browser APIs are needed. Pass server-rendered `Img` elements into client components as props instead of importing the manifest on the client.
 - Footer is in `app/layout.tsx`.

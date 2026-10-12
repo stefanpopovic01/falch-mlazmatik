@@ -18,6 +18,8 @@ const PROFILES = [
   { test: /\/video(-[a-z0-9-]+)?$/, steps: [480, 960] },
   // Slike galerije (02, 03, ...): samo jedna veličina, i za stranicu i za uvećani prikaz
   { test: /\/(0[2-9]|[1-9]\d)$/, steps: [960] },
+  // Pribor: male fotografije proizvoda, dovoljne su dve veličine
+  { test: /^pribor\//, steps: [480, 960] },
   // Sve ostalo, uključujući naslovnu sliku (01): kartice, pločice i veliki prikaz
   { test: /./, steps: [480, 960, 1600] },
 ];

@@ -26,6 +26,4947 @@
       1484
     ]
   },
+  "masine/base-jet-125-1000-60-0-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/31": {
+    "width": 960,
+    "height": 622,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/32": {
+    "width": 960,
+    "height": 622,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/33": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-60-0-d/51": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/32": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/33": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1000-67-0-e/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-1500-38-0-d/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/32": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/33": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-24-0-d/51": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/42": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-2500-26-0-e/43": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/23": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-20-0-d/51": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/32": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/33": {
+    "width": 960,
+    "height": 643,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-125-3000-22-0-e/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-300-24-70-e/23": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-15-500-15-95-e/23": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/23": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-1000-16-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/23": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/21": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/22": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/31": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/32": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/33": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/base-jet-30-500-30-95-d/41": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/01": {
+    "width": 1600,
+    "height": 1083,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/04": {
+    "width": 960,
+    "height": 650,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1000-60-0-d/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/01": {
+    "width": 1600,
+    "height": 1083,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/04": {
+    "width": 960,
+    "height": 650,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-1500-38-0-d/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/01": {
+    "width": 1600,
+    "height": 1083,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/04": {
+    "width": 960,
+    "height": 650,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-2500-24-0-d/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/01": {
+    "width": 1600,
+    "height": 1083,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-125-3000-20-0-d/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-300-24-70-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-15-500-15-95-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/trail-jet-30-500-30-95-d/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-11-300-18-0-p/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-15-500-15-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-18-500-18-0-p/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-2-100-10-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-1000-16-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-2000-8-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-30-500-30-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-e/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-5-200-13-0-p/video": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/01": {
+    "width": 1600,
+    "height": 1000,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/02": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/03": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/04": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/05": {
+    "width": 960,
+    "height": 600,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/11": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/12": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/13": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "masine/wheel-jet-6-190-14-140-e/14": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "pribor/a0130004/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/a0500021/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/c010/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d0030/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d0035/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d0040/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d0045/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d0055/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d045/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d051/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d2530/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d2540/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d2545/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d2555/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/d2560/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0190122/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0500034/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0500148/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0500282/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0700119/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800008/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800036/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800053/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800054/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800057/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800058/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800093/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800094/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800100/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800107/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800109/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800114/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800116/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800117/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800118/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800139/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800164/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800166/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800167/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800169/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800173/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800191/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800244/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800301/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800302/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800303/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800306/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800310/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800364/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800372/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800374/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800382/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800383/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800409/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800466/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800467/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800491/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800494/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800503/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800514/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800536/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800544/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800551/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800552/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0800571/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810029/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810040/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810050/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810128/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810129/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e0810136/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010025/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010049/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010070/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010072/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010095/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010096/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010097/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010099/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010155/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010156/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1010169/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1130009/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1190041/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1190042/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1190044/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1190045/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1190069/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210132/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210194/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210196/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210235/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210334/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210336/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210346/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210367/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1210941/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1211013/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1211016/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230025/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230033/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230034/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230053/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230132/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230175/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230213/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230214/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230215/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230240/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230330/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230356/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230443/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230715/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1230717/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300039/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300040/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300080/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300172/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300175/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300203/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300210/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300215/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300246/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300443/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1300459/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1400887/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1400888/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1500073/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1500207/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1500243/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1600007/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1600023/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1600082/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1600089/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/e1600090/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/f0000040/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/g100/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/g312/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/g9800105/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n003/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n005/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n006/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n075/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n076/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n099/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n121/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/n383/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s001/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s002/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s003/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s050/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s054/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s104/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s105/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s108/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s115/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/s126/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v001/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v003/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v005/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v006/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v007/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/v044/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/w020/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/w1300048/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000003/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000008/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000009/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000041/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000068/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000075/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000076/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000079/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000100/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000117/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000128/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000129/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000131/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000136/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000137/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000141/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000142/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000149/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000150/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000157/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000164/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000166/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000167/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000172/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000173/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000174/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000180/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000184/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000208/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000209/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000210/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000211/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000214/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000216/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000217/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000218/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000225/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000226/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000234/01": {
+    "width": 800,
+    "height": 354,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000253/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000256/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000257/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000304/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000320/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000322/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000404/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000406/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000504/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000534/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000546/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000556/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000564/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000570/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000571/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000572/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000573/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000574/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000579/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000580/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000581/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000582/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000585/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000588/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000591/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000593/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000594/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000599/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000602/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000603/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000609/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000614/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000620/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000624/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000630/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000636/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000653/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000664/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000669/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000670/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000672/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000675/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000688/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000690/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000699/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000701/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000702/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000718/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000769/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000770/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000774/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000775/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000776/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000782/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000796/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000809/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000823/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000829/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000845/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000846/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000847/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000848/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000853/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000854/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000862/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000866/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000884/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000898/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000961/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000965/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000969/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000987/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0000988/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001008/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001011/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001020/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001022/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001717/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001725/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001740/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001746/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001747/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001751/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z0001753/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z009/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z010/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z015/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z029e001/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z029e002/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z030/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z031/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z032/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z033/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z036/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z064/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z073/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z081/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "pribor/z094/01": {
+    "width": 800,
+    "height": 500,
+    "widths": [
+      480,
+      800
+    ]
+  },
   "primene/ciscenje-brodova/01": {
     "width": 1600,
     "height": 1067,

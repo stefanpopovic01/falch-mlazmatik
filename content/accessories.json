@@ -1,0 +1,5638 @@
+[
+  {
+    "code": "A0130004",
+    "slug": "ispitni-uredjaj-combicheck-a0130004",
+    "category": "razno",
+    "name": "Ispitni uređaj combicheck",
+    "nameEn": "checking device combicheck, for control cable function testing",
+    "details": [
+      "for control cable function testing"
+    ],
+    "images": [
+      {
+        "src": "pribor/a0130004/01",
+        "alt": "Ispitni uređaj combicheck"
+      }
+    ]
+  },
+  {
+    "code": "A0500021",
+    "slug": "kljuc-quicklock-a0500021",
+    "category": "creva-i-kablovi",
+    "name": "Ključ quicklock",
+    "nameEn": "key quicklock",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/a0500021/01",
+        "alt": "Ključ quicklock"
+      }
+    ]
+  },
+  {
+    "code": "C010",
+    "slug": "mast-za-montazu-gumenih-delova-c010",
+    "category": "spojnice",
+    "name": "Mast za montažu gumenih delova",
+    "nameEn": "grease for assembly of rubber parts, 50g",
+    "details": [
+      "50g"
+    ],
+    "images": [
+      {
+        "src": "pribor/c010/01",
+        "alt": "Mast za montažu gumenih delova"
+      }
+    ]
+  },
+  {
+    "code": "D0030",
+    "slug": "tackasta-mlaznica-0-500-bar-d0030",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 500 bar",
+    "nameEn": "point jet nozzle 0° 500 bar, 1/4\" outer thread, nozzle size 030 style 12",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 030 style 12"
+    ],
+    "images": [
+      {
+        "src": "pribor/d0030/01",
+        "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D0035",
+    "slug": "tackasta-mlaznica-0-500-bar-d0035",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 500 bar",
+    "nameEn": "point jet nozzle 0° 500 bar, 1/4\" outer thread, nozzle size 035 style 12",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 035 style 12"
+    ],
+    "images": [
+      {
+        "src": "pribor/d0035/01",
+        "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D0040",
+    "slug": "tackasta-mlaznica-0-500-bar-d0040",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 500 bar",
+    "nameEn": "point jet nozzle 0° 500 bar, 1/4\" outer thread, nozzle size 040 style 12",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 040 style 12"
+    ],
+    "images": [
+      {
+        "src": "pribor/d0040/01",
+        "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D0045",
+    "slug": "tackasta-mlaznica-0-500-bar-d0045",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 500 bar",
+    "nameEn": "point jet nozzle 0° 500 bar, 1/4\" outer thread, nozzle size 045 style 12",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 045 style 12"
+    ],
+    "images": [
+      {
+        "src": "pribor/d0045/01",
+        "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D0055",
+    "slug": "tackasta-mlaznica-0-500-bar-d0055",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 500 bar",
+    "nameEn": "point jet nozzle 0° 500 bar, 1/4\" outer thread, nozzle size 055 style 12",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 055 style 12"
+    ],
+    "images": [
+      {
+        "src": "pribor/d0055/01",
+        "alt": "Tačkasta mlaznica 0° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D045",
+    "slug": "caura-creva-za-glavu-za-peskarenje-d045",
+    "category": "peskarenje",
+    "name": "Čaura creva za glavu za peskarenje",
+    "nameEn": "hose bush for sandblasting head",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/d045/01",
+        "alt": "Čaura creva za glavu za peskarenje"
+      }
+    ]
+  },
+  {
+    "code": "D051",
+    "slug": "mlaznica-za-peskarenje-bor-karbid-500-bar-8-d051",
+    "category": "peskarenje",
+    "name": "Mlaznica za peskarenje, bor-karbid, 500 bar, Ø8",
+    "nameEn": "sandblasting nozzle boron carbide 500 bar Ø8,5mm",
+    "details": [
+      "5mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/d051/01",
+        "alt": "Mlaznica za peskarenje, bor-karbid, 500 bar, Ø8"
+      }
+    ]
+  },
+  {
+    "code": "D2530",
+    "slug": "pljosnata-mlaznica-25-500-bar-d2530",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 030 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 030 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/d2530/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D2540",
+    "slug": "pljosnata-mlaznica-25-500-bar-d2540",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 040 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 040 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/d2540/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D2545",
+    "slug": "pljosnata-mlaznica-25-500-bar-d2545",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 045 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 045 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/d2545/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D2555",
+    "slug": "pljosnata-mlaznica-25-500-bar-d2555",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 055 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 055 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/d2555/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "D2560",
+    "slug": "pljosnata-mlaznica-25-500-bar-d2560",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 060 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 060 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/d2560/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0190122",
+    "slug": "kljuc-c-b-e0190122",
+    "category": "dovod-vode",
+    "name": "Ključ C/B",
+    "nameEn": "key C/B",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e0190122/01",
+        "alt": "Ključ C/B"
+      }
+    ]
+  },
+  {
+    "code": "E0500034",
+    "slug": "cicak-traka-za-crevo-za-otpadnu-vodu-i-visokopritisno-crevo-50-400-mm-e0500034",
+    "category": "otpadna-voda",
+    "name": "Čičak traka za crevo za otpadnu vodu i visokopritisno crevo 50/400 mm",
+    "nameEn": "velcro fastener for waste water hose and high pressure hose 50/400 mm",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e0500034/01",
+        "alt": "Čičak traka za crevo za otpadnu vodu i visokopritisno crevo 50/400 mm"
+      }
+    ]
+  },
+  {
+    "code": "E0500148",
+    "slug": "cicak-traka-za-upravljacki-kabl-i-visokopritisno-crevo-25-200-mm-e0500148",
+    "category": "creva-i-kablovi",
+    "name": "Čičak traka za upravljački kabl i visokopritisno crevo 25/200 mm",
+    "nameEn": "velcro fastener for control cable and high pressure hose  25/200mm",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e0500148/01",
+        "alt": "Čičak traka za upravljački kabl i visokopritisno crevo 25/200 mm"
+      }
+    ]
+  },
+  {
+    "code": "E0500282",
+    "slug": "magnet-za-filter-jedinicu-600-e0500282",
+    "category": "dovod-vode",
+    "name": "Magnet za filter jedinicu 600",
+    "nameEn": "magnet for filter unit 600",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e0500282/01",
+        "alt": "Magnet za filter jedinicu 600"
+      }
+    ]
+  },
+  {
+    "code": "E0700119",
+    "slug": "brava-za-prikolicu-e0700119",
+    "category": "razno",
+    "name": "Brava za prikolicu",
+    "nameEn": "lock for trailer",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e0700119/01",
+        "alt": "Brava za prikolicu"
+      }
+    ]
+  },
+  {
+    "code": "E0800008",
+    "slug": "drainclean-5-e0800008",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 30kW, 100-500bar, 14-31l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 3/1, 3x135°/0/0/0, style: drilled, 060",
+    "details": [
+      "maks. 30kW",
+      "100-500bar",
+      "14-31l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "060"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800008/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800036",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800036",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 031/1,20mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 031/1",
+      "20mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800036/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800053",
+    "slug": "pljosnata-mlaznica-15-2500-bar-e0800053",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 15° 2500 bar",
+    "nameEn": "flat jet nozzle 15° 2500 bar, plug-in system, nozzle size 028/1,20mm, 8x12x20mm style 2",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 028/1",
+      "20mm",
+      "8x12x20mm style 2"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800053/01",
+        "alt": "Pljosnata mlaznica 15° 2500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800054",
+    "slug": "pljosnata-mlaznica-15-2500-bar-e0800054",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 15° 2500 bar",
+    "nameEn": "flat jet nozzle 15° 2500 bar, plug-in system, nozzle size 043/1,50mm, 8x12x20mm style 2",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 043/1",
+      "50mm",
+      "8x12x20mm style 2"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800054/01",
+        "alt": "Pljosnata mlaznica 15° 2500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800057",
+    "slug": "drainclean-15-e0800057",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 125kW, 100-1500bar, 11,6-45l/min, max. 0 rpm, Ø:16mm/l:38mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 051",
+    "details": [
+      "maks. 125kW",
+      "100-1500bar",
+      "11",
+      "6-45l/min",
+      "maks. 0 rpm",
+      "Ø:16mm/l:38mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "051"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800057/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800058",
+    "slug": "drainclean-15-e0800058",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 125kW, 100-1500bar, 11,6-45l/min, max. 0 rpm, Ø:16mm/l:38mm, 1/4\" inner thread, 3/1, 3x135°/0/0/0, style: drilled, 051",
+    "details": [
+      "maks. 125kW",
+      "100-1500bar",
+      "11",
+      "6-45l/min",
+      "maks. 0 rpm",
+      "Ø:16mm/l:38mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "051"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800058/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800093",
+    "slug": "drainclean-15-e0800093",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 45kW, 100-1500bar, 3,9-15l/min, max. 0 rpm, Ø:10mm/l:28mm, M7 inner thread, 3/1, 0/0/3x45°/0, style: drilled, 017",
+    "details": [
+      "maks. 45kW",
+      "100-1500bar",
+      "3",
+      "9-15l/min",
+      "maks. 0 rpm",
+      "Ø:10mm/l:28mm",
+      "M7 unutrašnji navoj",
+      "3/1",
+      "0/0/3x45°/0",
+      "style: drilled",
+      "017"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800093/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800094",
+    "slug": "drainclean-15-e0800094",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 125kW, 100-1500bar, 11,6-45l/min, max. 0 rpm, Ø:10mm/l:28mm, M7 inner thread, 3/1, 3x135°/0/0/0, style: drilled, 051",
+    "details": [
+      "maks. 125kW",
+      "100-1500bar",
+      "11",
+      "6-45l/min",
+      "maks. 0 rpm",
+      "Ø:10mm/l:28mm",
+      "M7 unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "051"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800094/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800100",
+    "slug": "drainclean-15-e0800100",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 125kW, 100-1500bar, 11,6-45l/min, max. 0 rpm, Ø:16mm/l:38mm, 1/4\" inner thread, 3/1, 0/0/3x45°/0, style: drilled, 051",
+    "details": [
+      "maks. 125kW",
+      "100-1500bar",
+      "11",
+      "6-45l/min",
+      "maks. 0 rpm",
+      "Ø:16mm/l:38mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "0/0/3x45°/0",
+      "style: drilled",
+      "051"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800100/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800107",
+    "slug": "drainspeed-3-e0800107",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 3",
+    "nameEn": "drainspeed 3, max. 20kW, 100-300bar, 17-30l/min, max. 5000 rpm, Ø:39mm/l:77mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x20°, style: 15, 075",
+    "details": [
+      "maks. 20kW",
+      "100-300bar",
+      "17-30l/min",
+      "maks. 5000 rpm",
+      "Ø:39mm/l:77mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x20°",
+      "style: 15",
+      "075"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800107/01",
+        "alt": "Drainspeed 3"
+      }
+    ]
+  },
+  {
+    "code": "E0800109",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800109",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 0074/0,60mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 0074/0",
+      "60mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800109/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800114",
+    "slug": "drainclean-25-e0800114",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 25",
+    "nameEn": "drainclean 25, max. 365kW, 100-2500bar, 15,7-78l/min, max. 0 rpm, Ø:14mm/l:40mm, M10 inner thread, 4/2, 0/0/3x45°/1x0°, style: 14, no nozzles",
+    "details": [
+      "maks. 365kW",
+      "100-2500bar",
+      "15",
+      "7-78l/min",
+      "maks. 0 rpm",
+      "Ø:14mm/l:40mm",
+      "M10 unutrašnji navoj",
+      "4/2",
+      "0/0/3x45°/1x0°",
+      "style: 14",
+      "no nozzles"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800114/01",
+        "alt": "Drainclean 25"
+      }
+    ]
+  },
+  {
+    "code": "E0800116",
+    "slug": "tackasta-mlaznica-0-2500-bar-e0800116",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Tačkasta mlaznica 0° 2500 bar",
+    "nameEn": "point jet nozzle 0° 2500 bar, M3 outer thread, nozzle size 007/0,50mm for drainclean 25 sw2 4kt. style 14",
+    "details": [
+      "M3 spoljni navoj",
+      "veličina mlaznice 007/0",
+      "50mm za drainclean 25 sw2 4kt. style 14"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800116/01",
+        "alt": "Tačkasta mlaznica 0° 2500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800117",
+    "slug": "drainclean-25-e0800117",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 25",
+    "nameEn": "drainclean 25, max. 365kW, 100-2500bar, 15,7-78l/min, max. 0 rpm, Ø:19mm/l:45mm, 9/16\"unf-lh ig, 4/2, 3x135°/0/0/1x0°, style: 14, no nozzles",
+    "details": [
+      "maks. 365kW",
+      "100-2500bar",
+      "15",
+      "7-78l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:45mm",
+      "9/16\"unf-lh ig",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: 14",
+      "no nozzles"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800117/01",
+        "alt": "Drainclean 25"
+      }
+    ]
+  },
+  {
+    "code": "E0800118",
+    "slug": "drainclean-25-e0800118",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 25",
+    "nameEn": "drainclean 25, max. 365kW, 100-2500bar, 15,7-78l/min, max. 0 rpm, Ø:15mm/l:40mm, 3/8\"unf-lh ig, 4/2, 3x135°/0/0/1x0°, style: 14, no nozzles",
+    "details": [
+      "maks. 365kW",
+      "100-2500bar",
+      "15",
+      "7-78l/min",
+      "maks. 0 rpm",
+      "Ø:15mm/l:40mm",
+      "3/8\"unf-lh ig",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: 14",
+      "no nozzles"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800118/01",
+        "alt": "Drainclean 25"
+      }
+    ]
+  },
+  {
+    "code": "E0800139",
+    "slug": "drainclean-5-e0800139",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 30kW, 100-500bar, 12-28l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 055",
+    "details": [
+      "maks. 30kW",
+      "100-500bar",
+      "12-28l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "055"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800139/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800164",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800164",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 016/0,90mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 016/0",
+      "90mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800164/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800166",
+    "slug": "drainclean-12-e0800166",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 12",
+    "nameEn": "drainclean 12, max. 120kW, 100-1200bar, 15,7-54l/min, max. 0 rpm, Ø:17mm/l:32mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: 14, 065",
+    "details": [
+      "maks. 120kW",
+      "100-1200bar",
+      "15",
+      "7-54l/min",
+      "maks. 0 rpm",
+      "Ø:17mm/l:32mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: 14",
+      "065"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800166/01",
+        "alt": "Drainclean 12"
+      }
+    ]
+  },
+  {
+    "code": "E0800167",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800167",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 018/0,95mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 018/0",
+      "95mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800167/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800169",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800169",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 029/1,20mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 029/1",
+      "20mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800169/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800173",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800173",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 015/0,85mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 015/0",
+      "85mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800173/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800191",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800191",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 044/1,45mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 044/1",
+      "45mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800191/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800244",
+    "slug": "pljosnata-mlaznica-25-500-bar-e0800244",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 25° 500 bar",
+    "nameEn": "flat jet nozzle 25° 500 bar, 1/4\" outer thread, nozzle size 035 style 13",
+    "details": [
+      "1/4\" spoljni navoj",
+      "veličina mlaznice 035 style 13"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800244/01",
+        "alt": "Pljosnata mlaznica 25° 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800301",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800301",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 017/0,90mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 017/0",
+      "90mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800301/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800302",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800302",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 019/0,95mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 019/0",
+      "95mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800302/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800303",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800303",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 021/1,00mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 021/1",
+      "00mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800303/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800306",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800306",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 0041/0,45mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 0041/0",
+      "45mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800306/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800310",
+    "slug": "pljosnata-mlaznica-15-2500-bar-e0800310",
+    "category": "mlaznice",
+    "name": "Pljosnata mlaznica 15° 2500 bar",
+    "nameEn": "flat jet nozzle 15° 2500 bar, plug-in system, nozzle size 021/1,05mm, 8x12x20mm style 2",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 021/1",
+      "05mm",
+      "8x12x20mm style 2"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800310/01",
+        "alt": "Pljosnata mlaznica 15° 2500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800364",
+    "slug": "drainclean-15-e0800364",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 45kW, 100-1500bar, 4,1-16l/min, max. 0 rpm, Ø:10mm/l:28mm, M7 inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 018 ",
+    "details": [
+      "maks. 45kW",
+      "100-1500bar",
+      "4",
+      "1-16l/min",
+      "maks. 0 rpm",
+      "Ø:10mm/l:28mm",
+      "M7 unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "018"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800364/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800372",
+    "slug": "drainclean-5-e0800372",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 25kW, 100-500bar, 10-23l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 3/1, 3x135°/0/0/0, style: drilled, 045",
+    "details": [
+      "maks. 25kW",
+      "100-500bar",
+      "10-23l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "045"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800372/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800374",
+    "slug": "drainclean-5-e0800374",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 25kW, 100-500bar, 10-23l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner tread, 4/2, 3x135°/0/0/1x0°, style: drilled, 045",
+    "details": [
+      "maks. 25kW",
+      "100-500bar",
+      "10-23l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" inner tread",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "045"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800374/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800382",
+    "slug": "drainclean-5-e0800382",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 15kW, 100-500bar, 7-15l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 3/1, 3x135°/0/0/0, style: drilled, 030 ",
+    "details": [
+      "maks. 15kW",
+      "100-500bar",
+      "7-15l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "030"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800382/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800383",
+    "slug": "drainclean-5-e0800383",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 15kW, 100-500bar, 7-15l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 030",
+    "details": [
+      "maks. 15kW",
+      "100-500bar",
+      "7-15l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "030"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800383/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800409",
+    "slug": "drainclean-5-e0800409",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 30kW, 100-500bar, 14-31l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 060",
+    "details": [
+      "maks. 30kW",
+      "100-500bar",
+      "14-31l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "060"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800409/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800466",
+    "slug": "drainclean-5-e0800466",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 20kW, 100-500bar, 8-18l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 3/1, 3x135°/0/0/0, style: drilled, 035",
+    "details": [
+      "maks. 20kW",
+      "100-500bar",
+      "8-18l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "3/1",
+      "3x135°/0/0/0",
+      "style: drilled",
+      "035"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800466/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800467",
+    "slug": "drainclean-5-e0800467",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 5",
+    "nameEn": "drainclean 5, max. 20kW, 100-500bar, 8-18l/min, max. 0 rpm, Ø:19mm/l:24mm, 1/4\" inner thread, 4/2, 3x135°/0/0/1x0°, style: drilled, 035",
+    "details": [
+      "maks. 20kW",
+      "100-500bar",
+      "8-18l/min",
+      "maks. 0 rpm",
+      "Ø:19mm/l:24mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/1x0°",
+      "style: drilled",
+      "035"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800467/01",
+        "alt": "Drainclean 5"
+      }
+    ]
+  },
+  {
+    "code": "E0800491",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800491",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 020/1,00mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 020/1",
+      "00mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800491/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800494",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800494",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 022/1,05mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 022/1",
+      "05mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800494/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800503",
+    "slug": "drainspeed-10-e0800503",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 10",
+    "nameEn": "drainspeed 10, max. 45kW, 300-1000bar, 12-22l/min, max. 7500 rpm, Ø:18mm/l:72mm, 1/4\" inner thread, 6/3, 2x150°/2x95°/0/2x45°, x-jet, style: 14, 030",
+    "details": [
+      "maks. 45kW",
+      "300-1000bar",
+      "12-22l/min",
+      "maks. 7500 rpm",
+      "Ø:18mm/l:72mm",
+      "1/4\" unutrašnji navoj",
+      "6/3",
+      "2x150°/2x95°/0/2x45°",
+      "x-jet",
+      "style: 14",
+      "030"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800503/01",
+        "alt": "Drainspeed 10"
+      }
+    ]
+  },
+  {
+    "code": "E0800514",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800514",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, hyjet, nozzle size 098/2,10mm 9/16\"unf-lh inner thread sapphire style 7",
+    "details": [
+      "hyjet",
+      "veličina mlaznice 098/2",
+      "10mm 9/16\"unf-lh unutrašnji navoj sapphire style 7"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800514/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800536",
+    "slug": "drainspeed-15-e0800536",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 15",
+    "nameEn": "drainspeed 15, max. 140kW, 300-1500bar, 10-50l/min, max. 10000 rpm, Ø:28mm/l:56mm, 1/4\" inner thread, 4/2, 2x135°/2x90°/0/0, style: 15, 055",
+    "details": [
+      "maks. 140kW",
+      "300-1500bar",
+      "10-50l/min",
+      "maks. 10000 rpm",
+      "Ø:28mm/l:56mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "2x135°/2x90°/0/0",
+      "style: 15",
+      "055"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800536/01",
+        "alt": "Drainspeed 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800544",
+    "slug": "tackasta-mlaznica-0-3000-bar-e0800544",
+    "category": "mlaznice",
+    "name": "Tačkasta mlaznica 0° 3000 bar",
+    "nameEn": "point jet nozzle 0° 3000 bar, plug-in system, nozzle size 045/1,45mm sapphire style 5",
+    "details": [
+      "plug-in system",
+      "veličina mlaznice 045/1",
+      "45mm sapphire style 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800544/01",
+        "alt": "Tačkasta mlaznica 0° 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0800551",
+    "slug": "drainclean-15-e0800551",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainclean 15",
+    "nameEn": "drainclean 15, max. 210kW, 100-1500bar, 19,4-75l/min, max. 0 rpm, Ø:16mm/l:38mm, 1/4\" inner thread, 4/2, 3x135°/0/0/0,025, style: drilled, 085",
+    "details": [
+      "maks. 210kW",
+      "100-1500bar",
+      "19",
+      "4-75l/min",
+      "maks. 0 rpm",
+      "Ø:16mm/l:38mm",
+      "1/4\" unutrašnji navoj",
+      "4/2",
+      "3x135°/0/0/0",
+      "025",
+      "style: drilled",
+      "085"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800551/01",
+        "alt": "Drainclean 15"
+      }
+    ]
+  },
+  {
+    "code": "E0800552",
+    "slug": "drainspeed-10-e0800552",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 10",
+    "nameEn": "drainspeed 10, max. 115kW, 300-1000bar, 34-61l/min, max. 7500 rpm, Ø:18mm/l:72mm, 1/4\" inner thread, 6/3, 2x150°/2x95°/0/2x45°, x-jet, style: 14, 085",
+    "details": [
+      "maks. 115kW",
+      "300-1000bar",
+      "34-61l/min",
+      "maks. 7500 rpm",
+      "Ø:18mm/l:72mm",
+      "1/4\" unutrašnji navoj",
+      "6/3",
+      "2x150°/2x95°/0/2x45°",
+      "x-jet",
+      "style: 14",
+      "085"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800552/01",
+        "alt": "Drainspeed 10"
+      }
+    ]
+  },
+  {
+    "code": "E0800571",
+    "slug": "drainspeed-14-e0800571",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 14",
+    "nameEn": "drainspeed 14, max. 200kW, 1000-1400bar, 41-76l/min, max. 12000 rpm, Ø:26mm/l:48mm, 1/4\"ig, 5/2, 2x135°, 1x160°/0/1x30°, 1x20°/0, style: drilled, 090",
+    "details": [
+      "maks. 200kW",
+      "1000-1400bar",
+      "41-76l/min",
+      "maks. 12000 rpm",
+      "Ø:26mm/l:48mm",
+      "1/4\"ig",
+      "5/2",
+      "2x135°",
+      "1x160°/0/1x30°",
+      "1x20°/0",
+      "style: drilled",
+      "090"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0800571/01",
+        "alt": "Drainspeed 14"
+      }
+    ]
+  },
+  {
+    "code": "E0810029",
+    "slug": "zastita-mlaznice-500-bar-e0810029",
+    "category": "koplja",
+    "name": "Zaštita mlaznice 500 bar",
+    "nameEn": "nozzle protection 500 bar, 155 °C, 1/4\" inner thread x 1/4\" inner thread for style 12/13",
+    "details": [
+      "155 °C",
+      "1/4\" unutrašnji navoj x 1/4\" unutrašnji navoj za style 12/13"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810029/01",
+        "alt": "Zaštita mlaznice 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E0810040",
+    "slug": "koplje-20-e0810040",
+    "category": "koplja",
+    "name": "Koplje 20",
+    "nameEn": "lance 20, 2000 bar, 70 °C, DN 8, Øa 14,3 mm, 9/16\" unf-lh outer thread x 9/16\"unf-lh outer thread, 800 mm",
+    "details": [
+      "2000 bar",
+      "70 °C",
+      "DN 8",
+      "Øa 14",
+      "3 mm",
+      "9/16\" unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj",
+      "800 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810040/01",
+        "alt": "Koplje 20"
+      }
+    ]
+  },
+  {
+    "code": "E0810050",
+    "slug": "koplje-20-e0810050",
+    "category": "koplja",
+    "name": "Koplje 20",
+    "nameEn": "lance 20, 2000 bar, 70 °C, DN 8, Øa 14,3 mm, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread, 1200 mm",
+    "details": [
+      "2000 bar",
+      "70 °C",
+      "DN 8",
+      "Øa 14",
+      "3 mm",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj",
+      "1200 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810050/01",
+        "alt": "Koplje 20"
+      }
+    ]
+  },
+  {
+    "code": "E0810128",
+    "slug": "koplje-30-e0810128",
+    "category": "koplja",
+    "name": "Koplje 30",
+    "nameEn": "lance 30, 3000 bar, 70 °C,  DN 4,8, Øa 14,3 mm, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread, 800 mm",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "DN 4",
+      "8",
+      "Øa 14",
+      "3 mm",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj",
+      "800 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810128/01",
+        "alt": "Koplje 30"
+      }
+    ]
+  },
+  {
+    "code": "E0810129",
+    "slug": "koplje-30-e0810129",
+    "category": "koplja",
+    "name": "Koplje 30",
+    "nameEn": "lance 30, 3000 bar, 70 °C, DN 4,8, Øa 14,3 mm, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread, 1200 mm",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "DN 4",
+      "8",
+      "Øa 14",
+      "3 mm",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj",
+      "1200 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810129/01",
+        "alt": "Koplje 30"
+      }
+    ]
+  },
+  {
+    "code": "E0810136",
+    "slug": "caura-500-bar-e0810136",
+    "category": "spojnice",
+    "name": "Čaura 500 bar",
+    "nameEn": "sleeve 500 bar, 1/2\" inner thread x 1/2\" inner thread, v2a",
+    "details": [
+      "1/2\" unutrašnji navoj x 1/2\" unutrašnji navoj",
+      "v2a"
+    ],
+    "images": [
+      {
+        "src": "pribor/e0810136/01",
+        "alt": "Čaura 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1010025",
+    "slug": "visokopritisno-crevo-nonstop-12-e1010025",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 12",
+    "nameEn": "high pressure hose nonstop 12, 1200 bar, 70 °C, DN10, M24 inner thread x M24 inner thread, 20m, incl. hose connector",
+    "details": [
+      "1200 bar",
+      "70 °C",
+      "DN10",
+      "M24 unutrašnji navoj x M24 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010025/01",
+        "alt": "Visokopritisno crevo nonstop 12"
+      }
+    ]
+  },
+  {
+    "code": "E1010049",
+    "slug": "visokopritisno-crevo-nonstop-2-e1010049",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 2",
+    "nameEn": "high pressure hose nonstop 2, 250 bar, 120 °C, DN8, M22 inner thread x M22 inner thread, 20m, incl. hose connector",
+    "details": [
+      "250 bar",
+      "120 °C",
+      "DN8",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010049/01",
+        "alt": "Visokopritisno crevo nonstop 2"
+      }
+    ]
+  },
+  {
+    "code": "E1010070",
+    "slug": "visokopritisno-crevo-nonstop-25-ph-e1010070",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 25 ph",
+    "nameEn": "high pressure hose nonstop 25 ph, 2500 bar, 70 °C, DN8, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread 20m",
+    "details": [
+      "2500 bar",
+      "70 °C",
+      "DN8",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010070/01",
+        "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ]
+  },
+  {
+    "code": "E1010072",
+    "slug": "visokopritisno-crevo-nonstop-25-ph-e1010072",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 25 ph",
+    "nameEn": "high pressure hose nonstop 25 ph, 2500 bar, 60 °C, DN5, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread 5m, safety plus",
+    "details": [
+      "2500 bar",
+      "60 °C",
+      "DN5",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 5m",
+      "safety plus"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010072/01",
+        "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ]
+  },
+  {
+    "code": "E1010095",
+    "slug": "visokopritisno-crevo-nonstop-30-ph-e1010095",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 30 ph",
+    "nameEn": "high pressure hose nonstop 30 ph, 3000bar, 70 °C, DN8, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread 20m",
+    "details": [
+      "3000bar",
+      "70 °C",
+      "DN8",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010095/01",
+        "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ]
+  },
+  {
+    "code": "E1010096",
+    "slug": "visokopritisno-crevo-nonstop-14-e1010096",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 14",
+    "nameEn": "high pressure hose nonstop 14, 1450 bar, 70 °C, DN12, M24 inner thread x M24 inner thread, 20m, incl. hose connector",
+    "details": [
+      "1450 bar",
+      "70 °C",
+      "DN12",
+      "M24 unutrašnji navoj x M24 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010096/01",
+        "alt": "Visokopritisno crevo nonstop 14"
+      }
+    ]
+  },
+  {
+    "code": "E1010097",
+    "slug": "visokopritisno-crevo-nonstop-25-e1010097",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 25",
+    "nameEn": "high pressure hose nonstop 25, 2500 bar, 70 °C, DN13, 9/16''unf-lh outer thread x 9/16\"unf-lh outer thread 20m",
+    "details": [
+      "2500 bar",
+      "70 °C",
+      "DN13",
+      "9/16''unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010097/01",
+        "alt": "Visokopritisno crevo nonstop 25"
+      }
+    ]
+  },
+  {
+    "code": "E1010099",
+    "slug": "visokopritisno-crevo-nonstop-30-ph-e1010099",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 30 ph",
+    "nameEn": "high pressure hose nonstop 30 ph, 3000 bar, 70 °C, DN6, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread 5m, safety plus",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "DN6",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj 5m",
+      "safety plus"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010099/01",
+        "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ]
+  },
+  {
+    "code": "E1010155",
+    "slug": "visokopritisno-crevo-nonstop-15-e1010155",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 15",
+    "nameEn": "high pressure hose nonstop 15, 1500 bar, 70 °C, DN10, M24 inner thread x M24 inner thread, 20m, incl. hose connector",
+    "details": [
+      "1500 bar",
+      "70 °C",
+      "DN10",
+      "M24 unutrašnji navoj x M24 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010155/01",
+        "alt": "Visokopritisno crevo nonstop 15"
+      }
+    ]
+  },
+  {
+    "code": "E1010156",
+    "slug": "visokopritisno-crevo-nonstop-15-pl-e1010156",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 15 pl",
+    "nameEn": "high pressure hose nonstop 15 pl, 1500 bar, 60 °C, DN16, M36 inner thread x M36 inner thread, 20m, incl. hose connector",
+    "details": [
+      "1500 bar",
+      "60 °C",
+      "DN16",
+      "M36 unutrašnji navoj x M36 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1010156/01",
+        "alt": "Visokopritisno crevo nonstop 15 pl"
+      }
+    ]
+  },
+  {
+    "code": "E1010169",
+    "slug": "sigurnosna-sajla-whip-check-500-mm-za-nonstop-creva-e1010169",
+    "category": "creva-i-kablovi",
+    "name": "Sigurnosna sajla (whip check) 500 mm za nonstop creva",
+    "nameEn": "whip check 500mm for nonstop hoses",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1010169/01",
+        "alt": "Sigurnosna sajla (whip check) 500 mm za nonstop creva"
+      }
+    ]
+  },
+  {
+    "code": "E1130009",
+    "slug": "zaporni-ventil-protoka-3000-bar-e1130009",
+    "category": "razno",
+    "name": "Zaporni ventil protoka 3000 bar",
+    "nameEn": "flow stop valve 3000 bar, M26x1,5 outer thread x M26x1,5 inner thread, max. 90 l/min, 40 bar",
+    "details": [
+      "M26x1",
+      "5 spoljni navoj x M26x1",
+      "5 unutrašnji navoj",
+      "maks. 90 l/min",
+      "40 bar"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1130009/01",
+        "alt": "Zaporni ventil protoka 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1190041",
+    "slug": "potisni-prsten-3000-bar-e1190041",
+    "category": "spojnice",
+    "name": "Potisni prsten 3000 bar",
+    "nameEn": "pressure ring 3000 bar, 9/16\"unf-lh inner thread Ø19x14mm for pressure screw E1190042/E1190056 tube Ø14.3",
+    "details": [
+      "9/16\"unf-lh unutrašnji navoj Ø19x14mm za pressure screw E1190042/E1190056 tube Ø14.3"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1190041/01",
+        "alt": "Potisni prsten 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1190042",
+    "slug": "potisni-vijak-3000-bar-e1190042",
+    "category": "spojnice",
+    "name": "Potisni vijak 3000 bar",
+    "nameEn": "pressure screw 3000 bar, M26 outer thread x iØ14,6/19,0mm",
+    "details": [
+      "M26 spoljni navoj x iØ14",
+      "6/19",
+      "0mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1190042/01",
+        "alt": "Potisni vijak 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1190044",
+    "slug": "nozni-ventil-e1190044",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Nožni ventil",
+    "nameEn": "foot operated valve, 3000 bar, 7-pins",
+    "details": [
+      "3000 bar",
+      "7-pins"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1190044/01",
+        "alt": "Nožni ventil"
+      }
+    ]
+  },
+  {
+    "code": "E1190045",
+    "slug": "nozni-ventil-e1190045",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Nožni ventil",
+    "nameEn": "foot operated valve, 500 bar, 100 °C, M22 outer thread x M22 inner thread",
+    "details": [
+      "500 bar",
+      "100 °C",
+      "M22 spoljni navoj x M22 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1190045/01",
+        "alt": "Nožni ventil"
+      }
+    ]
+  },
+  {
+    "code": "E1190069",
+    "slug": "nozni-ventil-e1190069",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Nožni ventil",
+    "nameEn": "foot operated valve, 3000 bar, 70 °C, M26 inner thread x M26 inner thread, dump gun, incl. adapter",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "M26 unutrašnji navoj x M26 unutrašnji navoj",
+      "dump gun",
+      "uklj. adapter"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1190069/01",
+        "alt": "Nožni ventil"
+      }
+    ]
+  },
+  {
+    "code": "E1210132",
+    "slug": "drzac-creva-za-otpadnu-vodu-e1210132",
+    "category": "otpadna-voda",
+    "name": "Držač creva za otpadnu vodu",
+    "nameEn": "holder for waste water hose",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1210132/01",
+        "alt": "Držač creva za otpadnu vodu"
+      }
+    ]
+  },
+  {
+    "code": "E1210194",
+    "slug": "zastita-od-prskanja-e1210194",
+    "category": "koplja",
+    "name": "Zaštita od prskanja",
+    "nameEn": "splash protection, stainless steel, Ø300mm, Ø15mm",
+    "details": [
+      "stainless steel",
+      "Ø300mm",
+      "Ø15mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210194/01",
+        "alt": "Zaštita od prskanja"
+      }
+    ]
+  },
+  {
+    "code": "E1210196",
+    "slug": "spojnica-creva-50-mm-v2a-e1210196",
+    "category": "otpadna-voda",
+    "name": "Spojnica creva Ø50 mm V2A",
+    "nameEn": "hose connector Ø50mm v2a",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1210196/01",
+        "alt": "Spojnica creva Ø50 mm V2A"
+      }
+    ]
+  },
+  {
+    "code": "E1210235",
+    "slug": "zastitna-ploca-za-pointspeed-regulation-5-e1210235",
+    "category": "mlaznice",
+    "name": "Zaštitna ploča za pointspeed regulation 5",
+    "nameEn": "protection plate pointspeed regulation 5, 4/2, Ø64 mm, 15/30kW",
+    "details": [
+      "4/2",
+      "Ø64 mm",
+      "15/30kW"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210235/01",
+        "alt": "Zaštitna ploča za pointspeed regulation 5"
+      }
+    ]
+  },
+  {
+    "code": "E1210334",
+    "slug": "zastitna-ploca-za-pointspeed-regulation-30-e1210334",
+    "category": "mlaznice",
+    "name": "Zaštitna ploča za pointspeed regulation 30",
+    "nameEn": "protection plate pointspeed regulation 30, 6/2, Ø74 mm, 125kW",
+    "details": [
+      "6/2",
+      "Ø74 mm",
+      "125kW"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210334/01",
+        "alt": "Zaštitna ploča za pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "E1210336",
+    "slug": "zastitna-ploca-za-pointspeed-regulation-30-e1210336",
+    "category": "mlaznice",
+    "name": "Zaštitna ploča za pointspeed regulation 30",
+    "nameEn": "protection plate pointspeed regulation 30, 4/2, Ø74 mm, 125kW",
+    "details": [
+      "4/2",
+      "Ø74 mm",
+      "125kW"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210336/01",
+        "alt": "Zaštitna ploča za pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "E1210346",
+    "slug": "zastitna-ploca-za-pointspeed-regulation-30-e1210346",
+    "category": "mlaznice",
+    "name": "Zaštitna ploča za pointspeed regulation 30",
+    "nameEn": "protection plate pointspeed regulation 30, 4/2, Ø74 mm, 40kW",
+    "details": [
+      "4/2",
+      "Ø74 mm",
+      "40kW"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210346/01",
+        "alt": "Zaštitna ploča za pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "E1210367",
+    "slug": "pipe-helper-za-drainspeed-e1210367",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Pipe helper za drainspeed",
+    "nameEn": "pipe helper for drainspeed, Z0000845/846/614/574, Øi:28mm, Øout: 100mm l: 150mm",
+    "details": [
+      "Z0000845/846/614/574",
+      "Øi:28mm",
+      "Øout: 100mm l: 150mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210367/01",
+        "alt": "Pipe helper za drainspeed"
+      }
+    ]
+  },
+  {
+    "code": "E1210941",
+    "slug": "zastitna-ploca-za-pointspeed-30-e1210941",
+    "category": "mlaznice",
+    "name": "Zaštitna ploča za pointspeed 30",
+    "nameEn": "protection plate pointspeed 30, 4/2, Ø42mm, 125kW",
+    "details": [
+      "4/2",
+      "Ø42mm",
+      "125kW"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1210941/01",
+        "alt": "Zaštitna ploča za pointspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "E1211013",
+    "slug": "drzac-osiguraca-mlaznice-za-pointspeed-30-e1211013",
+    "category": "mlaznice",
+    "name": "Držač osigurača mlaznice za pointspeed 30",
+    "nameEn": "holder nozzle lock for pointspeed 30",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1211013/01",
+        "alt": "Držač osigurača mlaznice za pointspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "E1211016",
+    "slug": "drzac-za-filter-jedinicu-600-e1211016",
+    "category": "dovod-vode",
+    "name": "Držač za filter jedinicu 600",
+    "nameEn": "holder for filter unit 600",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1211016/01",
+        "alt": "Držač za filter jedinicu 600"
+      }
+    ]
+  },
+  {
+    "code": "E1230025",
+    "slug": "redukcija-1500-bar-e1230025",
+    "category": "spojnice",
+    "name": "Redukcija 1500 bar",
+    "nameEn": "reduction 1500 bar, 1/4\" inner thread x M24 outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x M24 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230025/01",
+        "alt": "Redukcija 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230033",
+    "slug": "redukcija-1500-bar-e1230033",
+    "category": "spojnice",
+    "name": "Redukcija 1500 bar",
+    "nameEn": "reduction 1500 bar, 1/4\" inner thread x 9/16\"unf-lh outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x 9/16\"unf-lh spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230033/01",
+        "alt": "Redukcija 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230034",
+    "slug": "dupli-nipl-1800-bar-e1230034",
+    "category": "spojnice",
+    "name": "Dupli nipl 1800 bar",
+    "nameEn": "double nipple 1800 bar, M24 outer thread x 9/16\"unf-lh outer thread",
+    "details": [
+      "M24 spoljni navoj x 9/16\"unf-lh spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230034/01",
+        "alt": "Dupli nipl 1800 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230053",
+    "slug": "redukcija-500-bar-e1230053",
+    "category": "spojnice",
+    "name": "Redukcija 500 bar",
+    "nameEn": "reduction 500 bar, 1/4\" inner thread x M22 outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230053/01",
+        "alt": "Redukcija 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230132",
+    "slug": "drzac-mlaznice-za-style-16-e1230132",
+    "category": "koplja",
+    "name": "Držač mlaznice za style 1–6",
+    "nameEn": "nozzle holder for style 1-6, 3000 bar, M24 outer thread x M26 inner thread, for E1300039",
+    "details": [
+      "3000 bar",
+      "M24 spoljni navoj x M26 unutrašnji navoj",
+      "for E1300039"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230132/01",
+        "alt": "Držač mlaznice za style 1–6"
+      }
+    ]
+  },
+  {
+    "code": "E1230175",
+    "slug": "redukcija-1500-bar-e1230175",
+    "category": "spojnice",
+    "name": "Redukcija 1500 bar",
+    "nameEn": "reduction 1500 bar, 1/2\" inner thread x M26 outer thread",
+    "details": [
+      "1/2\" unutrašnji navoj x M26 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230175/01",
+        "alt": "Redukcija 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230213",
+    "slug": "dupli-nipl-2500-bar-m26-outer-thread-x-m18-lh-outer-thread-e1230213",
+    "category": "spojnice",
+    "name": "Dupli nipl 2500 bar M26 outer thread x M18-lh outer thread",
+    "nameEn": "double nipple 2500 bar M26 outer thread x M18-lh outer thread",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1230213/01",
+        "alt": "Dupli nipl 2500 bar M26 outer thread x M18-lh outer thread"
+      }
+    ]
+  },
+  {
+    "code": "E1230214",
+    "slug": "redukcija-3000-bar-9-16-unf-lh-inner-thread-x-m14-lh-outer-thread-e1230214",
+    "category": "spojnice",
+    "name": "Redukcija 3000 bar 9/16\"unf-lh inner thread x M14-lh outer thread",
+    "nameEn": "reduction 3000 bar 9/16\"unf-lh inner thread x M14-lh outer thread",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1230214/01",
+        "alt": "Redukcija 3000 bar 9/16\"unf-lh inner thread x M14-lh outer thread"
+      }
+    ]
+  },
+  {
+    "code": "E1230215",
+    "slug": "redukcija-1500-bar-e1230215",
+    "category": "spojnice",
+    "name": "Redukcija 1500 bar",
+    "nameEn": "reduction 1500 bar, M7 inner thread x  1/4\" outer thread, Ø 17mm",
+    "details": [
+      "M7 unutrašnji navoj x  1/4\" spoljni navoj",
+      "Ø 17mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230215/01",
+        "alt": "Redukcija 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230240",
+    "slug": "redukcija-3000-bar-e1230240",
+    "category": "spojnice",
+    "name": "Redukcija 3000 bar",
+    "nameEn": "reduction 3000 bar, M14-lh inner thread x 9/16''unf-lh outer thread",
+    "details": [
+      "M14-lh unutrašnji navoj x 9/16''unf-lh spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230240/01",
+        "alt": "Redukcija 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230330",
+    "slug": "dupli-nipl-3000-bar-e1230330",
+    "category": "spojnice",
+    "name": "Dupli nipl 3000 bar",
+    "nameEn": "double nipple 3000 bar, M26 outer thread x 9/16\"unf-lh outer thread",
+    "details": [
+      "M26 spoljni navoj x 9/16\"unf-lh spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230330/01",
+        "alt": "Dupli nipl 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230356",
+    "slug": "dupli-nipl-3000-bar-e1230356",
+    "category": "spojnice",
+    "name": "Dupli nipl 3000 bar",
+    "nameEn": "double nipple 3000 bar, M30 outer thread x M26 outer thread, quicklock",
+    "details": [
+      "M30 spoljni navoj x M26 spoljni navoj",
+      "quicklock"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230356/01",
+        "alt": "Dupli nipl 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230443",
+    "slug": "spojnica-creva-1500-bar-e1230443",
+    "category": "creva-i-kablovi",
+    "name": "Spojnica creva 1500 bar",
+    "nameEn": "hose connector 1500 bar, M36 outer thread x M36 outer thread",
+    "details": [
+      "M36 spoljni navoj x M36 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230443/01",
+        "alt": "Spojnica creva 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1230715",
+    "slug": "potisna-mlaznica-za-ciscenje-cevi-15-e1230715",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Potisna mlaznica za čišćenje cevi 15",
+    "nameEn": "pipe cleaning pushing nozzle 15, 1500 bar, 1/4\" outer thread x 1/4\" inner thread, 4 x M4 inner thread, 135°, style 8, Ø18mm",
+    "details": [
+      "1500 bar",
+      "1/4\" spoljni navoj x 1/4\" unutrašnji navoj",
+      "4 x M4 unutrašnji navoj",
+      "135°",
+      "style 8",
+      "Ø18mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230715/01",
+        "alt": "Potisna mlaznica za čišćenje cevi 15"
+      }
+    ]
+  },
+  {
+    "code": "E1230717",
+    "slug": "dupli-nipl-1500bar-e1230717",
+    "category": "spojnice",
+    "name": "Dupli nipl 1500bar",
+    "nameEn": "double nipple 1500bar, M26 outer thread x M24 outer thread dko",
+    "details": [
+      "M26 spoljni navoj x M24 spoljni navoj dko"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1230717/01",
+        "alt": "Dupli nipl 1500bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300039",
+    "slug": "nosac-mlaznice-za-style-16-e1300039",
+    "category": "koplja",
+    "name": "Nosač mlaznice za style 1–6",
+    "nameEn": "nozzle support for style 1-6, 3000 bar, M24 inner thread for E1230132",
+    "details": [
+      "3000 bar",
+      "M24 unutrašnji navoj za E1230132"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300039/01",
+        "alt": "Nosač mlaznice za style 1–6"
+      }
+    ]
+  },
+  {
+    "code": "E1300040",
+    "slug": "prelazni-adapter-c-52-geka-e1300040",
+    "category": "dovod-vode",
+    "name": "Prelazni adapter C/52 – Geka",
+    "nameEn": "adaptor transition piece C/52 - geka",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1300040/01",
+        "alt": "Prelazni adapter C/52 – Geka"
+      }
+    ]
+  },
+  {
+    "code": "E1300080",
+    "slug": "dupli-nipl-1500-bar-m24-outer-thread-x-1-4-outer-thread-e1300080",
+    "category": "spojnice",
+    "name": "Dupli nipl 1500 bar M24 outer thread x 1/4\" outer thread",
+    "nameEn": "double nipple 1500 bar M24 outer thread x 1/4\" outer thread",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1300080/01",
+        "alt": "Dupli nipl 1500 bar M24 outer thread x 1/4\" outer thread"
+      }
+    ]
+  },
+  {
+    "code": "E1300172",
+    "slug": "caura-3000-bar-e1300172",
+    "category": "spojnice",
+    "name": "Čaura 3000 bar",
+    "nameEn": "sleeve 3000 bar, M26 inner thread x M26 inner thread DN 8",
+    "details": [
+      "M26 unutrašnji navoj x M26 unutrašnji navoj DN 8"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300172/01",
+        "alt": "Čaura 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300175",
+    "slug": "okretna-spojnica-3000-bar-e1300175",
+    "category": "spojnice",
+    "name": "Okretna spojnica 3000 bar",
+    "nameEn": "swivel 3000 bar, 60 °C, M26 inner thread 50 l/min, 0° x M26 outer thread",
+    "details": [
+      "60 °C",
+      "M26 unutrašnji navoj 50 l/min",
+      "0° x M26 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300175/01",
+        "alt": "Okretna spojnica 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300203",
+    "slug": "redukcija-1500-bar-e1300203",
+    "category": "spojnice",
+    "name": "Redukcija 1500 bar",
+    "nameEn": "reduction 1500 bar, 1/4\" inner thread x M7 outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x M7 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300203/01",
+        "alt": "Redukcija 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300210",
+    "slug": "okretna-spojnica-1200-bar-e1300210",
+    "category": "spojnice",
+    "name": "Okretna spojnica 1200 bar",
+    "nameEn": "swivel 1200 bar, 60 °C, M24 outer thread 130 l/min, 0° x M26 outer thread",
+    "details": [
+      "60 °C",
+      "M24 spoljni navoj 130 l/min",
+      "0° x M26 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300210/01",
+        "alt": "Okretna spojnica 1200 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300215",
+    "slug": "y-razdelnik-3000-bar-e1300215",
+    "category": "spojnice",
+    "name": "Y-razdelnik 3000 bar",
+    "nameEn": "distributor-y 3000 bar, 3 x M30x2 inner thread, DN8",
+    "details": [
+      "3 x M30x2 unutrašnji navoj",
+      "DN8"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300215/01",
+        "alt": "Y-razdelnik 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300246",
+    "slug": "redukcija-3000-bar-e1300246",
+    "category": "spojnice",
+    "name": "Redukcija 3000 bar",
+    "nameEn": "reduction 3000 bar, M26 inner thread x M30 outer thread",
+    "details": [
+      "M26 unutrašnji navoj x M30 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300246/01",
+        "alt": "Redukcija 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300443",
+    "slug": "dupli-nipl-500bar-e1300443",
+    "category": "spojnice",
+    "name": "Dupli nipl 500bar",
+    "nameEn": "double nipple 500bar, M22 outer thread x M24 outer thread",
+    "details": [
+      "M22 spoljni navoj x M24 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300443/01",
+        "alt": "Dupli nipl 500bar"
+      }
+    ]
+  },
+  {
+    "code": "E1300459",
+    "slug": "caura-1000-bar-e1300459",
+    "category": "spojnice",
+    "name": "Čaura 1000 bar",
+    "nameEn": "sleeve 1000 bar, M24 inner thread x M24 inner thread",
+    "details": [
+      "M24 unutrašnji navoj x M24 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1300459/01",
+        "alt": "Čaura 1000 bar"
+      }
+    ]
+  },
+  {
+    "code": "E1400887",
+    "slug": "utikac-7-pinski-za-upravljacki-kabl-e1400887",
+    "category": "creva-i-kablovi",
+    "name": "Utikač 7-pinski za upravljački kabl",
+    "nameEn": "plug 7-pin for control cable",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1400887/01",
+        "alt": "Utikač 7-pinski za upravljački kabl"
+      }
+    ]
+  },
+  {
+    "code": "E1400888",
+    "slug": "spojnica-7-pinska-za-upravljacki-kabl-e1400888",
+    "category": "creva-i-kablovi",
+    "name": "Spojnica 7-pinska za upravljački kabl",
+    "nameEn": "coupling 7-pin for control cable",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1400888/01",
+        "alt": "Spojnica 7-pinska za upravljački kabl"
+      }
+    ]
+  },
+  {
+    "code": "E1500073",
+    "slug": "komplet-za-prepravku-jack-ring-e1500073",
+    "category": "razno",
+    "name": "Komplet za prepravku jack ring",
+    "nameEn": "modification kit jack ring, 4 x 1500 kg nominal load capacity",
+    "details": [
+      "4 x 1500 kg nominal load capacity"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1500073/01",
+        "alt": "Komplet za prepravku jack ring"
+      }
+    ]
+  },
+  {
+    "code": "E1500207",
+    "slug": "komplet-za-prepravku-zastita-od-varnica-za-bj-tj-125-e1500207",
+    "category": "razno",
+    "name": "Komplet za prepravku: zaštita od varnica za BJ/TJ 125",
+    "nameEn": "conversion kit spark protection for bj/tj 125, stage 5",
+    "details": [
+      "stage 5"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1500207/01",
+        "alt": "Komplet za prepravku: zaštita od varnica za BJ/TJ 125"
+      }
+    ]
+  },
+  {
+    "code": "E1500243",
+    "slug": "easy-check-za-easy-2-e1500243",
+    "category": "razno",
+    "name": "Easy check za easy 2",
+    "nameEn": "easy check for easy 2, 15kW-500kW,  diesel/el., including 2-year contract",
+    "details": [
+      "15kW-500kW",
+      "diesel/el.",
+      "including 2-year contract"
+    ],
+    "images": [
+      {
+        "src": "pribor/e1500243/01",
+        "alt": "Easy check za easy 2"
+      }
+    ]
+  },
+  {
+    "code": "E1600007",
+    "slug": "filter-ulozak-za-filter-jedinicu-15-grubi-e1600007",
+    "category": "dovod-vode",
+    "name": "Filter uložak za filter jedinicu 15, grubi",
+    "nameEn": "filter cartridge for filter unit 15 rough",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1600007/01",
+        "alt": "Filter uložak za filter jedinicu 15, grubi"
+      }
+    ]
+  },
+  {
+    "code": "E1600023",
+    "slug": "filter-ulozak-za-filter-jedinicu-30-standardni-e1600023",
+    "category": "dovod-vode",
+    "name": "Filter uložak za filter jedinicu 30, standardni",
+    "nameEn": "filter cartridge for filter unit 30 standard",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1600023/01",
+        "alt": "Filter uložak za filter jedinicu 30, standardni"
+      }
+    ]
+  },
+  {
+    "code": "E1600082",
+    "slug": "filter-ulozak-za-filter-jedinicu-30-nano-e1600082",
+    "category": "dovod-vode",
+    "name": "Filter uložak za filter jedinicu 30, nano",
+    "nameEn": "filter cartridge for filter unit 30 nano",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1600082/01",
+        "alt": "Filter uložak za filter jedinicu 30, nano"
+      }
+    ]
+  },
+  {
+    "code": "E1600089",
+    "slug": "filter-ulozak-za-filter-jedinicu-200-nano-e1600089",
+    "category": "dovod-vode",
+    "name": "Filter uložak za filter jedinicu 200, nano",
+    "nameEn": "filter cartridge for filter unit 200 nano",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1600089/01",
+        "alt": "Filter uložak za filter jedinicu 200, nano"
+      }
+    ]
+  },
+  {
+    "code": "E1600090",
+    "slug": "filter-ulozak-za-filter-jedinicu-600-nano-e1600090",
+    "category": "dovod-vode",
+    "name": "Filter uložak za filter jedinicu 600, nano",
+    "nameEn": "filter cartridge for filter unit 600 nano",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/e1600090/01",
+        "alt": "Filter uložak za filter jedinicu 600, nano"
+      }
+    ]
+  },
+  {
+    "code": "F0000040",
+    "slug": "mast-za-montazu-metalnih-delova-f0000040",
+    "category": "spojnice",
+    "name": "Mast za montažu metalnih delova",
+    "nameEn": "grease for assembly of metal parts, 70g",
+    "details": [
+      "70g"
+    ],
+    "images": [
+      {
+        "src": "pribor/f0000040/01",
+        "alt": "Mast za montažu metalnih delova"
+      }
+    ]
+  },
+  {
+    "code": "G100",
+    "slug": "p1-g100",
+    "category": "dovod-vode",
+    "name": "P1",
+    "nameEn": "P1",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/g100/01",
+        "alt": "P1"
+      }
+    ]
+  },
+  {
+    "code": "G312",
+    "slug": "h99-500-g312",
+    "category": "razno",
+    "name": "H99/500",
+    "nameEn": "H99/500 ",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/g312/01",
+        "alt": "H99/500"
+      }
+    ]
+  },
+  {
+    "code": "G9800105",
+    "slug": "uvodnik-za-poklopac-rezervoara-za-glavu-za-ciscenje-sa-kuglastim-zglobom-g9800105",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Uvodnik za poklopac rezervoara za glavu za čišćenje, sa kuglastim zglobom",
+    "nameEn": "tank cover lead-in for tank cleaning head with ball joint",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/g9800105/01",
+        "alt": "Uvodnik za poklopac rezervoara za glavu za čišćenje, sa kuglastim zglobom"
+      }
+    ]
+  },
+  {
+    "code": "N003",
+    "slug": "spojni-nipl-za-koplje-500-bar-n003",
+    "category": "spojnice",
+    "name": "Spojni nipl za koplje 500 bar",
+    "nameEn": "lance connecting nipple 500 bar, 1/4\" inner thread x M22 outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/n003/01",
+        "alt": "Spojni nipl za koplje 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N005",
+    "slug": "dupli-nipl-500-bar-n005",
+    "category": "spojnice",
+    "name": "Dupli nipl 500 bar",
+    "nameEn": "double nipple 500 bar, M22 outer thread x 1/4\" outer thread, v2a",
+    "details": [
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "v2a"
+    ],
+    "images": [
+      {
+        "src": "pribor/n005/01",
+        "alt": "Dupli nipl 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N006",
+    "slug": "dupli-nipl-500-bar-n006",
+    "category": "spojnice",
+    "name": "Dupli nipl 500 bar",
+    "nameEn": "double nipple 500 bar, M22 outer thread x 3/8\" outer thread, v2a",
+    "details": [
+      "M22 spoljni navoj x 3/8\" spoljni navoj",
+      "v2a"
+    ],
+    "images": [
+      {
+        "src": "pribor/n006/01",
+        "alt": "Dupli nipl 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N075",
+    "slug": "dupli-nipl-500-bar-n075",
+    "category": "spojnice",
+    "name": "Dupli nipl 500 bar",
+    "nameEn": "double nipple 500 bar, M22 outer thread x 1/2\" outer thread, v2a",
+    "details": [
+      "M22 spoljni navoj x 1/2\" spoljni navoj",
+      "v2a"
+    ],
+    "images": [
+      {
+        "src": "pribor/n075/01",
+        "alt": "Dupli nipl 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N076",
+    "slug": "redukcija-500-bar-n076",
+    "category": "spojnice",
+    "name": "Redukcija 500 bar",
+    "nameEn": "reduction 500 bar, 1/4\" inner thread x 1/2\" outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x 1/2\" spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/n076/01",
+        "alt": "Redukcija 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N099",
+    "slug": "caura-500-bar-n099",
+    "category": "koplja",
+    "name": "Čaura 500 bar",
+    "nameEn": "sleeve 500 bar,  1/4\" inner thread x 1/4\" inner thread",
+    "details": [
+      "1/4\" unutrašnji navoj x 1/4\" unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/n099/01",
+        "alt": "Čaura 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "N121",
+    "slug": "redukcija-630-bar-n121",
+    "category": "spojnice",
+    "name": "Redukcija 630 bar",
+    "nameEn": "reduction 630 bar, 1/4\" inner thread x 1/8\" outer thread",
+    "details": [
+      "1/4\" unutrašnji navoj x 1/8\" spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/n121/01",
+        "alt": "Redukcija 630 bar"
+      }
+    ]
+  },
+  {
+    "code": "N383",
+    "slug": "redukcija-500-bar-n383",
+    "category": "spojnice",
+    "name": "Redukcija 500 bar",
+    "nameEn": "reduction 500 bar, 1/2\" inner thread x M22 outer thread",
+    "details": [
+      "1/2\" unutrašnji navoj x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/n383/01",
+        "alt": "Redukcija 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "S001",
+    "slug": "visokopritisno-crevo-nonstop-5-s001",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 5",
+    "nameEn": "high pressure hose nonstop 5, 500 bar, 120 °C, DN10, M22 inner thread x M22 inner thread, 10m, incl. hose connector",
+    "details": [
+      "500 bar",
+      "120 °C",
+      "DN10",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "10m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/s001/01",
+        "alt": "Visokopritisno crevo nonstop 5"
+      }
+    ]
+  },
+  {
+    "code": "S002",
+    "slug": "visokopritisno-crevo-nonstop-5-s002",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 5",
+    "nameEn": "high pressure hose nonstop 5, 500 bar, 120 °C, DN10, M22 inner thread x M22 inner thread, 20m, incl. hose connector",
+    "details": [
+      "500 bar",
+      "120 °C",
+      "DN10",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "20m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/s002/01",
+        "alt": "Visokopritisno crevo nonstop 5"
+      }
+    ]
+  },
+  {
+    "code": "S003",
+    "slug": "visokopritisno-crevo-nonstop-5-s003",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 5",
+    "nameEn": "high pressure hose nonstop 5, 500 bar, 120 °C, DN10, M22 inner thread x M22 inner thread, 30m, incl. hose connector",
+    "details": [
+      "500 bar",
+      "120 °C",
+      "DN10",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "30m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/s003/01",
+        "alt": "Visokopritisno crevo nonstop 5"
+      }
+    ]
+  },
+  {
+    "code": "S050",
+    "slug": "bubanj-za-visokopritisno-crevo-dn10-do-30-m-500-bar-ili-20-m-1200-bar-s050",
+    "category": "creva-i-kablovi",
+    "name": "Bubanj za visokopritisno crevo DN10, do 30 m (500 bar) ili 20 m (1200 bar)",
+    "nameEn": "hose reel for max. 30m 500 bar or 20m 1200 bar high pressure hose DN10",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/s050/01",
+        "alt": "Bubanj za visokopritisno crevo DN10, do 30 m (500 bar) ili 20 m (1200 bar)"
+      }
+    ]
+  },
+  {
+    "code": "S054",
+    "slug": "visokopritisno-crevo-nonstop-2-s054",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 2",
+    "nameEn": "high pressure hose nonstop 2, 250 bar, 120 °C, DN8, M22 inner thread x M22 inner thread, 10m, incl. hose connector",
+    "details": [
+      "250 bar",
+      "120 °C",
+      "DN8",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "10m",
+      "uklj. hose connector"
+    ],
+    "images": [
+      {
+        "src": "pribor/s054/01",
+        "alt": "Visokopritisno crevo nonstop 2"
+      }
+    ]
+  },
+  {
+    "code": "S104",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-5-s104",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 5",
+    "nameEn": "pipe cleaning hose drainstop 5, 500 bar, 155 °C, M22 outer thread x 1/4\" outer thread, DN 6, 10m, Ø13,40/15,10mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "DN 6",
+      "10m",
+      "Ø13",
+      "40/15",
+      "10mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/s104/01",
+        "alt": "Crevo za čišćenje cevi drainstop 5"
+      }
+    ]
+  },
+  {
+    "code": "S105",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-5-s105",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 5",
+    "nameEn": "pipe cleaning hose drainstop 5, 500 bar, 155 °C, M22 outer thread x 1/4\" outer thread, DN 6, 20m, Ø13,40/15,10mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "DN 6",
+      "20m",
+      "Ø13",
+      "40/15",
+      "10mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/s105/01",
+        "alt": "Crevo za čišćenje cevi drainstop 5"
+      }
+    ]
+  },
+  {
+    "code": "S108",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-2-s108",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 2",
+    "nameEn": "pipe cleaning hose drainstop 2, 200 bar, 60 °C, M22 outer thread x 1/8\" outer thread, DN 5, 10m, Ø10,40/15,00mm, incl. nozzle 055",
+    "details": [
+      "200 bar",
+      "60 °C",
+      "M22 spoljni navoj x 1/8\" spoljni navoj",
+      "DN 5",
+      "10m",
+      "Ø10",
+      "40/15",
+      "00mm",
+      "uklj. nozzle 055"
+    ],
+    "images": [
+      {
+        "src": "pribor/s108/01",
+        "alt": "Crevo za čišćenje cevi drainstop 2"
+      }
+    ]
+  },
+  {
+    "code": "S115",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-2-s115",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 2",
+    "nameEn": "pipe cleaning hose drainstop 2, 200 bar, 60 °C, M22 outer thread x 1/8\" outer thread, DN 5, 15m,  Ø10,40/15,00mm, incl. nozzle 055",
+    "details": [
+      "200 bar",
+      "60 °C",
+      "M22 spoljni navoj x 1/8\" spoljni navoj",
+      "DN 5",
+      "15m",
+      "Ø10",
+      "40/15",
+      "00mm",
+      "uklj. nozzle 055"
+    ],
+    "images": [
+      {
+        "src": "pribor/s115/01",
+        "alt": "Crevo za čišćenje cevi drainstop 2"
+      }
+    ]
+  },
+  {
+    "code": "S126",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-10-s126",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 10",
+    "nameEn": "pipe cleaning hose drainstop 10, 1000 bar, 70 °C, M24 inner thread dkos x 1/4\" outer thread  DN 6, 20m,  Ø11,50/13,90mm",
+    "details": [
+      "1000 bar",
+      "70 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 6",
+      "20m",
+      "Ø11",
+      "50/13",
+      "90mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/s126/01",
+        "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ]
+  },
+  {
+    "code": "V001",
+    "slug": "okretna-spojnica-500-bar-v001",
+    "category": "spojnice",
+    "name": "Okretna spojnica 500 bar",
+    "nameEn": "swivel 500 bar, 155 °C, M22 inner thread 50 l/min, 0° x M22 outer thread",
+    "details": [
+      "155 °C",
+      "M22 unutrašnji navoj 50 l/min",
+      "0° x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v001/01",
+        "alt": "Okretna spojnica 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "V003",
+    "slug": "dupla-navojna-spojnica-500-bar-v003",
+    "category": "spojnice",
+    "name": "Dupla navojna spojnica 500 bar",
+    "nameEn": "double screw connection 500 bar, M22 inner thread x M22 inner thread",
+    "details": [
+      "M22 unutrašnji navoj x M22 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v003/01",
+        "alt": "Dupla navojna spojnica 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "V005",
+    "slug": "navojna-spojnica-500-bar-v005",
+    "category": "spojnice",
+    "name": "Navojna spojnica 500 bar",
+    "nameEn": "screw connection 500 bar, M22 inner thread x 1/4\" inner thread",
+    "details": [
+      "M22 unutrašnji navoj x 1/4\" unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v005/01",
+        "alt": "Navojna spojnica 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "V006",
+    "slug": "navojna-spojnica-duga-500-bar-v006",
+    "category": "spojnice",
+    "name": "Navojna spojnica, duga, 500 bar",
+    "nameEn": "screw connection long 500 bar, M22 inner thread x 1/4\" outer thread",
+    "details": [
+      "M22 unutrašnji navoj x 1/4\" spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v006/01",
+        "alt": "Navojna spojnica, duga, 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "V007",
+    "slug": "navojna-spojnica-kratka-500-bar-v007",
+    "category": "spojnice",
+    "name": "Navojna spojnica, kratka, 500 bar",
+    "nameEn": "screw connection short 500 bar, M22 inner thread x 1/4\" outer thread",
+    "details": [
+      "M22 unutrašnji navoj x 1/4\" spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v007/01",
+        "alt": "Navojna spojnica, kratka, 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "V044",
+    "slug": "spojnica-creva-500-bar-v044",
+    "category": "creva-i-kablovi",
+    "name": "Spojnica creva 500 bar",
+    "nameEn": "hose connector 500 bar, M22 outer thread x M22 outer thread",
+    "details": [
+      "M22 spoljni navoj x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/v044/01",
+        "alt": "Spojnica creva 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "W020",
+    "slug": "kofer-za-pribor-64-23-23-cm-sa-setom-spojnica-w020",
+    "category": "razno",
+    "name": "Kofer za pribor 64 × 23 × 23 cm sa setom spojnica",
+    "nameEn": "accessory case 64 x 23 x 23 cm incl. coupling kit, hose clamps, quick regulating tap, teflon tape and hose holder, stainless steel",
+    "details": [
+      "hose clamps",
+      "quick regulating tap",
+      "teflon tape i hose holder",
+      "stainless steel"
+    ],
+    "images": [
+      {
+        "src": "pribor/w020/01",
+        "alt": "Kofer za pribor 64 × 23 × 23 cm sa setom spojnica"
+      }
+    ]
+  },
+  {
+    "code": "W1300048",
+    "slug": "adapter-za-antifriz-w1300048",
+    "category": "spojnice",
+    "name": "Adapter za antifriz",
+    "nameEn": "adaptor antifreeze, 20 bar, M24 inner thread/M26 inner thread/M36 inner thread x geka",
+    "details": [
+      "20 bar",
+      "M24 unutrašnji navoj/M26 unutrašnji navoj/M36 unutrašnji navoj x geka"
+    ],
+    "images": [
+      {
+        "src": "pribor/w1300048/01",
+        "alt": "Adapter za antifriz"
+      }
+    ]
+  },
+  {
+    "code": "Z0000003",
+    "slug": "koncentrat-omeksivaca-vode-10-l-z0000003",
+    "category": "razno",
+    "name": "Koncentrat omekšivača vode 10 l",
+    "nameEn": "water softener concentrate 10 l",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000003/01",
+        "alt": "Koncentrat omekšivača vode 10 l"
+      }
+    ]
+  },
+  {
+    "code": "Z0000008",
+    "slug": "usisno-koplje-za-pesak-sa-regulacijom-kolicine-z0000008",
+    "category": "peskarenje",
+    "name": "Usisno koplje za pesak sa regulacijom količine",
+    "nameEn": "sand suction lance with suction quantity control",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000008/01",
+        "alt": "Usisno koplje za pesak sa regulacijom količine"
+      }
+    ]
+  },
+  {
+    "code": "Z0000009",
+    "slug": "twister-5-100-vp-500-bar-z0000009",
+    "category": "ciscenje-povrsina",
+    "name": "Twister 5 100 vp 500 bar",
+    "nameEn": "twister 5 100 vp 500 bar, max 50l/min, 80 °C, 2/1 nozzle size 055, 2x016 style 16, vp=1x025 style 22",
+    "details": [
+      "max 50l/min",
+      "80 °C",
+      "2/1 veličina mlaznice 055",
+      "2x016 style 16",
+      "vp=1x025 style 22"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000009/01",
+        "alt": "Twister 5 100 vp 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000041",
+    "slug": "zastita-za-stopala-30-z0000041",
+    "category": "zastitna-odeca",
+    "name": "Zaštita za stopala 30",
+    "nameEn": "foot protection 30",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000041/01",
+        "alt": "Zaštita za stopala 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000068",
+    "slug": "cizme-8-sa-celicnom-zastitom-za-rad-visokim-pritiskom-z0000068",
+    "category": "zastitna-odeca",
+    "name": "Čizme 8 sa čeličnom zaštitom za rad visokim pritiskom",
+    "nameEn": "boots 8 with special steel protection for high pressure jetting, S5, eu 44 / uk 10",
+    "details": [
+      "S5",
+      "eu 44 / uk 10"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000068/01",
+        "alt": "Čizme 8 sa čeličnom zaštitom za rad visokim pritiskom"
+      }
+    ]
+  },
+  {
+    "code": "Z0000075",
+    "slug": "kecelja-tex-30-z0000075",
+    "category": "zastitna-odeca",
+    "name": "Kecelja tex 30",
+    "nameEn": "apron tex 30, PPE according EU 2016/425, one size",
+    "details": [
+      "PPE according EU 2016/425",
+      "one size"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000075/01",
+        "alt": "Kecelja tex 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000076",
+    "slug": "zastitno-odelo-tex-1-z0000076",
+    "category": "zastitna-odeca",
+    "name": "Zaštitno odelo tex 1",
+    "nameEn": "protective suit tex 1,  size L (corresponds to size 50/52)",
+    "details": [
+      "size L (corresponds to size 50/52)"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000076/01",
+        "alt": "Zaštitno odelo tex 1"
+      }
+    ]
+  },
+  {
+    "code": "Z0000079",
+    "slug": "zastitno-odelo-tex-3-z0000079",
+    "category": "zastitna-odeca",
+    "name": "Zaštitno odelo tex 3",
+    "nameEn": "protective suit tex 3, incl. kneepad, size L (corresponds to size 50/52)",
+    "details": [
+      "uklj. kneepad",
+      "size L (corresponds to size 50/52)"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000079/01",
+        "alt": "Zaštitno odelo tex 3"
+      }
+    ]
+  },
+  {
+    "code": "Z0000100",
+    "slug": "posuda-za-pesak-120-l-z0000100",
+    "category": "peskarenje",
+    "name": "Posuda za pesak 120 l",
+    "nameEn": "sandbox 120 liters",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000100/01",
+        "alt": "Posuda za pesak 120 l"
+      }
+    ]
+  },
+  {
+    "code": "Z0000117",
+    "slug": "rotaciona-mlaznica-pointspeed-5-one-500-bar-z0000117",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 5 one 500 bar",
+    "nameEn": "rotor nozzle pointspeed 5 one 500 bar, 90 °C, 1/4\" inner thread, nozzle size 055 20° v2a style 20",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 055 20° v2a style 20"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000117/01",
+        "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000128",
+    "slug": "koplje-3-z0000128",
+    "category": "koplja",
+    "name": "Koplje 3",
+    "nameEn": "lance 3, 310 bar, 155 °C, M22 outer thread, 1000mm, with stepless pressure regulator, without nozzle",
+    "details": [
+      "310 bar",
+      "155 °C",
+      "M22 spoljni navoj",
+      "1000mm",
+      "with stepless pressure regulator",
+      "without nozzle"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000128/01",
+        "alt": "Koplje 3"
+      }
+    ]
+  },
+  {
+    "code": "Z0000129",
+    "slug": "set-zaptivki-za-prikljucak-mlaznice-3000-bar-za-style-1-2-3-4-5-z0000129",
+    "category": "mlaznice",
+    "name": "Set zaptivki za priključak mlaznice 3000 bar, za style 1/2/3/4/5",
+    "nameEn": "gasket kit nozzle connector 3000 bar for style 1/2/3/4/5",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000129/01",
+        "alt": "Set zaptivki za priključak mlaznice 3000 bar, za style 1/2/3/4/5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000131",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-10-z0000131",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 10",
+    "nameEn": "pipe cleaning hose drainstop 10, 1000 bar, 60 °C, M24 inner thread dkos x 1/4\" outer thread, DN 6, 10m, Ø11,50/13,90mm",
+    "details": [
+      "1000 bar",
+      "60 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj",
+      "DN 6",
+      "10m",
+      "Ø11",
+      "50/13",
+      "90mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000131/01",
+        "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ]
+  },
+  {
+    "code": "Z0000136",
+    "slug": "oslonac-za-rame-za-koplje-do-15-mm-z0000136",
+    "category": "koplja",
+    "name": "Oslonac za rame za koplje do Ø15 mm",
+    "nameEn": "shoulder support for max. Ø15mm lance",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000136/01",
+        "alt": "Oslonac za rame za koplje do Ø15 mm"
+      }
+    ]
+  },
+  {
+    "code": "Z0000137",
+    "slug": "rucka-za-koplje-do-15-mm-z0000137",
+    "category": "koplja",
+    "name": "Ručka za koplje do Ø15 mm",
+    "nameEn": "handle for max. Ø15mm lance",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000137/01",
+        "alt": "Ručka za koplje do Ø15 mm"
+      }
+    ]
+  },
+  {
+    "code": "Z0000141",
+    "slug": "drainsafe-z0000141",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainsafe",
+    "nameEn": "drainsafe, safety stop for drainstop hoses",
+    "details": [
+      "safety stop za drainstop hoses"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000141/01",
+        "alt": "Drainsafe"
+      }
+    ]
+  },
+  {
+    "code": "Z0000142",
+    "slug": "rotaciona-mlaznica-pointspeed-12-one-1200-bar-z0000142",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 12 one 1200 bar",
+    "nameEn": "rotor nozzle pointspeed 12 one 1200 bar, 70°C, M24 inner thread, nozzle size 041 20° v2a style 21",
+    "details": [
+      "70°C",
+      "M24 unutrašnji navoj",
+      "veličina mlaznice 041 20° v2a style 21"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000142/01",
+        "alt": "Rotaciona mlaznica pointspeed 12 one 1200 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000149",
+    "slug": "set-zaptivki-z0000149",
+    "category": "creva-i-kablovi",
+    "name": "Set zaptivki",
+    "nameEn": "gasket kit, high pressure hose nonstop 12/14/15, 1200/1450/1500 bar, M24",
+    "details": [
+      "high pressure hose nonstop 12/14/15",
+      "1200/1450/1500 bar",
+      "M24"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000149/01",
+        "alt": "Set zaptivki"
+      }
+    ]
+  },
+  {
+    "code": "Z0000150",
+    "slug": "spojnica-creva-1500-bar-z0000150",
+    "category": "creva-i-kablovi",
+    "name": "Spojnica creva 1500 bar",
+    "nameEn": "hose connector 1500 bar, M24 outer thread x M24 outer thread",
+    "details": [
+      "M24 spoljni navoj x M24 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000150/01",
+        "alt": "Spojnica creva 1500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000157",
+    "slug": "rotaciona-mlaznica-pointspeed-5-one-500-bar-z0000157",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 5 one 500 bar",
+    "nameEn": "rotor nozzle pointspeed 5 one 500 bar, 90 °C, 1/4\" inner thread, nozzle size 025 20° v2a style 20",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 025 20° v2a style 20"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000157/01",
+        "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000164",
+    "slug": "koplje-5-z0000164",
+    "category": "koplja",
+    "name": "Koplje 5",
+    "nameEn": "lance 5, 500 bar, 155 °C, M22 outer thread, 1000mm, with stepless pressure regulator, without nozzle",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj",
+      "1000mm",
+      "with stepless pressure regulator",
+      "without nozzle"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000164/01",
+        "alt": "Koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000166",
+    "slug": "glava-za-peskarenje-bor-karbid-500-bar-z0000166",
+    "category": "peskarenje",
+    "name": "Glava za peskarenje, bor-karbid, 500 bar",
+    "nameEn": "sandblasting head boron carbide 500 bar, 70 °C, M22 outer thread, nozzle size 045 style 16",
+    "details": [
+      "70 °C",
+      "M22 spoljni navoj",
+      "veličina mlaznice 045 style 16"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000166/01",
+        "alt": "Glava za peskarenje, bor-karbid, 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000167",
+    "slug": "glava-za-peskarenje-bor-karbid-500-bar-z0000167",
+    "category": "peskarenje",
+    "name": "Glava za peskarenje, bor-karbid, 500 bar",
+    "nameEn": "sandblasting head boron carbide 500 bar, 70 °C, M22 outer thread, nozzle size 055 style 16",
+    "details": [
+      "70 °C",
+      "M22 spoljni navoj",
+      "veličina mlaznice 055 style 16"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000167/01",
+        "alt": "Glava za peskarenje, bor-karbid, 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000172",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-5-z0000172",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 5",
+    "nameEn": "pipe cleaning hose drainstop 5, 500 bar, 155 °C, M22 outer thread x 1/4\" outer thread, DN 6, 30m, Ø13,40/15,10mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "DN 6",
+      "30m",
+      "Ø13",
+      "40/15",
+      "10mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000172/01",
+        "alt": "Crevo za čišćenje cevi drainstop 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000173",
+    "slug": "usisno-crevo-za-pesak-15-m-visokopritisno-crevo-nonstop-5-z0000173",
+    "category": "peskarenje",
+    "name": "Usisno crevo za pesak 15 m + visokopritisno crevo nonstop 5",
+    "nameEn": "sand suction hose 15m + high pressure hose nonstop 5, 500 bar, 155 °C, DN10, M22 inner thread x M22 inner thread, 10m",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "DN10",
+      "M22 unutrašnji navoj x M22 unutrašnji navoj",
+      "10m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000173/01",
+        "alt": "Usisno crevo za pesak 15 m + visokopritisno crevo nonstop 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000174",
+    "slug": "usisno-crevo-za-pesak-7-m-z0000174",
+    "category": "peskarenje",
+    "name": "Usisno crevo za pesak 7 m",
+    "nameEn": "sand suction hose 7m",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000174/01",
+        "alt": "Usisno crevo za pesak 7 m"
+      }
+    ]
+  },
+  {
+    "code": "Z0000180",
+    "slug": "rotaciona-mlaznica-pointspeed-3-one-350-bar-z0000180",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 3 one 350 bar",
+    "nameEn": "rotor nozzle pointspeed 3 one 350 bar, 90 °C, 1/4\" inner thread, nozzle size 045 20° style 19",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 045 20° style 19"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000180/01",
+        "alt": "Rotaciona mlaznica pointspeed 3 one 350 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000184",
+    "slug": "set-za-popravku-pointspeed-12-one-velicina-mlaznice-041-z0000184",
+    "category": "mlaznice",
+    "name": "Set za popravku pointspeed 12 one, veličina mlaznice 041",
+    "nameEn": "repair kit pointspeed 12 one nozzle size 041, Z0000142",
+    "details": [
+      "Z0000142"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000184/01",
+        "alt": "Set za popravku pointspeed 12 one, veličina mlaznice 041"
+      }
+    ]
+  },
+  {
+    "code": "Z0000208",
+    "slug": "visokopritisni-pistolj-30-z0000208",
+    "category": "pistolji",
+    "name": "Visokopritisni pištolj 30",
+    "nameEn": "high pressure gun 30, 3000 bar, 70 °C, M26 inner thread x M26 inner thread, safety plus, plug 7 pins",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "M26 unutrašnji navoj x M26 unutrašnji navoj",
+      "safety plus",
+      "plug 7 pins"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000208/01",
+        "alt": "Visokopritisni pištolj 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000209",
+    "slug": "visokopritisni-pistolj-5-z0000209",
+    "category": "pistolji",
+    "name": "Visokopritisni pištolj 5",
+    "nameEn": "high pressure gun 5, 500 bar, 155 °C, M22 outer thread x M22 inner thread",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj x M22 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000209/01",
+        "alt": "Visokopritisni pištolj 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000210",
+    "slug": "visokopritisni-pistolj-3-z0000210",
+    "category": "pistolji",
+    "name": "Visokopritisni pištolj 3",
+    "nameEn": "high pressure gun 3, 300 bar, 155 °C, M22 outer thread x M22 inner thread",
+    "details": [
+      "300 bar",
+      "155 °C",
+      "M22 spoljni navoj x M22 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000210/01",
+        "alt": "Visokopritisni pištolj 3"
+      }
+    ]
+  },
+  {
+    "code": "Z0000211",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-10-z0000211",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 10",
+    "nameEn": "pipe cleaning hose drainstop 10, 1000 bar, 70 °C, M24 inner thread dkos x 1/4\" outer thread  DN 6, 30m, Ø11,50/13,90mm",
+    "details": [
+      "1000 bar",
+      "70 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 6",
+      "30m",
+      "Ø11",
+      "50/13",
+      "90mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000211/01",
+        "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ]
+  },
+  {
+    "code": "Z0000214",
+    "slug": "bubanj-za-visokopritisno-crevo-nonstop-13-14-25-30-z0000214",
+    "category": "creva-i-kablovi",
+    "name": "Bubanj za visokopritisno crevo nonstop 13/14/25/30",
+    "nameEn": "hose reel for high pressure hose nonstop 13/14/25/30, max 20m",
+    "details": [
+      "max 20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000214/01",
+        "alt": "Bubanj za visokopritisno crevo nonstop 13/14/25/30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000216",
+    "slug": "upravljacki-kabl-7-pinova-z0000216",
+    "category": "creva-i-kablovi",
+    "name": "Upravljački kabl, 7 pinova",
+    "nameEn": "control cable 7-pin, 25m",
+    "details": [
+      "25m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000216/01",
+        "alt": "Upravljački kabl, 7 pinova"
+      }
+    ]
+  },
+  {
+    "code": "Z0000217",
+    "slug": "visokopritisni-dump-pistolj-30-z0000217",
+    "category": "pistolji",
+    "name": "Visokopritisni dump pištolj 30",
+    "nameEn": "high pressure dump gun 30, 3000 bar, 70 °C, M26 inner thread x M26 inner thread, safety plus",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "M26 unutrašnji navoj x M26 unutrašnji navoj",
+      "safety plus"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000217/01",
+        "alt": "Visokopritisni dump pištolj 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000218",
+    "slug": "razdelnik-geka-2-geka-z0000218",
+    "category": "dovod-vode",
+    "name": "Razdelnik Geka – 2 × Geka",
+    "nameEn": "distributor geka - 2 x geka, with ball valve",
+    "details": [
+      "with ball valve"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000218/01",
+        "alt": "Razdelnik Geka – 2 × Geka"
+      }
+    ]
+  },
+  {
+    "code": "Z0000225",
+    "slug": "rukavice-za-rad-mlazom-z0000225",
+    "category": "zastitna-odeca",
+    "name": "Rukavice za rad mlazom",
+    "nameEn": "gloves for jetting works, water absorbing neoprene, size XL (10)",
+    "details": [
+      "water absorbing neoprene",
+      "size XL (10)"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000225/01",
+        "alt": "Rukavice za rad mlazom"
+      }
+    ]
+  },
+  {
+    "code": "Z0000226",
+    "slug": "rukavice-za-rad-mlazom-z0000226",
+    "category": "zastitna-odeca",
+    "name": "Rukavice za rad mlazom",
+    "nameEn": "gloves for jetting works, water absorbing neoprene, size L (9)",
+    "details": [
+      "water absorbing neoprene",
+      "size L (9)"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000226/01",
+        "alt": "Rukavice za rad mlazom"
+      }
+    ]
+  },
+  {
+    "code": "Z0000234",
+    "slug": "veliki-set-za-popravku-z0000234",
+    "category": "mlaznice",
+    "name": "Veliki set za popravku",
+    "nameEn": "repair kit big, pointspeed regulation 30, Z0000582/Z0000573/Z0000564",
+    "details": [
+      "pointspeed regulation 30",
+      "Z0000582/Z0000573/Z0000564"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000234/01",
+        "alt": "Veliki set za popravku"
+      }
+    ]
+  },
+  {
+    "code": "Z0000253",
+    "slug": "rotaciona-mlaznica-pointspeed-5-one-500-bar-z0000253",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 5 one 500 bar",
+    "nameEn": "rotor nozzle pointspeed 5 one 500 bar, 90 °C, 1/4\" inner thread, nozzle size 035 20° v2a style 20",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 035 20° v2a style 20"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000253/01",
+        "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000256",
+    "slug": "glava-za-peskarenje-bor-karbid-500-bar-z0000256",
+    "category": "peskarenje",
+    "name": "Glava za peskarenje, bor-karbid, 500 bar",
+    "nameEn": "sandblasting head boron carbide 500 bar, 70 °C, M22 outer thread, nozzle size 030 style 16",
+    "details": [
+      "70 °C",
+      "M22 spoljni navoj",
+      "veličina mlaznice 030 style 16"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000256/01",
+        "alt": "Glava za peskarenje, bor-karbid, 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000257",
+    "slug": "twister-30-260vc3000-bar-z0000257",
+    "category": "ciscenje-povrsina",
+    "name": "Twister 30 260vc3000 bar",
+    "nameEn": "twister 30 260vc3000 bar, 70 °C, M26 inner thread/quicklock, 16/4  nozzle 2500 bar 18l/min  A1+B1+C1+D1=0,45mm style 9, vp=1x040 style 22",
+    "details": [
+      "70 °C",
+      "M26 unutrašnji navoj/quicklock",
+      "16/4  nozzle 2500 bar 18l/min  A1+B1+C1+D1=0",
+      "45mm style 9",
+      "vp=1x040 style 22"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000257/01",
+        "alt": "Twister 30 260vc3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000304",
+    "slug": "glava-za-ciscenje-rezervoara-4-z0000304",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Glava za čišćenje rezervoara 4",
+    "nameEn": "tank cleaning head 4, max. 45kW, 200-400bar, 15-60l/min, max. 60 rpm, Ø:170mm/l:152mm, 1/2\"ig, max. 90°C, 4x style 12, 060",
+    "details": [
+      "maks. 45kW",
+      "200-400bar",
+      "15-60l/min",
+      "maks. 60 rpm",
+      "Ø:170mm/l:152mm",
+      "1/2\"ig",
+      "maks. 90°C",
+      "4x style 12",
+      "060"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000304/01",
+        "alt": "Glava za čišćenje rezervoara 4"
+      }
+    ]
+  },
+  {
+    "code": "Z0000320",
+    "slug": "upravljacki-kabl-7-pinova-z0000320",
+    "category": "creva-i-kablovi",
+    "name": "Upravljački kabl, 7 pinova",
+    "nameEn": "control cable 7-pin, 50m",
+    "details": [
+      "50m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000320/01",
+        "alt": "Upravljački kabl, 7 pinova"
+      }
+    ]
+  },
+  {
+    "code": "Z0000322",
+    "slug": "rotaciona-mlaznica-pointspeed-5-one-500-bar-z0000322",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 5 one 500 bar",
+    "nameEn": "rotor nozzle pointspeed 5 one 500 bar, 90 °C, 1/4\" inner thread, nozzle size 030 20° v2a style 20",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 030 20° v2a style 20"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000322/01",
+        "alt": "Rotaciona mlaznica pointspeed 5 one 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000404",
+    "slug": "sigurnosna-obujmica-40-mm-za-visokopritisno-crevo-nonstop-25-30-z0000404",
+    "category": "creva-i-kablovi",
+    "name": "Sigurnosna obujmica 40 mm za visokopritisno crevo nonstop 25/30",
+    "nameEn": "safety binder 40mm connection high pressure hose nonstop 25/30, gun or machine",
+    "details": [
+      "gun ili machine"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000404/01",
+        "alt": "Sigurnosna obujmica 40 mm za visokopritisno crevo nonstop 25/30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000406",
+    "slug": "sigurnosna-obujmica-205-mm-prikljucak-quicklock-za-visokopritisno-crevo-nonstop-25-30-z0000406",
+    "category": "creva-i-kablovi",
+    "name": "Sigurnosna obujmica 205 mm, priključak quicklock, za visokopritisno crevo nonstop 25/30",
+    "nameEn": "safety binder 205mm connection quicklock for high pressure hose nonstop 25/30",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000406/01",
+        "alt": "Sigurnosna obujmica 205 mm, priključak quicklock, za visokopritisno crevo nonstop 25/30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000504",
+    "slug": "filter-jedinica-200-z0000504",
+    "category": "dovod-vode",
+    "name": "Filter jedinica 200",
+    "nameEn": "filter unit 200, 10 bar, 40 °C, 200 l/min",
+    "details": [
+      "10 bar",
+      "40 °C",
+      "200 l/min"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000504/01",
+        "alt": "Filter jedinica 200"
+      }
+    ]
+  },
+  {
+    "code": "Z0000534",
+    "slug": "bubanj-sa-crevom-za-vodu-3-4-25-m-z0000534",
+    "category": "dovod-vode",
+    "name": "Bubanj sa crevom za vodu 3/4\", 25 m",
+    "nameEn": "hose reel incl. 25m 3/4\" water hose",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000534/01",
+        "alt": "Bubanj sa crevom za vodu 3/4\", 25 m"
+      }
+    ]
+  },
+  {
+    "code": "Z0000546",
+    "slug": "rotaciona-mlaznica-pointspeed-regulation-5-z0000546",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed regulation 5",
+    "nameEn": "rotor nozzle pointspeed regulation 5, 4/2, 500 bar, 90 °C, 1/4\" inner thread, 40kW, nozzle 500 bar 28 l/min, 1+2=0,70mm 3+4=0,90mm style 9",
+    "details": [
+      "4/2",
+      "500 bar",
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "40kW",
+      "nozzle 500 bar 28 l/min",
+      "1+2=0",
+      "70mm 3+4=0",
+      "90mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000546/01",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000556",
+    "slug": "drainspeed-30-z0000556",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 30",
+    "nameEn": "drainspeed 30, max. 280kW, 500-3000bar, 10-50l/min, max. 1500 rpm, Ø:880mm/l:210mm, 9/16\"unf-lh ig, 3/1, 0/3x90°/0/0, style: 5, 016",
+    "details": [
+      "maks. 280kW",
+      "500-3000bar",
+      "10-50l/min",
+      "maks. 1500 rpm",
+      "Ø:880mm/l:210mm",
+      "9/16\"unf-lh ig",
+      "3/1",
+      "0/3x90°/0/0",
+      "style: 5",
+      "016"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000556/01",
+        "alt": "Drainspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000564",
+    "slug": "rotaciona-mlaznica-pointspeed-regulation-30-z0000564",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed regulation 30",
+    "nameEn": "rotor nozzle pointspeed regulation 30, 6/2, 3000 bar, 70 °C 9/16\"unf-lh in. thr., 125kW, nozzle 2500 bar 19 l/min 1+2+3=0,35mm 4+5+6=0,40mm style 9",
+    "details": [
+      "6/2",
+      "3000 bar",
+      "70 °C 9/16\"unf-lh in. thr.",
+      "125kW",
+      "nozzle 2500 bar 19 l/min 1+2+3=0",
+      "35mm 4+5+6=0",
+      "40mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000564/01",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000570",
+    "slug": "drain-helper-250-z0000570",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drain helper 250",
+    "nameEn": "drain helper 250, Øout: 300-900mm, l: 859mm",
+    "details": [
+      "Øout: 300-900mm",
+      "l: 859mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000570/01",
+        "alt": "Drain helper 250"
+      }
+    ]
+  },
+  {
+    "code": "Z0000571",
+    "slug": "plafonski-i-podni-helper-125-z0000571",
+    "category": "pomocni-alat",
+    "name": "Plafonski i podni helper 125",
+    "nameEn": "ceiling / floor helper 125",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000571/01",
+        "alt": "Plafonski i podni helper 125"
+      }
+    ]
+  },
+  {
+    "code": "Z0000572",
+    "slug": "filter-jedinica-600-z0000572",
+    "category": "dovod-vode",
+    "name": "Filter jedinica 600",
+    "nameEn": "filter unit 600, 10 bar, 40 °C, 600 l/min incl. water pre-pressure indicator",
+    "details": [
+      "10 bar",
+      "40 °C",
+      "600 l/min uklj. water pre-pressure indicator"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000572/01",
+        "alt": "Filter jedinica 600"
+      }
+    ]
+  },
+  {
+    "code": "Z0000573",
+    "slug": "rotaciona-mlaznica-pointspeed-regulation-30-z0000573",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed regulation 30",
+    "nameEn": "rotor nozzle pointspeed regulation 30, 4/2, 3000 bar, 70 °C 9/16\"unf-lh inner thread, 125kW, nozzle 2500 bar 19 l/min 1+2=0,50mm 3+4=0,40mm style 9",
+    "details": [
+      "4/2",
+      "3000 bar",
+      "70 °C 9/16\"unf-lh unutrašnji navoj",
+      "125kW",
+      "nozzle 2500 bar 19 l/min 1+2=0",
+      "50mm 3+4=0",
+      "40mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000573/01",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000574",
+    "slug": "drainspeed-30-z0000574",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 30",
+    "nameEn": "drainspeed 30, max. 240kW, 500-3000bar, 20-50l/min, max. 2500 rpm, Ø:62mm/l:251mm, 9/16\"unf-lh ig, 12/4, 4x135°/3x90°/4x45°/1x0°, style: 9, 017",
+    "details": [
+      "maks. 240kW",
+      "500-3000bar",
+      "20-50l/min",
+      "maks. 2500 rpm",
+      "Ø:62mm/l:251mm",
+      "9/16\"unf-lh ig",
+      "12/4",
+      "4x135°/3x90°/4x45°/1x0°",
+      "style: 9",
+      "017"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000574/01",
+        "alt": "Drainspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000579",
+    "slug": "navojna-spojnica-quicklock-3000-bar-z0000579",
+    "category": "creva-i-kablovi",
+    "name": "Navojna spojnica quicklock 3000 bar",
+    "nameEn": "screw connection quicklock 3000 bar, 9/16\"unf-lh x quicklock for high pressure hose nonstop 25/30",
+    "details": [
+      "9/16\"unf-lh x quicklock za high pressure hose nonstop 25/30"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000579/01",
+        "alt": "Navojna spojnica quicklock 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000580",
+    "slug": "dupli-nipl-quicklock-3000-bar-z0000580",
+    "category": "spojnice",
+    "name": "Dupli nipl quicklock 3000 bar",
+    "nameEn": "double nipple quicklock 3000 bar, M26 outer thread x M26 outer thread, quicklock for machine/gun",
+    "details": [
+      "M26 spoljni navoj x M26 spoljni navoj",
+      "quicklock za machine/gun"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000580/01",
+        "alt": "Dupli nipl quicklock 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000581",
+    "slug": "set-zaptivki-z0000581",
+    "category": "creva-i-kablovi",
+    "name": "Set zaptivki",
+    "nameEn": "gasket kit, quicklock",
+    "details": [
+      "quicklock"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000581/01",
+        "alt": "Set zaptivki"
+      }
+    ]
+  },
+  {
+    "code": "Z0000582",
+    "slug": "rotaciona-mlaznica-pointspeed-regulation-30-z0000582",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed regulation 30",
+    "nameEn": "rotor nozzle pointspeed regulation 30, 4/2, 3000 bar, 70 °C 9/16\"unf-lh inner thread, 40kW, nozzle 1000 bar 13 l/min 1+2=0,50mm 3+4=0,45mm style 9",
+    "details": [
+      "4/2",
+      "3000 bar",
+      "70 °C 9/16\"unf-lh unutrašnji navoj",
+      "40kW",
+      "nozzle 1000 bar 13 l/min 1+2=0",
+      "50mm 3+4=0",
+      "45mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000582/01",
+        "alt": "Rotaciona mlaznica pointspeed regulation 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000585",
+    "slug": "radio-upravljanje-z0000585",
+    "category": "razno",
+    "name": "Radio upravljanje",
+    "nameEn": "radio control, 6-channel, bj/tj 125, easy 1, range about 100m",
+    "details": [
+      "6-channel",
+      "bj/tj 125",
+      "easy 1",
+      "range about 100m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000585/01",
+        "alt": "Radio upravljanje"
+      }
+    ]
+  },
+  {
+    "code": "Z0000588",
+    "slug": "spojnica-creva-3000-bar-z0000588",
+    "category": "creva-i-kablovi",
+    "name": "Spojnica creva 3000 bar",
+    "nameEn": "hose connector 3000 bar, M26 outer thread x M26 outer thread, quicklock",
+    "details": [
+      "M26 spoljni navoj x M26 spoljni navoj",
+      "quicklock"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000588/01",
+        "alt": "Spojnica creva 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000591",
+    "slug": "podvodna-jedinica-3000-bar-z0000591",
+    "category": "razno",
+    "name": "Podvodna jedinica 3000 bar",
+    "nameEn": "underwater unit 3000 bar, M26 outer thread x M26 inner thread, incl. nozzle holder for style 3,4,5",
+    "details": [
+      "M26 spoljni navoj x M26 unutrašnji navoj",
+      "uklj. nozzle holder za style 3",
+      "4",
+      "5"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000591/01",
+        "alt": "Podvodna jedinica 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000593",
+    "slug": "visokopritisno-crevo-nonstop-25-ph-z0000593",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 25 ph",
+    "nameEn": "high pressure hose nonstop 25 ph, 2500 bar, 70 °C, DN8, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread / quicklock, 20m",
+    "details": [
+      "2500 bar",
+      "70 °C",
+      "DN8",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock",
+      "20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000593/01",
+        "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ]
+  },
+  {
+    "code": "Z0000594",
+    "slug": "visokopritisno-crevo-nonstop-25-ph-z0000594",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 25 ph",
+    "nameEn": "high pressure hose nonstop 25 ph, 2500 bar, 60 °C, DN5, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread/ quicklock, 5m, safety plus",
+    "details": [
+      "2500 bar",
+      "60 °C",
+      "DN5",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj/ quicklock",
+      "5m",
+      "safety plus"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000594/01",
+        "alt": "Visokopritisno crevo nonstop 25 ph"
+      }
+    ]
+  },
+  {
+    "code": "Z0000599",
+    "slug": "visokopritisno-crevo-nonstop-30-ph-z0000599",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 30 ph",
+    "nameEn": "high pressure hose nonstop 30 ph, 3000 bar, 70 °C, DN8, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread / quicklock, 20m",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "DN8",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock",
+      "20m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000599/01",
+        "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ]
+  },
+  {
+    "code": "Z0000602",
+    "slug": "veliki-set-za-popravku-za-pointspeed-regulation-5-z0000602",
+    "category": "mlaznice",
+    "name": "Veliki set za popravku za pointspeed regulation 5",
+    "nameEn": "repair kit large pointspeed regulation 5, Z0000776/546",
+    "details": [
+      "Z0000776/546"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000602/01",
+        "alt": "Veliki set za popravku za pointspeed regulation 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000603",
+    "slug": "set-tockova-za-twister-30-z0000603",
+    "category": "ciscenje-povrsina",
+    "name": "Set točkova za twister 30",
+    "nameEn": "wheel pack for twister 30",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000603/01",
+        "alt": "Set točkova za twister 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000609",
+    "slug": "kalem-za-upravljacki-kabl-z0000609",
+    "category": "creva-i-kablovi",
+    "name": "Kalem za upravljački kabl",
+    "nameEn": "cable reel for control cable, max. 75 m",
+    "details": [
+      "maks. 75 m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000609/01",
+        "alt": "Kalem za upravljački kabl"
+      }
+    ]
+  },
+  {
+    "code": "Z0000614",
+    "slug": "drainspeed-30-z0000614",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 30",
+    "nameEn": "drainspeed 30, max. 240kW, 500-3000bar, 20-50l/min, max. 2500 rpm, Ø:62mm/l:234mm, 9/16\"unf-lh ig, 10/3, 4x135°/3x90°/0/3x45° x-jet, style: 9, 018",
+    "details": [
+      "maks. 240kW",
+      "500-3000bar",
+      "20-50l/min",
+      "maks. 2500 rpm",
+      "Ø:62mm/l:234mm",
+      "9/16\"unf-lh ig",
+      "10/3",
+      "4x135°/3x90°/0/3x45° x-jet",
+      "style: 9",
+      "018"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000614/01",
+        "alt": "Drainspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000620",
+    "slug": "filter-jedinica-15-z0000620",
+    "category": "dovod-vode",
+    "name": "Filter jedinica 15",
+    "nameEn": "filter unit 15, 10 bar, 40 °C, 15 l/min",
+    "details": [
+      "10 bar",
+      "40 °C",
+      "15 l/min"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000620/01",
+        "alt": "Filter jedinica 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000624",
+    "slug": "visokopritisno-crevo-nonstop-30-ph-z0000624",
+    "category": "creva-i-kablovi",
+    "name": "Visokopritisno crevo nonstop 30 ph",
+    "nameEn": "high pressure hose nonstop 30 ph, 3000 bar, 70 °C, DN6, 9/16\"unf-lh outer thread x 9/16\"unf-lh outer thread / quicklock, 5m, safety plus",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "DN6",
+      "9/16\"unf-lh spoljni navoj x 9/16\"unf-lh spoljni navoj / quicklock",
+      "5m",
+      "safety plus"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000624/01",
+        "alt": "Visokopritisno crevo nonstop 30 ph"
+      }
+    ]
+  },
+  {
+    "code": "Z0000630",
+    "slug": "tandem-manager-500-bar-z0000630",
+    "category": "razno",
+    "name": "Tandem manager 500 bar",
+    "nameEn": "tandem manager 500 bar, M22 outer thread x M22 outer thread x M22 outer thread",
+    "details": [
+      "M22 spoljni navoj x M22 spoljni navoj x M22 spoljni navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000630/01",
+        "alt": "Tandem manager 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000636",
+    "slug": "base-filt-50-band-z0000636",
+    "category": "otpadna-voda",
+    "name": "Base filt 50 band",
+    "nameEn": "base filt 50 band, 0 - 50 l/min, 80 °C, filter area 1,6 m², width filter fleece 1 m, 400 V/50 Hz/16 A, 5 m, 264 x 158 x 187 mm, 822 kg",
+    "details": [
+      "0 - 50 l/min",
+      "80 °C",
+      "filter area 1",
+      "6 m²",
+      "width filter fleece 1 m",
+      "400 V/50 Hz/16 A",
+      "5 m",
+      "264 x 158 x 187 mm",
+      "822 kg"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000636/01",
+        "alt": "Base filt 50 band"
+      }
+    ]
+  },
+  {
+    "code": "Z0000653",
+    "slug": "kablovsko-daljinsko-upravljanje-easy-1-za-base-jet-trail-jet-15-30-125-sa-2-50-m-upravljackog-kabla-z0000653",
+    "category": "razno",
+    "name": "Kablovsko daljinsko upravljanje easy 1 za Base Jet/Trail Jet 15/30/125, sa 2 × 50 m upravljačkog kabla",
+    "nameEn": "remote control cable control easy 1 for base jet/trail jet 15/30/125 incl. 2x 50m control cable, emergency stop, max. range 200m cable",
+    "details": [
+      "emergency stop",
+      "maks. range 200m cable"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000653/01",
+        "alt": "Kablovsko daljinsko upravljanje easy 1 za Base Jet/Trail Jet 15/30/125, sa 2 × 50 m upravljačkog kabla"
+      }
+    ]
+  },
+  {
+    "code": "Z0000664",
+    "slug": "rotaciona-mlaznica-pointspeed-30-z0000664",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 30",
+    "nameEn": "rotor nozzle pointspeed 30, 4/2, 3000 bar, 70 °C 9/16\"unf-lh inner thread, 125kW, nozzle 2500 bar 19 l/min, 1+2=0,50mm 3+4=0,40mm style 9",
+    "details": [
+      "4/2",
+      "3000 bar",
+      "70 °C 9/16\"unf-lh unutrašnji navoj",
+      "125kW",
+      "nozzle 2500 bar 19 l/min",
+      "1+2=0",
+      "50mm 3+4=0",
+      "40mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000664/01",
+        "alt": "Rotaciona mlaznica pointspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000669",
+    "slug": "razdelnik-dovoda-vode-6-brza-spojnica-3-4-z0000669",
+    "category": "dovod-vode",
+    "name": "Razdelnik dovoda vode, 6 × brza spojnica 3/4\"",
+    "nameEn": "water supply splitter 6 x quick coupling 3/4\", 2 x C/52",
+    "details": [
+      "2 x C/52"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000669/01",
+        "alt": "Razdelnik dovoda vode, 6 × brza spojnica 3/4\""
+      }
+    ]
+  },
+  {
+    "code": "Z0000670",
+    "slug": "brza-regulaciona-slavina-c-52-z0000670",
+    "category": "dovod-vode",
+    "name": "Brza regulaciona slavina C/52",
+    "nameEn": "quick regulating tap C/52",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000670/01",
+        "alt": "Brza regulaciona slavina C/52"
+      }
+    ]
+  },
+  {
+    "code": "Z0000672",
+    "slug": "zastitna-jakna-tex-30-nivo-zastite-20-30-z0000672",
+    "category": "zastitna-odeca",
+    "name": "Zaštitna jakna tex 30, nivo zaštite 20/30",
+    "nameEn": "protection jacket tex 30 protection level 20/30, CE 89/686/EEC size L/XL",
+    "details": [
+      "CE 89/686/EEC size L/XL"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000672/01",
+        "alt": "Zaštitna jakna tex 30, nivo zaštite 20/30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000675",
+    "slug": "zastitne-pantalone-tex-30-z0000675",
+    "category": "zastitna-odeca",
+    "name": "Zaštitne pantalone tex 30",
+    "nameEn": "protection trousers tex 30, incl. kneepad protection level 20/30, CE 89/686/EEC size L/XL",
+    "details": [
+      "uklj. kneepad nivo zaštite 20/30",
+      "CE 89/686/EEC size L/XL"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000675/01",
+        "alt": "Zaštitne pantalone tex 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000688",
+    "slug": "bubanj-sa-crevom-za-vodu-c-52-20-m-z0000688",
+    "category": "dovod-vode",
+    "name": "Bubanj sa crevom za vodu C/52, 20 m",
+    "nameEn": "hose reel incl. 20 m C/52 water hose",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000688/01",
+        "alt": "Bubanj sa crevom za vodu C/52, 20 m"
+      }
+    ]
+  },
+  {
+    "code": "Z0000690",
+    "slug": "razdelnik-c-cc-sa-kuglastim-slavinama-z0000690",
+    "category": "dovod-vode",
+    "name": "Razdelnik C/CC sa kuglastim slavinama",
+    "nameEn": "distributor C/CC with ball taps",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000690/01",
+        "alt": "Razdelnik C/CC sa kuglastim slavinama"
+      }
+    ]
+  },
+  {
+    "code": "Z0000699",
+    "slug": "pumpa-za-vodu-p450-z0000699",
+    "category": "dovod-vode",
+    "name": "Pumpa za vodu P450",
+    "nameEn": "P450 water pump, 5 bar, max. 50 m delivery height, max. 450 l/min, 400 V, 50 Hz",
+    "details": [
+      "5 bar",
+      "maks. 50 m delivery height",
+      "maks. 450 l/min",
+      "400 V",
+      "50 Hz"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000699/01",
+        "alt": "Pumpa za vodu P450"
+      }
+    ]
+  },
+  {
+    "code": "Z0000701",
+    "slug": "usisna-korpa-c-52-sa-nepovratnim-ventilom-z0000701",
+    "category": "dovod-vode",
+    "name": "Usisna korpa C/52 sa nepovratnim ventilom",
+    "nameEn": "suction basket C/52 with non-return valve",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000701/01",
+        "alt": "Usisna korpa C/52 sa nepovratnim ventilom"
+      }
+    ]
+  },
+  {
+    "code": "Z0000702",
+    "slug": "usisno-crevo-c-52-z0000702",
+    "category": "dovod-vode",
+    "name": "Usisno crevo C/52",
+    "nameEn": "suction hose C/52, 2,5 m",
+    "details": [
+      "2",
+      "5 m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000702/01",
+        "alt": "Usisno crevo C/52"
+      }
+    ]
+  },
+  {
+    "code": "Z0000718",
+    "slug": "cont-sed-100-z0000718",
+    "category": "otpadna-voda",
+    "name": "Cont sed 100",
+    "nameEn": "cont sed 100, 0 - 100 l/min, 80° C, volume 7000 l, 391 x 188 x 169 cm, 1850 kg",
+    "details": [
+      "0 - 100 l/min",
+      "80° C",
+      "volume 7000 l",
+      "391 x 188 x 169 cm",
+      "1850 kg"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000718/01",
+        "alt": "Cont sed 100"
+      }
+    ]
+  },
+  {
+    "code": "Z0000769",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-15-z0000769",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 15",
+    "nameEn": "pipe cleaning hose drainstop 15, 1500 bar, 70 °C, M24 inner thread x M7 outer thread, DN 4, 7m, Ø7,90/9,80mm",
+    "details": [
+      "1500 bar",
+      "70 °C",
+      "M24 unutrašnji navoj x M7 spoljni navoj",
+      "DN 4",
+      "7m",
+      "Ø7",
+      "90/9",
+      "80mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000769/01",
+        "alt": "Crevo za čišćenje cevi drainstop 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000770",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-15-z0000770",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 15",
+    "nameEn": "pipe cleaning hose drainstop 15, 1500 bar, 70 °C, M24 inner thread x M7 outer thread, DN 4, 15m, Ø7,90/9,80mm",
+    "details": [
+      "1500 bar",
+      "70 °C",
+      "M24 unutrašnji navoj x M7 spoljni navoj",
+      "DN 4",
+      "15m",
+      "Ø7",
+      "90/9",
+      "80mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000770/01",
+        "alt": "Crevo za čišćenje cevi drainstop 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000774",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-30-z0000774",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 30",
+    "nameEn": "pipe cleaning hose drainstop 30, 3000 bar, 70 °C, 3/8\"unf-lh outer thread x 3/8\"unf-lh outer thread DN 4, 10m, Ø9,90/12,80mm",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj DN 4",
+      "10m",
+      "Ø9",
+      "90/12",
+      "80mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000774/01",
+        "alt": "Crevo za čišćenje cevi drainstop 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000775",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-30-z0000775",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 30",
+    "nameEn": "pipe cleaning hose drainstop 30, 3000 bar, 70 °C, 3/8\"unf-lh outer thread x 3/8\"unf-lh outer thread DN 4, 20m, Ø9,90/12,80mm",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj DN 4",
+      "20m",
+      "Ø9",
+      "90/12",
+      "80mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000775/01",
+        "alt": "Crevo za čišćenje cevi drainstop 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000776",
+    "slug": "rotaciona-mlaznica-pointspeed-regulation-5-z0000776",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed regulation 5",
+    "nameEn": "rotor nozzle pointspeed regulation 5, 4/2, 500 bar, 90 °C, 1/4\" inner thread, 15kW, 500 bar 15 l/min 1+2=0,65mm 3+4=0,55mm style 9",
+    "details": [
+      "4/2",
+      "500 bar",
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "15kW",
+      "500 bar 15 l/min 1+2=0",
+      "65mm 3+4=0",
+      "55mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000776/01",
+        "alt": "Rotaciona mlaznica pointspeed regulation 5"
+      }
+    ]
+  },
+  {
+    "code": "Z0000782",
+    "slug": "veliki-set-za-popravku-z0000782",
+    "category": "mlaznice",
+    "name": "Veliki set za popravku",
+    "nameEn": "repair kit big, pointspeed 30/corner 30, Z0001008/Z0000664/Z0000833",
+    "details": [
+      "pointspeed 30/corner 30",
+      "Z0001008/Z0000664/Z0000833"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000782/01",
+        "alt": "Veliki set za popravku"
+      }
+    ]
+  },
+  {
+    "code": "Z0000796",
+    "slug": "y-razdelnik-500-bar-z0000796",
+    "category": "spojnice",
+    "name": "Y-razdelnik 500 bar",
+    "nameEn": "distributor-y 500 bar, 1 x M22x1,5 inner thread, 2 x M22x1,5 outer thread, DN10",
+    "details": [
+      "1 x M22x1",
+      "5 unutrašnji navoj",
+      "2 x M22x1",
+      "5 spoljni navoj",
+      "DN10"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000796/01",
+        "alt": "Y-razdelnik 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000809",
+    "slug": "rotaciona-mlaznica-pointspeed-3-one-350-bar-z0000809",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 3 one 350 bar",
+    "nameEn": "rotor nozzle pointspeed 3 one 350 bar, 90 °C, 1/4\" inner thread, nozzle size 060 20° style 19",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 060 20° style 19"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000809/01",
+        "alt": "Rotaciona mlaznica pointspeed 3 one 350 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000823",
+    "slug": "tandem-manager-3000-bar-z0000823",
+    "category": "razno",
+    "name": "Tandem manager 3000 bar",
+    "nameEn": "tandem manager 3000 bar, 3x M36 x 2,0 inner thread",
+    "details": [
+      "3x M36 x 2",
+      "0 unutrašnji navoj"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000823/01",
+        "alt": "Tandem manager 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000829",
+    "slug": "koplje-1-weed-ex-z0000829",
+    "category": "koplja",
+    "name": "Koplje 1 weed ex",
+    "nameEn": "lance 1 weed ex, 100 bar, 100 °C, DN7, Øa 13,1mm, M22 outer thread, 900mm ",
+    "details": [
+      "100 bar",
+      "100 °C",
+      "DN7",
+      "Øa 13",
+      "1mm",
+      "M22 spoljni navoj",
+      "900mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000829/01",
+        "alt": "Koplje 1 weed ex"
+      }
+    ]
+  },
+  {
+    "code": "Z0000845",
+    "slug": "drainspeed-15-z0000845",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 15",
+    "nameEn": "drainspeed 15, max. 240kW, 500-1500bar, 30-130l/min, max. 2500 rpm, Ø:101mm/l:252mm, M24x1,5 ag, 10/3, 4x135°/3x90°/0/3x45° x-jet, style: 9, 079",
+    "details": [
+      "maks. 240kW",
+      "500-1500bar",
+      "30-130l/min",
+      "maks. 2500 rpm",
+      "Ø:101mm/l:252mm",
+      "M24x1",
+      "5 ag",
+      "10/3",
+      "4x135°/3x90°/0/3x45° x-jet",
+      "style: 9",
+      "079"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000845/01",
+        "alt": "Drainspeed 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000846",
+    "slug": "drainspeed-15-z0000846",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 15",
+    "nameEn": "drainspeed 15, max. 240kW, 500-1500bar, 30-130l/min, max. 2500 rpm, Ø:101mm/l:269mm, M24x1,5 ag, 12/4, 4x135°/3x90°/4x45°/1x0°, style: 9, 079",
+    "details": [
+      "maks. 240kW",
+      "500-1500bar",
+      "30-130l/min",
+      "maks. 2500 rpm",
+      "Ø:101mm/l:269mm",
+      "M24x1",
+      "5 ag",
+      "12/4",
+      "4x135°/3x90°/4x45°/1x0°",
+      "style: 9",
+      "079"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000846/01",
+        "alt": "Drainspeed 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000847",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-10-z0000847",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 10",
+    "nameEn": "pipe cleaning hose drainstop 10, 1000 bar, 70 °C, M24 inner thread dkos x 1/4\" outer thread  DN 8, 10m, Ø13,40/16,10mm",
+    "details": [
+      "1000 bar",
+      "70 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj  DN 8",
+      "10m",
+      "Ø13",
+      "40/16",
+      "10mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000847/01",
+        "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ]
+  },
+  {
+    "code": "Z0000848",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-10-z0000848",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 10",
+    "nameEn": "pipe cleaning hose drainstop 10, 1000 bar, 70 °C, M24 inner thread dkos x 1/4\" outer thread, DN 8, 20m, Ø13,40/16,10mm",
+    "details": [
+      "1000 bar",
+      "70 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj",
+      "DN 8",
+      "20m",
+      "Ø13",
+      "40/16",
+      "10mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000848/01",
+        "alt": "Crevo za čišćenje cevi drainstop 10"
+      }
+    ]
+  },
+  {
+    "code": "Z0000853",
+    "slug": "reduktor-pritiska-16-bar-z0000853",
+    "category": "dovod-vode",
+    "name": "Reduktor pritiska 16 bar",
+    "nameEn": "pressure reducer 16 bar, 60 °C, 38 l/min, incl. manometer, geka",
+    "details": [
+      "60 °C",
+      "38 l/min",
+      "uklj. manometer",
+      "geka"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000853/01",
+        "alt": "Reduktor pritiska 16 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000854",
+    "slug": "reduktor-pritiska-16-bar-z0000854",
+    "category": "dovod-vode",
+    "name": "Reduktor pritiska 16 bar",
+    "nameEn": "pressure reducer 16 bar, 30 °C, 370 l/min, incl. manometer, c/52",
+    "details": [
+      "30 °C",
+      "370 l/min",
+      "uklj. manometer",
+      "c/52"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000854/01",
+        "alt": "Reduktor pritiska 16 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000862",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-30-z0000862",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 30",
+    "nameEn": "pipe cleaning hose drainstop 30, 3000 bar, 70 °C, 3/8\"unf-lh outer thread x 3/8\"unf-lh outer thread, DN 5, 20m, Ø13,30/17,80mm",
+    "details": [
+      "3000 bar",
+      "70 °C",
+      "3/8\"unf-lh spoljni navoj x 3/8\"unf-lh spoljni navoj",
+      "DN 5",
+      "20m",
+      "Ø13",
+      "30/17",
+      "80mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000862/01",
+        "alt": "Crevo za čišćenje cevi drainstop 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0000866",
+    "slug": "scater-30-380-v-paintshop-3000-bar-z0000866",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 30 380 v paintshop 3000 bar",
+    "nameEn": "scater 30 380 v paintshop 3000 bar, a-drive, 70°C, 40 l/min, 16/4, + -10°, nozzle 2500 bar, 24 l / min, hard, style 9, angle 20°/-20°",
+    "details": [
+      "a-drive",
+      "70°C",
+      "40 l/min",
+      "16/4",
+      "+ -10°",
+      "nozzle 2500 bar",
+      "24 l / min",
+      "hard",
+      "style 9",
+      "angle 20°/-20°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000866/01",
+        "alt": "Scater 30 380 v paintshop 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000884",
+    "slug": "crevo-za-ciscenje-cevi-drainstop-15-z0000884",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Crevo za čišćenje cevi drainstop 15",
+    "nameEn": "pipe cleaning hose drainstop 15, 1500 bar, 70 °C, M24 inner thread dkos x 1/4\" outer thread, DN 6, 10m, Ø12,60/16,40mm",
+    "details": [
+      "1500 bar",
+      "70 °C",
+      "M24 unutrašnji navoj dkos x 1/4\" spoljni navoj",
+      "DN 6",
+      "10m",
+      "Ø12",
+      "60/16",
+      "40mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000884/01",
+        "alt": "Crevo za čišćenje cevi drainstop 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000898",
+    "slug": "drainspeed-15-z0000898",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Drainspeed 15",
+    "nameEn": "drainspeed 15, max. 85kW, 100-1500bar, 10-30l/min, max. 12000 rpm, Ø:9,5mm/l:68mm, M7ig, 7/4, 2x140°/2x90°/1x60°/1x30°, 1x20°, style: drilled, 035",
+    "details": [
+      "maks. 85kW",
+      "100-1500bar",
+      "10-30l/min",
+      "maks. 12000 rpm",
+      "Ø:9",
+      "5mm/l:68mm",
+      "M7ig",
+      "7/4",
+      "2x140°/2x90°/1x60°/1x30°",
+      "1x20°",
+      "style: drilled",
+      "035"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000898/01",
+        "alt": "Drainspeed 15"
+      }
+    ]
+  },
+  {
+    "code": "Z0000961",
+    "slug": "radio-upravljanje-z0000961",
+    "category": "razno",
+    "name": "Radio upravljanje",
+    "nameEn": "radio control, 4-channel, bj/tj 125/250/500, easy 2, range about 100m",
+    "details": [
+      "4-channel",
+      "bj/tj 125/250/500",
+      "easy 2",
+      "range about 100m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000961/01",
+        "alt": "Radio upravljanje"
+      }
+    ]
+  },
+  {
+    "code": "Z0000965",
+    "slug": "rotaciona-mlaznica-pointspeed-12-one-1200-bar-z0000965",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 12 one 1200 bar",
+    "nameEn": "rotor nozzle pointspeed 12 one 1200 bar, 70°C, M24 inner thread, nozzle size 021 20° v2a style 21",
+    "details": [
+      "70°C",
+      "M24 unutrašnji navoj",
+      "veličina mlaznice 021 20° v2a style 21"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000965/01",
+        "alt": "Rotaciona mlaznica pointspeed 12 one 1200 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000969",
+    "slug": "scater-5-380-vp-025-500-bar-z0000969",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 5 380 vp (025) 500 bar",
+    "nameEn": "scater 5 380 vp (025) 500 bar, 98 °C, 60 l/min, 20/10, nozzle 500 bar, 30 l/min, soft, style 9, angle 18°",
+    "details": [
+      "98 °C",
+      "60 l/min",
+      "20/10",
+      "nozzle 500 bar",
+      "30 l/min",
+      "soft",
+      "style 9",
+      "angle 18°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000969/01",
+        "alt": "Scater 5 380 vp (025) 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0000987",
+    "slug": "set-za-popravku-pointspeed-12-one-velicina-mlaznice-021-z0000987",
+    "category": "mlaznice",
+    "name": "Set za popravku pointspeed 12 one, veličina mlaznice 021",
+    "nameEn": "repair kit pointspeed 12 one nozzle size 021, Z0000965",
+    "details": [
+      "Z0000965"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0000987/01",
+        "alt": "Set za popravku pointspeed 12 one, veličina mlaznice 021"
+      }
+    ]
+  },
+  {
+    "code": "Z0000988",
+    "slug": "zastitni-slem-kombinovani-z0000988",
+    "category": "zastitna-odeca",
+    "name": "Zaštitni šlem, kombinovani",
+    "nameEn": "safety helmet combination",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z0000988/01",
+        "alt": "Zaštitni šlem, kombinovani"
+      }
+    ]
+  },
+  {
+    "code": "Z0001008",
+    "slug": "rotaciona-mlaznica-pointspeed-30-z0001008",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 30",
+    "nameEn": "rotor nozzle pointspeed 30, 4/2, 3000 bar, 70 °C 9/16\"unf-lh inner thread, 40kW, nozzle 1000 bar 16 l/min, 1+2=0,50mm 3+4=0,55mm style 9",
+    "details": [
+      "4/2",
+      "3000 bar",
+      "70 °C 9/16\"unf-lh unutrašnji navoj",
+      "40kW",
+      "nozzle 1000 bar 16 l/min",
+      "1+2=0",
+      "50mm 3+4=0",
+      "55mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001008/01",
+        "alt": "Rotaciona mlaznica pointspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0001011",
+    "slug": "rotaciona-mlaznica-pointspeed-30-z0001011",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 30",
+    "nameEn": "rotor nozzle pointspeed 30, 6/3,3000 bar, 70 °C 9/16 unf-lh inner thread, 40 kW, nozzle 2000 bar, 8 l/min, 1+2=0,40mm 5+6=0,20mm style 9",
+    "details": [
+      "6/3",
+      "3000 bar",
+      "70 °C 9/16 unf-lh unutrašnji navoj",
+      "40 kW",
+      "nozzle 2000 bar",
+      "8 l/min",
+      "1+2=0",
+      "40mm 5+6=0",
+      "20mm style 9"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001011/01",
+        "alt": "Rotaciona mlaznica pointspeed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0001020",
+    "slug": "base-filt-50-big-bag-z0001020",
+    "category": "otpadna-voda",
+    "name": "Base filt 50 big bag",
+    "nameEn": "base filt 50 big bag, 0 - 50 l/min, 80 °C, filter surface 5 m², 134 x 124 x 158 cm, 275 kg",
+    "details": [
+      "0 - 50 l/min",
+      "80 °C",
+      "filter surface 5 m²",
+      "134 x 124 x 158 cm",
+      "275 kg"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001020/01",
+        "alt": "Base filt 50 big bag"
+      }
+    ]
+  },
+  {
+    "code": "Z0001022",
+    "slug": "radio-upravljanje-z0001022",
+    "category": "creva-i-kablovi",
+    "name": "Radio upravljanje",
+    "nameEn": "radio control, gun, range about 100 m",
+    "details": [
+      "gun",
+      "range about 100 m"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001022/01",
+        "alt": "Radio upravljanje"
+      }
+    ]
+  },
+  {
+    "code": "Z0001717",
+    "slug": "kablovsko-daljinsko-upravljanje-easy-2-za-base-jet-trail-jet-15-500-easy-2-z0001717",
+    "category": "razno",
+    "name": "Kablovsko daljinsko upravljanje easy 2 za Base Jet/Trail Jet 15-500 easy 2",
+    "nameEn": "remote control cable control easy 2 for base jet/trail jet 15-500 easy 2, emergency stop, max. range 200m cable",
+    "details": [
+      "emergency stop",
+      "maks. range 200m cable"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001717/01",
+        "alt": "Kablovsko daljinsko upravljanje easy 2 za Base Jet/Trail Jet 15-500 easy 2"
+      }
+    ]
+  },
+  {
+    "code": "Z0001725",
+    "slug": "scater-5-260-v-formworks-500-bar-z0001725",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 5 260 v formworks 500 bar",
+    "nameEn": "scater 5 260 v formworks 500 bar, 98 °C, 30 l/min, 12/6, nozzle 500 bar, 15 l/min, medium, style 9, angle 20°",
+    "details": [
+      "98 °C",
+      "30 l/min",
+      "12/6",
+      "nozzle 500 bar",
+      "15 l/min",
+      "medium",
+      "style 9",
+      "angle 20°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001725/01",
+        "alt": "Scater 5 260 v formworks 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0001740",
+    "slug": "base-sed-30-z0001740",
+    "category": "otpadna-voda",
+    "name": "Base sed 30",
+    "nameEn": "base sed 30, 0 - 30 l/min, 80°C, volume 535 l, 120 x 80  x 80 cm, 74 kg",
+    "details": [
+      "0 - 30 l/min",
+      "80°C",
+      "volume 535 l",
+      "120 x 80  x 80 cm",
+      "74 kg"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001740/01",
+        "alt": "Base sed 30"
+      }
+    ]
+  },
+  {
+    "code": "Z0001746",
+    "slug": "scater-5-260-vp-030-500-bar-z0001746",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 5 260 vp (030) 500 bar",
+    "nameEn": "scater 5 260 vp (030) 500 bar, 98 °C, 30 l/min, 12/6, nozzle 300 bar, 24 l/min, soft, style 9, angle 25°",
+    "details": [
+      "98 °C",
+      "30 l/min",
+      "12/6",
+      "nozzle 300 bar",
+      "24 l/min",
+      "soft",
+      "style 9",
+      "angle 25°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001746/01",
+        "alt": "Scater 5 260 vp (030) 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0001747",
+    "slug": "scater-30-380-v-3000-bar-z0001747",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 30 380 v 3000 bar",
+    "nameEn": "scater 30 380 v 3000 bar, 70°C, 45 l/min, 20/10, nozzle 2500 bar, 24 l / min, soft, style 9, angle 6°",
+    "details": [
+      "70°C",
+      "45 l/min",
+      "20/10",
+      "nozzle 2500 bar",
+      "24 l / min",
+      "soft",
+      "style 9",
+      "angle 6°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001747/01",
+        "alt": "Scater 30 380 v 3000 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0001751",
+    "slug": "scater-5-260-v-500-bar-z0001751",
+    "category": "ciscenje-povrsina",
+    "name": "Scater 5 260 v 500 bar",
+    "nameEn": "scater 5 260 v 500 bar, 98 °C, 30 l/min, 12/6, nozzle 300 bar, 24 l/min, soft, style 9, angle 18°",
+    "details": [
+      "98 °C",
+      "30 l/min",
+      "12/6",
+      "nozzle 300 bar",
+      "24 l/min",
+      "soft",
+      "style 9",
+      "angle 18°"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001751/01",
+        "alt": "Scater 5 260 v 500 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z0001753",
+    "slug": "glava-za-ciscenje-rezervoara-15-z0001753",
+    "category": "ciscenje-cevi-i-rezervoara",
+    "name": "Glava za čišćenje rezervoara 15",
+    "nameEn": "tank cleaning head 15, max. 500kW, 500-1500bar, 20-310l/min, max. 50 rpm, Ø:130mm/l:432mm, M36x2,0ag, max. 70°C, 2x style 5 (4, 9, 10), 172",
+    "details": [
+      "maks. 500kW",
+      "500-1500bar",
+      "20-310l/min",
+      "maks. 50 rpm",
+      "Ø:130mm/l:432mm",
+      "M36x2",
+      "0ag",
+      "maks. 70°C",
+      "2x style 5 (4",
+      "9",
+      "10)",
+      "172"
+    ],
+    "images": [
+      {
+        "src": "pribor/z0001753/01",
+        "alt": "Glava za čišćenje rezervoara 15"
+      }
+    ]
+  },
+  {
+    "code": "Z009",
+    "slug": "set-brzih-spojnica-3-4-z009",
+    "category": "dovod-vode",
+    "name": "Set brzih spojnica 3/4\"",
+    "nameEn": "quick coupling set 3/4\"",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z009/01",
+        "alt": "Set brzih spojnica 3/4\""
+      }
+    ]
+  },
+  {
+    "code": "Z010",
+    "slug": "brza-regulaciona-slavina-3-4-z010",
+    "category": "dovod-vode",
+    "name": "Brza regulaciona slavina 3/4\"",
+    "nameEn": "quick regulating tap 3/4\"",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z010/01",
+        "alt": "Brza regulaciona slavina 3/4\""
+      }
+    ]
+  },
+  {
+    "code": "Z015",
+    "slug": "produzno-koplje-5-z015",
+    "category": "koplja",
+    "name": "Produžno koplje 5",
+    "nameEn": "extension lance 5, 500 bar, 155 °C, M22 outer thread x M22 inner thread, 450mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "M22 spoljni navoj x M22 unutrašnji navoj",
+      "450mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z015/01",
+        "alt": "Produžno koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z029E001",
+    "slug": "set-zaptivki-z029e001",
+    "category": "creva-i-kablovi",
+    "name": "Set zaptivki",
+    "nameEn": "gasket kit, high pressure hose nonstop 2/5 220/500 bar, M22",
+    "details": [
+      "high pressure hose nonstop 2/5 220/500 bar",
+      "M22"
+    ],
+    "images": [
+      {
+        "src": "pribor/z029e001/01",
+        "alt": "Set zaptivki"
+      }
+    ]
+  },
+  {
+    "code": "Z029E002",
+    "slug": "set-zaptivki-za-visokopritisni-pistolj-3-5-z029e002",
+    "category": "pistolji",
+    "name": "Set zaptivki za visokopritisni pištolj 3/5",
+    "nameEn": "gasket kit high pressure gun 3/5, 300/500 bar",
+    "details": [
+      "300/500 bar"
+    ],
+    "images": [
+      {
+        "src": "pribor/z029e002/01",
+        "alt": "Set zaptivki za visokopritisni pištolj 3/5"
+      }
+    ]
+  },
+  {
+    "code": "Z030",
+    "slug": "koplje-5-z030",
+    "category": "koplja",
+    "name": "Koplje 5",
+    "nameEn": "lance 5, 500 bar, 155 °C, DN 8, Øa 14 mm, M22 outer thread x 1/4\" outer thread, 450 mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "DN 8",
+      "Øa 14 mm",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "450 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z030/01",
+        "alt": "Koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z031",
+    "slug": "koplje-5-z031",
+    "category": "koplja",
+    "name": "Koplje 5",
+    "nameEn": "lance 5, 500 bar, 155 °C, DN 8, Øa 14 mm, M22 outer thread x 1/4\" outer thread, 600 mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "DN 8",
+      "Øa 14 mm",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "600 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z031/01",
+        "alt": "Koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z032",
+    "slug": "koplje-5-z032",
+    "category": "koplja",
+    "name": "Koplje 5",
+    "nameEn": "lance 5, 500 bar, 155 °C, DN 8, Øa 14 mm, M22 outer thread x 1/4\" outer thread, 900 mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "DN 8",
+      "Øa 14 mm",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "900 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z032/01",
+        "alt": "Koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z033",
+    "slug": "koplje-5-z033",
+    "category": "koplja",
+    "name": "Koplje 5",
+    "nameEn": "lance 5, 500 bar, 155 °C, DN 8, Øa 14 mm, M22 outer thread x 1/4\" outer thread, 1200 mm",
+    "details": [
+      "500 bar",
+      "155 °C",
+      "DN 8",
+      "Øa 14 mm",
+      "M22 spoljni navoj x 1/4\" spoljni navoj",
+      "1200 mm"
+    ],
+    "images": [
+      {
+        "src": "pribor/z033/01",
+        "alt": "Koplje 5"
+      }
+    ]
+  },
+  {
+    "code": "Z036",
+    "slug": "adapter-za-redukciju-z036",
+    "category": "spojnice",
+    "name": "Adapter za redukciju",
+    "nameEn": "adaptor for reduction, 20 bar, M22 inner thread x geka",
+    "details": [
+      "20 bar",
+      "M22 unutrašnji navoj x geka"
+    ],
+    "images": [
+      {
+        "src": "pribor/z036/01",
+        "alt": "Adapter za redukciju"
+      }
+    ]
+  },
+  {
+    "code": "Z064",
+    "slug": "filter-jedinica-30-z064",
+    "category": "dovod-vode",
+    "name": "Filter jedinica 30",
+    "nameEn": "filter unit 30, 10 bar, 40 °C, 30 l/min incl. holder, manometer, 2 additional water connections",
+    "details": [
+      "10 bar",
+      "40 °C",
+      "30 l/min uklj. holder",
+      "manometer",
+      "2 additional water connections"
+    ],
+    "images": [
+      {
+        "src": "pribor/z064/01",
+        "alt": "Filter jedinica 30"
+      }
+    ]
+  },
+  {
+    "code": "Z073",
+    "slug": "drzac-creva-z073",
+    "category": "creva-i-kablovi",
+    "name": "Držač creva",
+    "nameEn": "hose holder",
+    "details": [],
+    "images": [
+      {
+        "src": "pribor/z073/01",
+        "alt": "Držač creva"
+      }
+    ]
+  },
+  {
+    "code": "Z081",
+    "slug": "rotaciona-mlaznica-pointspeed-2-one-200-bar-z081",
+    "category": "mlaznice",
+    "name": "Rotaciona mlaznica pointspeed 2 one 200 bar",
+    "nameEn": "rotor nozzle pointspeed 2 one 200 bar, 90 °C, 1/4\" inner thread, nozzle size 045 20° style 18",
+    "details": [
+      "90 °C",
+      "1/4\" unutrašnji navoj",
+      "veličina mlaznice 045 20° style 18"
+    ],
+    "images": [
+      {
+        "src": "pribor/z081/01",
+        "alt": "Rotaciona mlaznica pointspeed 2 one 200 bar"
+      }
+    ]
+  },
+  {
+    "code": "Z094",
+    "slug": "set-vizira-z094",
+    "category": "zastitna-odeca",
+    "name": "Set vizira",
+    "nameEn": "visor kit, 5 pieces",
+    "details": [
+      "5 pieces"
+    ],
+    "images": [
+      {
+        "src": "pribor/z094/01",
+        "alt": "Set vizira"
+      }
+    ]
+  }
+]

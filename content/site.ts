@@ -41,6 +41,13 @@ export const nav: NavItem[] = [
 export type ContactTopic = "servis" | "rezervni-deo" | "demonstracija";
 export const contactHref = (topic: ContactTopic) => `${routes.kontakt}?tema=${topic}`;
 
+// Link ka kontakt formularu sa unapred upisanim proizvodom (/kontakt?proizvod=G411&varijanta=...)
+export function quoteHref(itemNumber: string, variant?: string) {
+  const params = new URLSearchParams({ proizvod: itemNumber });
+  if (variant) params.set("varijanta", variant);
+  return `${routes.kontakt}?${params}`;
+}
+
 // Pritisak je potvrdio klijent. Ostale brojke su okvirne iz ponude.
 export const trust = [
   { value: "3.000", unit: "bar", label: "Radni pritisak do" },

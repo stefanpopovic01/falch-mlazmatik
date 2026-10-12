@@ -1,0 +1,7442 @@
+[
+  {
+    "slug": "wheel-jet-2-100-10-0-e",
+    "name": "Wheel Jet 2 100-10-0-e",
+    "itemNumber": "G349",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 1.8,
+    "bar": 100,
+    "lpm": 10,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/01",
+        "alt": "Wheel Jet 2 100-10-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/02",
+        "alt": "Wheel Jet 2 100-10-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/03",
+        "alt": "Wheel Jet 2 100-10-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/04",
+        "alt": "Wheel Jet 2 100-10-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/05",
+        "alt": "Wheel Jet 2 100-10-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/11",
+        "alt": "Wheel Jet 2 100-10-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/12",
+        "alt": "Wheel Jet 2 100-10-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/13",
+        "alt": "Wheel Jet 2 100-10-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-2-100-10-0-e/14",
+        "alt": "Wheel Jet 2 100-10-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "30 – 100 bar (435 – 1450 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "5 – 10 l/min (1,3 – 2,6 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "044"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "2 kW / 1,8 kW, -, 2800 o/min, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "230 V/AC / 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "1,8 kW, -, 2800 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "45 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1000 × 570 × 430 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 73 dB, LwA = 86 dB"
+      }
+    ],
+    "video": "DPAdUei6Cuk",
+    "brochure": "https://shop-api.falch.com/media/80/e2/59/1786082200/falch_bro_g349.pdf",
+    "standard": [
+      "E1010049",
+      "S050",
+      "Z0000210",
+      "Z030",
+      "E0810029",
+      "D2545"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z0000620",
+      "E1600007",
+      "S054",
+      "E1010049",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0045",
+      "D2545",
+      "Z081",
+      "W020",
+      "V001",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "wheel-jet-5-200-13-0-e",
+    "name": "Wheel Jet 5 200-13-0-e",
+    "itemNumber": "G334",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 5,
+    "bar": 200,
+    "lpm": 13,
+    "hotWater": false,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/01",
+        "alt": "Wheel Jet 5 200-13-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/02",
+        "alt": "Wheel Jet 5 200-13-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/03",
+        "alt": "Wheel Jet 5 200-13-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/04",
+        "alt": "Wheel Jet 5 200-13-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/05",
+        "alt": "Wheel Jet 5 200-13-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/11",
+        "alt": "Wheel Jet 5 200-13-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/12",
+        "alt": "Wheel Jet 5 200-13-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/13",
+        "alt": "Wheel Jet 5 200-13-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-e/14",
+        "alt": "Wheel Jet 5 200-13-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "30 – 200 bar (435 – 2901 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "5 – 13 l/min (1,3 – 3,4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "040"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "6 kW / 5 kW, -, 2800 o/min, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V/ 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "5 kW, -, 2800 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "55 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1000 × 570 × 430 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 74 dB, LwA = 92 dB"
+      }
+    ],
+    "video": "DPAdUei6Cuk",
+    "brochure": "https://shop-api.falch.com/media/78/0b/6a/1786082446/falch_bro_g334.pdf",
+    "standard": [
+      "E1010049",
+      "S050",
+      "Z0000210",
+      "Z030",
+      "E0810029",
+      "D2540"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z0000620",
+      "E1600007",
+      "S054",
+      "E1010049",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0040",
+      "D2540",
+      "Z0000180",
+      "Z0000166",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000008",
+      "E1190045",
+      "S108",
+      "S115",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800372",
+      "E0800374",
+      "E0800107",
+      "Z0000009",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "V001",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "wheel-jet-5-200-13-0-p",
+    "name": "Wheel Jet 5 200-13-0-p",
+    "itemNumber": "G333",
+    "series": "wheel-jet",
+    "engine": "petrol",
+    "kw": 5,
+    "bar": 200,
+    "lpm": 13,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/01",
+        "alt": "Wheel Jet 5 200-13-0-p, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/02",
+        "alt": "Wheel Jet 5 200-13-0-p, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/03",
+        "alt": "Wheel Jet 5 200-13-0-p, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/04",
+        "alt": "Wheel Jet 5 200-13-0-p, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/05",
+        "alt": "Wheel Jet 5 200-13-0-p, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/11",
+        "alt": "Wheel Jet 5 200-13-0-p u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/12",
+        "alt": "Wheel Jet 5 200-13-0-p u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/13",
+        "alt": "Wheel Jet 5 200-13-0-p u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-5-200-13-0-p/14",
+        "alt": "Wheel Jet 5 200-13-0-p u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "30 – 200 bar (435 – 2901 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "5 – 13 l/min (1,3 – 3,4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "040"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Benzinski motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "7,2 kW / 7,1 kW, 1750 o/min, 1750 – 3250 o/min, regulacija broja obrtaja, 1 cil., 305 cm³, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "1 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "5 kW, 1750 o/min, 1750 – 3250 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "3,6 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "105 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1100 × 750 × 815 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 84 dB, LwA = 98 dB"
+      }
+    ],
+    "video": "LswJ06Zhc4M",
+    "brochure": "https://shop-api.falch.com/media/8b/15/3f/1786082768/falch_bro_g333.pdf",
+    "standard": [
+      "E1010049",
+      "S050",
+      "Z0000210",
+      "Z030",
+      "E0810029",
+      "D2540"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z0000620",
+      "E1600007",
+      "S054",
+      "E1010049",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0040",
+      "D2540",
+      "Z0000180",
+      "Z0000166",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000008",
+      "E1190045",
+      "S108",
+      "S115",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800372",
+      "E0800374",
+      "E0800107",
+      "Z0000009",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "wheel-jet-6-190-14-140-e",
+    "name": "Wheel Jet 6 190-14-140-e",
+    "itemNumber": "G681",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 5.5,
+    "bar": 190,
+    "lpm": 14,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/01",
+        "alt": "Wheel Jet 6 190-14-140-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/02",
+        "alt": "Wheel Jet 6 190-14-140-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/03",
+        "alt": "Wheel Jet 6 190-14-140-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/04",
+        "alt": "Wheel Jet 6 190-14-140-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/05",
+        "alt": "Wheel Jet 6 190-14-140-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/11",
+        "alt": "Wheel Jet 6 190-14-140-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/12",
+        "alt": "Wheel Jet 6 190-14-140-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/13",
+        "alt": "Wheel Jet 6 190-14-140-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-6-190-14-140-e/14",
+        "alt": "Wheel Jet 6 190-14-140-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "30 – 190 bar (435 – 2756 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "14 l/min (3,7 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "10 –140"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "1× 70 kW, 230 V AC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "045"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,3 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "6,3 kW / 5,5 kW, 0 o/min, -, 1400 o/min, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V/ 50 Hz, 16 A, 5,5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "5,5 kW, -, 1400 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "20 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "9 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za hemiju",
+        "value": "20 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "152 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1050 × 750 × 900 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 79 dB, LwA = 92 dB"
+      }
+    ],
+    "standard": [
+      "E1010049",
+      "Z0000210",
+      "Z0000128",
+      "D2545"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z0000620",
+      "E1600007",
+      "S054",
+      "E1010049",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0045",
+      "Z0000180",
+      "Z0000166",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000008",
+      "E1190045",
+      "S108",
+      "S115",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800372",
+      "E0800374",
+      "E0800107",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "review": [
+      "Temperatura vode: proveriti (nema jedinice): \"10 –140\""
+    ]
+  },
+  {
+    "slug": "wheel-jet-11-300-18-0-e",
+    "name": "Wheel Jet 11 300-18-0-e",
+    "itemNumber": "G332",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 11,
+    "bar": 300,
+    "lpm": 18,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/01",
+        "alt": "Wheel Jet 11 300-18-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/02",
+        "alt": "Wheel Jet 11 300-18-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/03",
+        "alt": "Wheel Jet 11 300-18-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/04",
+        "alt": "Wheel Jet 11 300-18-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/05",
+        "alt": "Wheel Jet 11 300-18-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/11",
+        "alt": "Wheel Jet 11 300-18-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/12",
+        "alt": "Wheel Jet 11 300-18-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/13",
+        "alt": "Wheel Jet 11 300-18-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-e/14",
+        "alt": "Wheel Jet 11 300-18-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 300 bar (725 – 4351 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 18 l/min (2,1 – 4,8 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "046"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "13 kW / 11 kW, -, 1460 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "11 kW, -, 1460 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "230 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1175 × 760 × 945 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 77 dB, LwA = 92 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/19/f2/01/1786082996/falch_bro_g332.pdf",
+    "standard": [
+      "S003",
+      "S050",
+      "Z0000210",
+      "Z031",
+      "E0810029",
+      "D2545"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600007",
+      "Z064",
+      "E1600023",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0045",
+      "D2545",
+      "Z0000180",
+      "Z0000776",
+      "Z0000166",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800372",
+      "E0800374",
+      "E0800107",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "wheel-jet-11-300-18-0-p",
+    "name": "Wheel Jet 11 300-18-0-p",
+    "itemNumber": "G331",
+    "series": "wheel-jet",
+    "engine": "petrol",
+    "kw": 11,
+    "bar": 300,
+    "lpm": 18,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/01",
+        "alt": "Wheel Jet 11 300-18-0-p, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/02",
+        "alt": "Wheel Jet 11 300-18-0-p, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/03",
+        "alt": "Wheel Jet 11 300-18-0-p, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/04",
+        "alt": "Wheel Jet 11 300-18-0-p, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/05",
+        "alt": "Wheel Jet 11 300-18-0-p, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/11",
+        "alt": "Wheel Jet 11 300-18-0-p u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/12",
+        "alt": "Wheel Jet 11 300-18-0-p u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/13",
+        "alt": "Wheel Jet 11 300-18-0-p u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-11-300-18-0-p/14",
+        "alt": "Wheel Jet 11 300-18-0-p u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "30 – 300 bar (435 – 4351 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 18 l/min (2,1 – 4,8 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "046"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Benzinski motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "13 kW / 12 kW, 1850 o/min, 1850 – 3350 o/min, 2 cil., 570 cm³, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "2,8 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "11 kW, 858 o/min, 858 – 1555 o/min, 2 – 5 bar, 50 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "7,9 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "191 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1160 × 755 × 950 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 86 dB, LwA = 102 dB"
+      }
+    ],
+    "video": "1HI5mjlK6qs",
+    "brochure": "https://shop-api.falch.com/media/bf/57/c2/1786083252/falch_bro_g331.pdf",
+    "standard": [
+      "S003",
+      "S050",
+      "Z0000210",
+      "Z031",
+      "E0810029",
+      "D2545"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600007",
+      "Z064",
+      "E1600023",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0045",
+      "D2545",
+      "Z0000180",
+      "Z0000776",
+      "Z0000166",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800372",
+      "E0800374",
+      "E0800107",
+      "Z0000009",
+      "Z0001746",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "base-jet-15-300-24-70-e",
+    "name": "Base Jet 15 300-24-70-e",
+    "itemNumber": "G353",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 15,
+    "bar": 300,
+    "lpm": 24,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/base-jet-15-300-24-70-e/01",
+        "alt": "Base Jet 15 300-24-70-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/02",
+        "alt": "Base Jet 15 300-24-70-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/03",
+        "alt": "Base Jet 15 300-24-70-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/04",
+        "alt": "Base Jet 15 300-24-70-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/05",
+        "alt": "Base Jet 15 300-24-70-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-15-300-24-70-e/11",
+        "alt": "Base Jet 15 300-24-70-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/12",
+        "alt": "Base Jet 15 300-24-70-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/13",
+        "alt": "Base Jet 15 300-24-70-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-300-24-70-e/14",
+        "alt": "Base Jet 15 300-24-70-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 300 bar (725 – 4351 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "10 – 24 l/min (2,6 – 6,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+30 – +70 (+100) °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "1× 99 kW, 230 V AC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "061"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "18 kW / 15 kW, 0 o/min, -, 1465 – 1465 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 32 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, -, 1373 – 1373 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "90 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "3 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "580 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1285 × 845 × 1300 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 77 dB, LwA = 94 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/e6/67/f9/1721120186/falch_bro_g353.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2560"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000210",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D2560",
+      "Z0000809",
+      "Z0000776",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800409",
+      "E0800107",
+      "E0800536",
+      "Z0000304",
+      "G9800105",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000225",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "variants": [
+      {
+        "label": "Overpack S",
+        "itemNumber": "G353.001",
+        "images": [
+          {
+            "src": "masine/base-jet-15-300-24-70-e/21",
+            "alt": "Base Jet 15 300-24-70-e, Overpack S, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-15-300-24-70-e/22",
+            "alt": "Base Jet 15 300-24-70-e, Overpack S, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-15-300-24-70-e/23",
+            "alt": "Base Jet 15 300-24-70-e, Overpack S, fotografija 3"
+          }
+        ]
+      }
+    ],
+    "review": [
+      "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje: proveriti (isti broj dva puta u opsegu): \"18 kW / 15 kW, 0 rpm, -, 1465 – 1465 rpm, –, air\"",
+      "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode: proveriti (isti broj dva puta u opsegu): \"15 kW, -, 1373 – 1373 rpm, 2 – 5 bar, 40 °C\""
+    ]
+  },
+  {
+    "slug": "trail-jet-15-300-24-70-d",
+    "name": "Trail Jet 15 300-24-70-d",
+    "itemNumber": "G609",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 15,
+    "bar": 300,
+    "lpm": 24,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/01",
+        "alt": "Trail Jet 15 300-24-70-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/02",
+        "alt": "Trail Jet 15 300-24-70-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/03",
+        "alt": "Trail Jet 15 300-24-70-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/04",
+        "alt": "Trail Jet 15 300-24-70-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/05",
+        "alt": "Trail Jet 15 300-24-70-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/11",
+        "alt": "Trail Jet 15 300-24-70-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/12",
+        "alt": "Trail Jet 15 300-24-70-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/13",
+        "alt": "Trail Jet 15 300-24-70-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-15-300-24-70-d/14",
+        "alt": "Trail Jet 15 300-24-70-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 300 bar (1450 – 4351 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "12,5 – 24 l/min (3,3 – 6,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+25 – +70 (+95) °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "1× 99 kW, 12 V DC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "061"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "18,5 kW / 16,5 kW, 1150 o/min, 1150 – 2300 o/min, regulacija broja obrtaja, 3 cil., 1261 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "3,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, 719 o/min, 719 – 1438 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "95 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "200 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "945 kg, 100 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3250 × 1600 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 76 dB, LwA = 97 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/cc/54/a6/1667994847/falch_bro_g609.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2560"
+    ],
+    "recommended": [
+      "Z0001717",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z030",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000128",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D2560",
+      "Z0000809",
+      "Z0000776",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800409",
+      "E0800107",
+      "Z0000304",
+      "G9800105",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "E0700119",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "base-jet-15-500-15-0-d",
+    "name": "Base Jet 15 500-15-0-d",
+    "itemNumber": "G612",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 15,
+    "bar": 500,
+    "lpm": 15,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-15-500-15-0-d/01",
+        "alt": "Base Jet 15 500-15-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/02",
+        "alt": "Base Jet 15 500-15-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/03",
+        "alt": "Base Jet 15 500-15-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/04",
+        "alt": "Base Jet 15 500-15-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/05",
+        "alt": "Base Jet 15 500-15-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-15-500-15-0-d/11",
+        "alt": "Base Jet 15 500-15-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/12",
+        "alt": "Base Jet 15 500-15-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/13",
+        "alt": "Base Jet 15 500-15-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-0-d/14",
+        "alt": "Base Jet 15 500-15-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "7,5 – 15 l/min (2 – 4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "029"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "18,5 kW / 16,5 kW, 900 o/min, 1200 – 2300 o/min, regulacija broja obrtaja, 3 cil., 1261 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "3,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, 450 o/min, 575 – 1150 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "90 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "510 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1284 × 842 × 1377 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 84 dB, LwA = 101 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/6a/b1/ae/1721120683/falch_bro_g612.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2530"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000164",
+      "Z0000137",
+      "E0810029",
+      "D0030",
+      "D2530",
+      "Z0000157",
+      "Z0000322",
+      "Z0000776",
+      "E1210235",
+      "Z0000602",
+      "Z0000256",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "Z0000100",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800382",
+      "E0800466",
+      "E0800372",
+      "E0800383",
+      "E0800503",
+      "Z0000009",
+      "Z0001751",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "Z0001740",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "E1300443",
+      "E1300080",
+      "V005",
+      "V006",
+      "V003",
+      "E1300459",
+      "N076",
+      "E1230053",
+      "N383",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "review": [
+      "Temperatura vode: proveriti (\"optional °C\"): \"optional °C\""
+    ]
+  },
+  {
+    "slug": "base-jet-15-500-15-95-e",
+    "name": "Base Jet 15 500-15-95-e",
+    "itemNumber": "G352",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 15,
+    "bar": 500,
+    "lpm": 15,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/base-jet-15-500-15-95-e/01",
+        "alt": "Base Jet 15 500-15-95-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/02",
+        "alt": "Base Jet 15 500-15-95-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/03",
+        "alt": "Base Jet 15 500-15-95-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/04",
+        "alt": "Base Jet 15 500-15-95-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/05",
+        "alt": "Base Jet 15 500-15-95-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-15-500-15-95-e/11",
+        "alt": "Base Jet 15 500-15-95-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/12",
+        "alt": "Base Jet 15 500-15-95-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/13",
+        "alt": "Base Jet 15 500-15-95-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-15-500-15-95-e/14",
+        "alt": "Base Jet 15 500-15-95-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 500 bar (725 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "5 – 15 l/min (1,3 – 4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+30 – +100 °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "1× 99 kW, 230 V AC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "029"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "18 kW / 15 kW, 0 o/min, -, 1465 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 32 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, -, 916 – 1099 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "90 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "3 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "580 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1285 × 845 × 1300 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 77 dB, LwA = 94 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/2f/fd/d1/1721120452/falch_bro_g352.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2530"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0030",
+      "D2530",
+      "Z0000322",
+      "Z0000776",
+      "Z0000256",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800382",
+      "E0800383",
+      "E0800503",
+      "Z0000009",
+      "Z0001751",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "variants": [
+      {
+        "label": "Overpack S",
+        "itemNumber": "G352.001",
+        "images": [
+          {
+            "src": "masine/base-jet-15-500-15-95-e/21",
+            "alt": "Base Jet 15 500-15-95-e, Overpack S, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-15-500-15-95-e/22",
+            "alt": "Base Jet 15 500-15-95-e, Overpack S, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-15-500-15-95-e/23",
+            "alt": "Base Jet 15 500-15-95-e, Overpack S, fotografija 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-15-500-15-95-d",
+    "name": "Trail Jet 15 500-15-95-d",
+    "itemNumber": "G611",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 15,
+    "bar": 500,
+    "lpm": 15,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/01",
+        "alt": "Trail Jet 15 500-15-95-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/02",
+        "alt": "Trail Jet 15 500-15-95-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/03",
+        "alt": "Trail Jet 15 500-15-95-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/04",
+        "alt": "Trail Jet 15 500-15-95-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/05",
+        "alt": "Trail Jet 15 500-15-95-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/11",
+        "alt": "Trail Jet 15 500-15-95-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/12",
+        "alt": "Trail Jet 15 500-15-95-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/13",
+        "alt": "Trail Jet 15 500-15-95-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-15-500-15-95-d/14",
+        "alt": "Trail Jet 15 500-15-95-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 15 l/min (2,1 – 4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+25 – +95 °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "1× 99 kW, 12 V DC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "029"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "18,5 kW / 16,5 kW, 1150 o/min, 1150 – 2300 o/min, regulacija broja obrtaja, 3 cil., 1261 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "3,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, 575 o/min, 575 – 1150 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "95 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "200 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "945 kg, 100 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3250 × 1600 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 76 dB, LwA = 97 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/aa/6d/cd/1667998118/falch_bro_g611.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2530"
+    ],
+    "recommended": [
+      "Z0001717",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600007",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0030",
+      "D2530",
+      "Z0000322",
+      "Z0000776",
+      "Z0000256",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800382",
+      "E0800383",
+      "E0800503",
+      "Z0000009",
+      "Z0001751",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "E0700119",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "wheel-jet-15-500-15-0-e",
+    "name": "Wheel Jet 15 500-15-0-e",
+    "itemNumber": "G393",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 15,
+    "bar": 500,
+    "lpm": 15,
+    "hotWater": false,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/01",
+        "alt": "Wheel Jet 15 500-15-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/02",
+        "alt": "Wheel Jet 15 500-15-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/03",
+        "alt": "Wheel Jet 15 500-15-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/04",
+        "alt": "Wheel Jet 15 500-15-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/05",
+        "alt": "Wheel Jet 15 500-15-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/11",
+        "alt": "Wheel Jet 15 500-15-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/12",
+        "alt": "Wheel Jet 15 500-15-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/13",
+        "alt": "Wheel Jet 15 500-15-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-15-500-15-0-e/14",
+        "alt": "Wheel Jet 15 500-15-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 500 bar (725 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "5 – 15 l/min (1,3 – 4 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "029"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "18 kW / 15 kW, -, 1450 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "15 kW, -, 1099 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "290 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1175 × 760 × 945 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 78 dB, LwA = 95 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/22/fa/5f/1786083510/falch_bro_g393.pdf",
+    "standard": [
+      "S003",
+      "S050",
+      "Z0000209",
+      "Z031",
+      "E0810029",
+      "D2530"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0030",
+      "D2530",
+      "Z0000322",
+      "Z0000776",
+      "Z0000256",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800382",
+      "E0800383",
+      "E0800503",
+      "Z0000009",
+      "Z0001751",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "V001",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "Z036"
+    ],
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "wheel-jet-18-500-18-0-p",
+    "name": "Wheel Jet 18 500-18-0-p",
+    "itemNumber": "G365",
+    "series": "wheel-jet",
+    "engine": "petrol",
+    "kw": 18,
+    "bar": 500,
+    "lpm": 18,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/01",
+        "alt": "Wheel Jet 18 500-18-0-p, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/02",
+        "alt": "Wheel Jet 18 500-18-0-p, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/03",
+        "alt": "Wheel Jet 18 500-18-0-p, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/04",
+        "alt": "Wheel Jet 18 500-18-0-p, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/05",
+        "alt": "Wheel Jet 18 500-18-0-p, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/11",
+        "alt": "Wheel Jet 18 500-18-0-p u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/12",
+        "alt": "Wheel Jet 18 500-18-0-p u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/13",
+        "alt": "Wheel Jet 18 500-18-0-p u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-18-500-18-0-p/14",
+        "alt": "Wheel Jet 18 500-18-0-p u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "14 – 18 l/min (3,7 – 4,8 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "035"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Benzinski motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "26,1 kW / 17,9 kW, 2200 o/min, 2200 – 2800 o/min, regulacija broja obrtaja, 2 cil., 993 cm³, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "4,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "18 kW, 880 o/min, 880 – 1120 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "70 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "250 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1473 × 795 × 1181 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 85 dB, LwA = 101 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/77/11/a4/1786083796/falch_bro_g365.pdf",
+    "standard": [
+      "S003",
+      "S050",
+      "Z0000209",
+      "Z031",
+      "E0810029",
+      "E0800244"
+    ],
+    "recommended": [
+      "G312",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0035",
+      "Z0000253",
+      "Z0000546",
+      "Z0000256",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800466",
+      "E0800467",
+      "Z0000009",
+      "Z0001751",
+      "Z0001725",
+      "E1210196",
+      "E1210132",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N099",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "base-jet-30-500-30-0-e",
+    "name": "Base Jet 30 500-30-0-e",
+    "itemNumber": "G583",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 30,
+    "bar": 500,
+    "lpm": 30,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-30-500-30-0-e/01",
+        "alt": "Base Jet 30 500-30-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/02",
+        "alt": "Base Jet 30 500-30-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/03",
+        "alt": "Base Jet 30 500-30-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/04",
+        "alt": "Base Jet 30 500-30-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/05",
+        "alt": "Base Jet 30 500-30-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-30-500-30-0-e/11",
+        "alt": "Base Jet 30 500-30-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/12",
+        "alt": "Base Jet 30 500-30-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/13",
+        "alt": "Base Jet 30 500-30-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-0-e/14",
+        "alt": "Base Jet 30 500-30-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 500 bar (725 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "9 – 30 l/min (2,4 – 7,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "059"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "36 kW / 30 kW, 0 o/min, -, 1480 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V/ 50 Hz, 63 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, 1057 o/min, 1057 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "90 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1285 × 845 × 1275 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 82 dB, LwA = 99 dB"
+      }
+    ],
+    "video": "ovZc62o287c",
+    "brochure": "https://shop-api.falch.com/media/5c/22/13/1665753286/falch_bro_g583.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2555"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600089",
+      "Z0000572",
+      "E1600090",
+      "E1211016",
+      "E0500282",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0055",
+      "Z0000117",
+      "Z0000546",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800139",
+      "Z0000304",
+      "Z0000141",
+      "G9800105",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "Z0000969",
+      "E1210196",
+      "E1210132",
+      "Z0001740",
+      "Z0001020",
+      "Z0000571",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "variants": [
+      {
+        "label": "Overpack S",
+        "itemNumber": "G583.001",
+        "images": [
+          {
+            "src": "masine/base-jet-30-500-30-0-e/21",
+            "alt": "Base Jet 30 500-30-0-e, Overpack S, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-30-500-30-0-e/22",
+            "alt": "Base Jet 30 500-30-0-e, Overpack S, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-30-500-30-0-e/23",
+            "alt": "Base Jet 30 500-30-0-e, Overpack S, fotografija 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "base-jet-30-500-30-95-d",
+    "name": "Base Jet 30 500-30-95-d",
+    "itemNumber": "G595",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 30,
+    "bar": 500,
+    "lpm": 30,
+    "hotWater": true,
+    "images": [
+      {
+        "src": "masine/base-jet-30-500-30-95-d/01",
+        "alt": "Base Jet 30 500-30-95-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/02",
+        "alt": "Base Jet 30 500-30-95-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/03",
+        "alt": "Base Jet 30 500-30-95-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/04",
+        "alt": "Base Jet 30 500-30-95-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/05",
+        "alt": "Base Jet 30 500-30-95-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-30-500-30-95-d/11",
+        "alt": "Base Jet 30 500-30-95-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/12",
+        "alt": "Base Jet 30 500-30-95-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/13",
+        "alt": "Base Jet 30 500-30-95-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-500-30-95-d/14",
+        "alt": "Base Jet 30 500-30-95-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "16 – 30 l/min (4,2 – 7,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+25 – +95 °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "2× 99 kW, 12 V DC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "059"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "9 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "44,5 kW / 30 kW, 950 o/min, 950 – 1850 o/min, regulacija broja obrtaja, 3 cil., 2194 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "5,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, 543 o/min, 543 – 1057 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "70 l"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "150 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "1450 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1860 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 81 dB, LwA = 102 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/1d/f9/12/1721120834/falch_bro_g595.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2555"
+    ],
+    "recommended": [
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600007",
+      "Z064",
+      "E1600023",
+      "Z0000504",
+      "E1600089",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0055",
+      "D2555",
+      "Z0000117",
+      "Z0000546",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800139",
+      "Z0000304",
+      "Z0000141",
+      "G9800105",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "Z0000969",
+      "E1210196",
+      "E1210132",
+      "Z0001717",
+      "Z0000571",
+      "Z0000630",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G595.001",
+        "images": [
+          {
+            "src": "masine/base-jet-30-500-30-95-d/21",
+            "alt": "Base Jet 30 500-30-95-d, Crash frame L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-30-500-30-95-d/22",
+            "alt": "Base Jet 30 500-30-95-d, Crash frame L, fotografija 2"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G595.002",
+        "images": [
+          {
+            "src": "masine/base-jet-30-500-30-95-d/31",
+            "alt": "Base Jet 30 500-30-95-d, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-30-500-30-95-d/32",
+            "alt": "Base Jet 30 500-30-95-d, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-30-500-30-95-d/33",
+            "alt": "Base Jet 30 500-30-95-d, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G595.003",
+        "images": [
+          {
+            "src": "masine/base-jet-30-500-30-95-d/41",
+            "alt": "Base Jet 30 500-30-95-d, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-30-500-30-95-d",
+    "name": "Trail Jet 30 500-30-95-d",
+    "itemNumber": "G608",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 30,
+    "bar": 500,
+    "lpm": 30,
+    "hotWater": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/01",
+        "alt": "Trail Jet 30 500-30-95-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/02",
+        "alt": "Trail Jet 30 500-30-95-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/03",
+        "alt": "Trail Jet 30 500-30-95-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/04",
+        "alt": "Trail Jet 30 500-30-95-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/05",
+        "alt": "Trail Jet 30 500-30-95-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/11",
+        "alt": "Trail Jet 30 500-30-95-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/12",
+        "alt": "Trail Jet 30 500-30-95-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/13",
+        "alt": "Trail Jet 30 500-30-95-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-30-500-30-95-d/14",
+        "alt": "Trail Jet 30 500-30-95-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 500 bar (1450 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "16 – 30 l/min (4,2 – 7,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "+25 – +95 °C"
+      },
+      {
+        "group": "Performanse",
+        "label": "Gorionik: toplotna snaga, radni napon",
+        "value": "2× 99 kW, 12 V DC"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "059"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "9 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "44,5 kW / 30 kW, 950 o/min, 950 – 1850 o/min, regulacija broja obrtaja, 3 cil., 2194 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "5,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, 543 o/min, 543 – 1057 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "70 l"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "150 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "400 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "1630 kg, 120 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3690 × 1980 × 2050 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Omekšavanje vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 80 dB, LwA = 100 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/77/07/38/1667991547/falch_bro_g608.pdf",
+    "standard": [
+      "S003",
+      "Z029E001",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "E0810029",
+      "D2555"
+    ],
+    "recommended": [
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000829",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0055",
+      "D2555",
+      "Z0000117",
+      "Z0000546",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800139",
+      "Z0000304",
+      "Z0000141",
+      "G9800105",
+      "Z0000009",
+      "Z0001746",
+      "Z0001725",
+      "Z0000969",
+      "E1210196",
+      "E1210132",
+      "Z0001717",
+      "E0700119",
+      "Z0000571",
+      "Z0000630",
+      "W020",
+      "Z0000003",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ]
+  },
+  {
+    "slug": "wheel-jet-30-500-30-0-e",
+    "name": "Wheel Jet 30 500-30-0-e",
+    "itemNumber": "G411",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 30,
+    "bar": 500,
+    "lpm": 30,
+    "hotWater": false,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/01",
+        "alt": "Wheel Jet 30 500-30-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/02",
+        "alt": "Wheel Jet 30 500-30-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/03",
+        "alt": "Wheel Jet 30 500-30-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/04",
+        "alt": "Wheel Jet 30 500-30-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/05",
+        "alt": "Wheel Jet 30 500-30-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/11",
+        "alt": "Wheel Jet 30 500-30-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/12",
+        "alt": "Wheel Jet 30 500-30-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/13",
+        "alt": "Wheel Jet 30 500-30-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-500-30-0-e/14",
+        "alt": "Wheel Jet 30 500-30-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 500 bar (725 – 7252 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "9 – 30 l/min (2,4 – 7,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Temperatura vode",
+        "value": "opciono"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "059"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "36 kW / 30 kW, -, 1480 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, -, 1057 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "510 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1273 × 987 × 1066 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 82 dB, LwA = 98 dB"
+      }
+    ],
+    "video": "5jHPnkovfaM",
+    "brochure": "https://shop-api.falch.com/media/d2/6c/6c/1786084105/falch_bro_g411.pdf",
+    "standard": [
+      "S003",
+      "S050",
+      "Z0000209",
+      "Z031",
+      "E0810029",
+      "D2555"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "S001",
+      "S002",
+      "S003",
+      "Z029E001",
+      "Z073",
+      "S050",
+      "Z0000209",
+      "Z029E002",
+      "Z031",
+      "Z032",
+      "Z033",
+      "Z015",
+      "Z0000164",
+      "Z0000136",
+      "Z0000137",
+      "E0810029",
+      "D0055",
+      "Z0000117",
+      "Z0000546",
+      "Z0000167",
+      "D051",
+      "D045",
+      "Z0000174",
+      "Z0000173",
+      "Z0000008",
+      "E1190045",
+      "S104",
+      "S105",
+      "Z0000172",
+      "E0800008",
+      "E0800409",
+      "Z0000304",
+      "Z0000141",
+      "G9800105",
+      "Z0000009",
+      "Z0001751",
+      "Z0001746",
+      "Z0001725",
+      "Z0000969",
+      "E1210196",
+      "E1210132",
+      "Z0000571",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000076",
+      "Z0000079",
+      "Z0000226",
+      "Z0000068",
+      "E1300040",
+      "V044",
+      "N005",
+      "N006",
+      "N075",
+      "V005",
+      "V007",
+      "V006",
+      "V003",
+      "E0810136",
+      "N003",
+      "N076",
+      "E1230053",
+      "N383",
+      "N121",
+      "Z0000796",
+      "V001",
+      "Z036"
+    ],
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "base-jet-30-1000-16-0-e",
+    "name": "Base Jet 30 1000-16-0-e",
+    "itemNumber": "G548",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 30,
+    "bar": 1000,
+    "lpm": 16,
+    "hotWater": false,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/01",
+        "alt": "Base Jet 30 1000-16-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/02",
+        "alt": "Base Jet 30 1000-16-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/03",
+        "alt": "Base Jet 30 1000-16-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/04",
+        "alt": "Base Jet 30 1000-16-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/05",
+        "alt": "Base Jet 30 1000-16-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/11",
+        "alt": "Base Jet 30 1000-16-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/12",
+        "alt": "Base Jet 30 1000-16-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/13",
+        "alt": "Base Jet 30 1000-16-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-30-1000-16-0-e/14",
+        "alt": "Base Jet 30 1000-16-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 1000 bar (725 – 14504 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "7 – 16 l/min (1,8 – 4,2 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "022"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "36 kW / 30 kW, -, 1480 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 63 A, 5 m"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, -, 1189 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "90 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1285 × 845 × 1275 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatski start/stop",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 82 dB, LwA = 99 dB"
+      }
+    ],
+    "video": "w2UpasrLdlQ",
+    "brochure": "https://shop-api.falch.com/media/ae/19/41/1665748822/falch_bro_g548.pdf",
+    "standard": [
+      "E1600089",
+      "E1010025",
+      "S050",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E0800310",
+      "Z0000129",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "F0000040"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "E1600089",
+      "Z0000572",
+      "E1600090",
+      "E1211016",
+      "E1010025",
+      "Z0000149",
+      "Z073",
+      "S050",
+      "Z0000216",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800302",
+      "E0800167",
+      "Z0000965",
+      "Z0000582",
+      "E1210346",
+      "Z0000987",
+      "Z0000782",
+      "Z0000234",
+      "E1190044",
+      "E1190069",
+      "Z0000131",
+      "Z0000770",
+      "E0800166",
+      "E0800093",
+      "E0800364",
+      "E0800114",
+      "E0800116",
+      "Z0000141",
+      "Z0001747",
+      "Z0000866",
+      "Z0000571",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "Z0000150",
+      "E1300080",
+      "E1230034",
+      "E1230175",
+      "E1230033",
+      "E1230025",
+      "E1300203",
+      "E1230215",
+      "E1300210",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "variants": [
+      {
+        "label": "Overpack S",
+        "itemNumber": "G548.001",
+        "images": [
+          {
+            "src": "masine/base-jet-30-1000-16-0-e/21",
+            "alt": "Base Jet 30 1000-16-0-e, Overpack S, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-30-1000-16-0-e/22",
+            "alt": "Base Jet 30 1000-16-0-e, Overpack S, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-30-1000-16-0-e/23",
+            "alt": "Base Jet 30 1000-16-0-e, Overpack S, fotografija 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wheel-jet-30-1000-16-0-e",
+    "name": "Wheel Jet 30 1000-16-0-e",
+    "itemNumber": "G412",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 30,
+    "bar": 1000,
+    "lpm": 16,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/01",
+        "alt": "Wheel Jet 30 1000-16-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/02",
+        "alt": "Wheel Jet 30 1000-16-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/03",
+        "alt": "Wheel Jet 30 1000-16-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/04",
+        "alt": "Wheel Jet 30 1000-16-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/05",
+        "alt": "Wheel Jet 30 1000-16-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/11",
+        "alt": "Wheel Jet 30 1000-16-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/12",
+        "alt": "Wheel Jet 30 1000-16-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/13",
+        "alt": "Wheel Jet 30 1000-16-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-1000-16-0-e/14",
+        "alt": "Wheel Jet 30 1000-16-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "50 – 1000 bar (725 – 14504 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "7 – 16 l/min (1,8 – 4,2 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "022"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "36 kW / 30 kW, -, 1480 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, -, 1189 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "554 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1273 × 987 × 1066 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 84 dB, LwA = 101 dB"
+      }
+    ],
+    "video": "5jHPnkovfaM",
+    "brochure": "https://shop-api.falch.com/media/e8/65/92/1786084393/falch_bro_g412.pdf",
+    "standard": [
+      "E1600082",
+      "E1010025",
+      "Z0000149",
+      "S050",
+      "E1010169",
+      "Z0000217",
+      "E0810040",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E0800310",
+      "Z0000129",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "F0000040"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010025",
+      "Z0000149",
+      "Z073",
+      "S050",
+      "Z0000217",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800302",
+      "E0800491",
+      "Z0000965",
+      "Z0001008",
+      "E1211013",
+      "Z0000987",
+      "Z0000782",
+      "E1190069",
+      "Z0000131",
+      "S126",
+      "Z0000211",
+      "Z0000770",
+      "E0800166",
+      "E0800093",
+      "E0800364",
+      "E0800114",
+      "Z0000141",
+      "Z0001740",
+      "Z0001020",
+      "Z0000571",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "Z0000150",
+      "E1300080",
+      "E1230034",
+      "E1230175",
+      "E1230033",
+      "E1230025",
+      "E1300203",
+      "E1230215",
+      "E1300210",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "wheel-jet-30-2000-8-0-e",
+    "name": "Wheel Jet 30 2000-8-0-e",
+    "itemNumber": "G408",
+    "series": "wheel-jet",
+    "engine": "electric",
+    "kw": 30,
+    "bar": 2000,
+    "lpm": 8,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/01",
+        "alt": "Wheel Jet 30 2000-8-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/02",
+        "alt": "Wheel Jet 30 2000-8-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/03",
+        "alt": "Wheel Jet 30 2000-8-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/04",
+        "alt": "Wheel Jet 30 2000-8-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/05",
+        "alt": "Wheel Jet 30 2000-8-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/11",
+        "alt": "Wheel Jet 30 2000-8-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/12",
+        "alt": "Wheel Jet 30 2000-8-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/13",
+        "alt": "Wheel Jet 30 2000-8-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/wheel-jet-30-2000-8-0-e/14",
+        "alt": "Wheel Jet 30 2000-8-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "0 – 2000 bar (0 – 29008 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "4 – 8 l/min (1,1 – 2,1 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "008"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "36 kW / 30 kW, -, 1480 o/min, –, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "30 kW, -, 1189 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "554 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1273 × 987 × 1066 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 84 dB, LwA = 101 dB"
+      }
+    ],
+    "video": "5jHPnkovfaM",
+    "brochure": "https://shop-api.falch.com/media/52/a0/df/1786084686/falch_bro_g408.pdf",
+    "standard": [
+      "E1600082",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000217",
+      "E0810128",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E0800109",
+      "Z0000129",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "F0000040"
+    ],
+    "recommended": [
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "Z0000594",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000580",
+      "Z0000217",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800109",
+      "Z0001011",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "W1300048"
+    ],
+    "review": [
+      "Radni pritisak: proveriti (pritisak počinje od 0): \"0 – 2000 bar (0 – 29008 psi)\"",
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "base-jet-125-1000-60-0-d",
+    "name": "Base Jet 125 1000-60-0-d",
+    "itemNumber": "G622",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 1000,
+    "lpm": 60,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/01",
+        "alt": "Base Jet 125 1000-60-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/02",
+        "alt": "Base Jet 125 1000-60-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/03",
+        "alt": "Base Jet 125 1000-60-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/04",
+        "alt": "Base Jet 125 1000-60-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/05",
+        "alt": "Base Jet 125 1000-60-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/11",
+        "alt": "Base Jet 125 1000-60-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/12",
+        "alt": "Base Jet 125 1000-60-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/13",
+        "alt": "Base Jet 125 1000-60-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1000-60-0-d/14",
+        "alt": "Base Jet 125 1000-60-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "300 – 1000 bar (4351 – 14504 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "25 – 60 l/min (6,6 – 15,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "083"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "1590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 89 dB, LwA = 108 dB"
+      }
+    ],
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "E1010096",
+      "Z0000149",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E0800191",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "E1300040",
+      "Z0000701",
+      "Z0000670",
+      "Z0000702",
+      "Z0000688",
+      "Z0000699",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010025",
+      "E1010096",
+      "Z073",
+      "E0500148",
+      "S050",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800306",
+      "E0800191",
+      "E0800054",
+      "Z0000129",
+      "Z0000142",
+      "Z0000664",
+      "E1210941",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000184",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000131",
+      "S126",
+      "Z0000211",
+      "Z0000847",
+      "Z0000848",
+      "Z0000769",
+      "Z0000770",
+      "E0800094",
+      "E0800058",
+      "E0800100",
+      "E0800551",
+      "E0800552",
+      "Z0000846",
+      "Z0000845",
+      "E1230715",
+      "Z0000141",
+      "E1210194",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "C010",
+      "F0000040",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000150",
+      "E1300246",
+      "E1300210",
+      "W1300048"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G622.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/21",
+            "alt": "Base Jet 125 1000-60-0-d, Crash frame L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/22",
+            "alt": "Base Jet 125 1000-60-0-d, Crash frame L, fotografija 2"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G622.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/31",
+            "alt": "Base Jet 125 1000-60-0-d, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/32",
+            "alt": "Base Jet 125 1000-60-0-d, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/33",
+            "alt": "Base Jet 125 1000-60-0-d, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G622.004",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/41",
+            "alt": "Base Jet 125 1000-60-0-d, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft silent",
+        "itemNumber": "G622.005",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-60-0-d/51",
+            "alt": "Base Jet 125 1000-60-0-d, Kontejner 10 ft silent, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-125-1000-60-0-d",
+    "name": "Trail Jet 125 1000-60-0-d",
+    "itemNumber": "G626",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 1000,
+    "lpm": 60,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/01",
+        "alt": "Trail Jet 125 1000-60-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/02",
+        "alt": "Trail Jet 125 1000-60-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/03",
+        "alt": "Trail Jet 125 1000-60-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/04",
+        "alt": "Trail Jet 125 1000-60-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/05",
+        "alt": "Trail Jet 125 1000-60-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/11",
+        "alt": "Trail Jet 125 1000-60-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/12",
+        "alt": "Trail Jet 125 1000-60-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/13",
+        "alt": "Trail Jet 125 1000-60-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-1000-60-0-d/14",
+        "alt": "Trail Jet 125 1000-60-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "300 – 1000 bar (4351 – 14504 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "25 – 60 l/min (6,6 – 15,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "083"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "400 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "2030 kg, 120 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3854 × 1980 × 2080 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 83 dB, LwA = 106 dB"
+      }
+    ],
+    "video": "rBl7EiBaCVA",
+    "brochure": "https://shop-api.falch.com/media/b6/25/f4/1753366955/falch_bro_g626.pdf",
+    "standard": [
+      "E1300040",
+      "E1600082",
+      "E1600089",
+      "E1010096",
+      "Z0000149",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E0800191",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0001717",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "E1300040",
+      "Z0000701",
+      "Z0000670",
+      "Z0000669",
+      "Z0000702",
+      "Z0000688",
+      "Z0000699",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010025",
+      "E1010096",
+      "Z073",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800544",
+      "E0800191",
+      "E0800054",
+      "Z0000129",
+      "Z0000142",
+      "Z0000664",
+      "E1210941",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000184",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000131",
+      "S126",
+      "Z0000211",
+      "Z0000847",
+      "Z0000848",
+      "Z0000769",
+      "Z0000770",
+      "E0800094",
+      "E0800058",
+      "E0800100",
+      "E0800551",
+      "E0800552",
+      "Z0000846",
+      "Z0000845",
+      "E1230715",
+      "Z0000141",
+      "E0700119",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000150",
+      "E1300246",
+      "E1300210",
+      "W1300048",
+      "F0000040"
+    ]
+  },
+  {
+    "slug": "base-jet-125-1500-38-0-d",
+    "name": "Base Jet 125 1500-38-0-d",
+    "itemNumber": "G623",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 1500,
+    "lpm": 38,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/01",
+        "alt": "Base Jet 125 1500-38-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/02",
+        "alt": "Base Jet 125 1500-38-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/03",
+        "alt": "Base Jet 125 1500-38-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/04",
+        "alt": "Base Jet 125 1500-38-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/05",
+        "alt": "Base Jet 125 1500-38-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/11",
+        "alt": "Base Jet 125 1500-38-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/12",
+        "alt": "Base Jet 125 1500-38-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/13",
+        "alt": "Base Jet 125 1500-38-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1500-38-0-d/14",
+        "alt": "Base Jet 125 1500-38-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "300 – 1500 bar (4351 – 21756 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "16 – 38 l/min (4,2 – 10 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "043"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "1590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 89 dB, LwA = 108 dB"
+      }
+    ],
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "E1010155",
+      "Z0000149",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E0800169",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000218",
+      "E1300040",
+      "Z0000701",
+      "Z0000670",
+      "Z0000690",
+      "E0190122",
+      "Z0000853",
+      "Z0000854",
+      "Z0000534",
+      "Z0000702",
+      "Z0000688",
+      "G100",
+      "Z0000699",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010096",
+      "E1010155",
+      "E1010156",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "E1130009",
+      "Z0000208",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800036",
+      "E0800169",
+      "E0800053",
+      "Z0000129",
+      "Z0000664",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000234",
+      "E1190069",
+      "Z0000884",
+      "E0800571",
+      "Z0000898",
+      "Z0000846",
+      "Z0000845",
+      "Z0001753",
+      "Z0000866",
+      "Z0000718",
+      "Z0000636",
+      "E1210194",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000150",
+      "E1230443",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G623.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1500-38-0-d/21",
+            "alt": "Base Jet 125 1500-38-0-d, Crash frame L, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G623.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1500-38-0-d/31",
+            "alt": "Base Jet 125 1500-38-0-d, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft silent",
+        "itemNumber": "G623.004",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1500-38-0-d/41",
+            "alt": "Base Jet 125 1500-38-0-d, Kontejner 10 ft silent, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-125-1500-38-0-d",
+    "name": "Trail Jet 125 1500-38-0-d",
+    "itemNumber": "G627",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 1500,
+    "lpm": 38,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/01",
+        "alt": "Trail Jet 125 1500-38-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/02",
+        "alt": "Trail Jet 125 1500-38-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/03",
+        "alt": "Trail Jet 125 1500-38-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/04",
+        "alt": "Trail Jet 125 1500-38-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/05",
+        "alt": "Trail Jet 125 1500-38-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/11",
+        "alt": "Trail Jet 125 1500-38-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/12",
+        "alt": "Trail Jet 125 1500-38-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/13",
+        "alt": "Trail Jet 125 1500-38-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-1500-38-0-d/14",
+        "alt": "Trail Jet 125 1500-38-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "300 – 1500 bar (4351 – 21756 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "16 – 38 l/min (4,2 – 10 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "043"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "400 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "2030 kg, 120 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3854 × 1980 × 2080 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 83 dB, LwA = 106 dB"
+      }
+    ],
+    "video": "rBl7EiBaCVA",
+    "brochure": "https://shop-api.falch.com/media/62/ae/ac/1753367168/falch_bro_g627.pdf",
+    "standard": [
+      "E1300040",
+      "E1600082",
+      "E1600089",
+      "E1010155",
+      "Z0000149",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E0800169",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0001717",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "E1300040",
+      "Z0000701",
+      "Z0000670",
+      "Z0000702",
+      "Z0000688",
+      "Z0000699",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010096",
+      "E1010155",
+      "E1010156",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800036",
+      "E0800169",
+      "E0800053",
+      "Z0000129",
+      "Z0000664",
+      "E1210941",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000769",
+      "Z0000770",
+      "E0800058",
+      "E0800100",
+      "E0800551",
+      "Z0000846",
+      "Z0000845",
+      "E1230715",
+      "Z0000141",
+      "E0700119",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000150",
+      "E1300246",
+      "E1300215",
+      "E1300210",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ]
+  },
+  {
+    "slug": "base-jet-125-2500-24-0-d",
+    "name": "Base Jet 125 2500-24-0-d",
+    "itemNumber": "G624",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 2500,
+    "lpm": 24,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/01",
+        "alt": "Base Jet 125 2500-24-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/02",
+        "alt": "Base Jet 125 2500-24-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/03",
+        "alt": "Base Jet 125 2500-24-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/04",
+        "alt": "Base Jet 125 2500-24-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/05",
+        "alt": "Base Jet 125 2500-24-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/11",
+        "alt": "Base Jet 125 2500-24-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/12",
+        "alt": "Base Jet 125 2500-24-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/13",
+        "alt": "Base Jet 125 2500-24-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-2500-24-0-d/14",
+        "alt": "Base Jet 125 2500-24-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 2500 bar (8702 – 36260 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "10 – 24 l/min (2,6 – 6,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "021"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "1590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 89 dB, LwA = 108 dB"
+      }
+    ],
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800167",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010072",
+      "Z0000594",
+      "Z0000593",
+      "E1010097",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "Z0000217",
+      "Z0000580",
+      "E1130009",
+      "Z0000208",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1190041",
+      "E1190042",
+      "E0800301",
+      "E0800167",
+      "Z0000129",
+      "Z0000664",
+      "E1210941",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000774",
+      "Z0000775",
+      "E0800118",
+      "E0800117",
+      "Z0000574",
+      "Z0000614",
+      "Z0000556",
+      "E1210367",
+      "Z0000570",
+      "Z0000141",
+      "Z0000257",
+      "Z0000603",
+      "Z0001747",
+      "Z0000866",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0000571",
+      "A0130004",
+      "Z0000823",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000588",
+      "E1230213",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300246",
+      "E1300175",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G624.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/21",
+            "alt": "Base Jet 125 2500-24-0-d, Crash frame L, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G624.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/31",
+            "alt": "Base Jet 125 2500-24-0-d, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/32",
+            "alt": "Base Jet 125 2500-24-0-d, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/33",
+            "alt": "Base Jet 125 2500-24-0-d, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G624.004",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/41",
+            "alt": "Base Jet 125 2500-24-0-d, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft silent",
+        "itemNumber": "G624.005",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-24-0-d/51",
+            "alt": "Base Jet 125 2500-24-0-d, Kontejner 10 ft silent, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-125-2500-24-0-d",
+    "name": "Trail Jet 125 2500-24-0-d",
+    "itemNumber": "G628",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 2500,
+    "lpm": 24,
+    "hotWater": false,
+    "featured": true,
+    "images": [
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/01",
+        "alt": "Trail Jet 125 2500-24-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/02",
+        "alt": "Trail Jet 125 2500-24-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/03",
+        "alt": "Trail Jet 125 2500-24-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/04",
+        "alt": "Trail Jet 125 2500-24-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/05",
+        "alt": "Trail Jet 125 2500-24-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/11",
+        "alt": "Trail Jet 125 2500-24-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/12",
+        "alt": "Trail Jet 125 2500-24-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/13",
+        "alt": "Trail Jet 125 2500-24-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-2500-24-0-d/14",
+        "alt": "Trail Jet 125 2500-24-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 2500 bar (8702 – 36260 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "10 – 24 l/min (2,6 – 6,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "021"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "400 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "2030 kg, 120 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3854 × 1980 × 2080 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 83 dB, LwA = 106 dB"
+      }
+    ],
+    "video": "rBl7EiBaCVA",
+    "brochure": "https://shop-api.falch.com/media/71/81/21/1753367391/falch_bro_g628.pdf",
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800167",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0001717",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010072",
+      "Z0000594",
+      "Z0000593",
+      "E1010097",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "E1400887",
+      "E1400888",
+      "Z0001022",
+      "Z0000580",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800301",
+      "E0800303",
+      "E0800167",
+      "E0800491",
+      "Z0000129",
+      "Z0000664",
+      "E1210941",
+      "Z0000564",
+      "E1210334",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000774",
+      "Z0000775",
+      "Z0000574",
+      "Z0000614",
+      "Z0000556",
+      "E1210367",
+      "Z0000570",
+      "Z0000141",
+      "Z0000603",
+      "Z0001747",
+      "Z0000866",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0001740",
+      "E0700119",
+      "Z0000571",
+      "A0130004",
+      "Z0000823",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000588",
+      "E1230213",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300246",
+      "E1300215",
+      "E1300175",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ]
+  },
+  {
+    "slug": "base-jet-125-3000-20-0-d",
+    "name": "Base Jet 125 3000-20-0-d",
+    "itemNumber": "G625",
+    "series": "base-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 3000,
+    "lpm": 20,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/01",
+        "alt": "Base Jet 125 3000-20-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/02",
+        "alt": "Base Jet 125 3000-20-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/03",
+        "alt": "Base Jet 125 3000-20-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/04",
+        "alt": "Base Jet 125 3000-20-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/05",
+        "alt": "Base Jet 125 3000-20-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/11",
+        "alt": "Base Jet 125 3000-20-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/12",
+        "alt": "Base Jet 125 3000-20-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/13",
+        "alt": "Base Jet 125 3000-20-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-3000-20-0-d/14",
+        "alt": "Base Jet 125 3000-20-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 3000 bar (8702 – 43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 20 l/min (2,1 – 5,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "016"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "1590 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1850 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 89 dB, LwA = 108 dB"
+      }
+    ],
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800173",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010099",
+      "Z0000624",
+      "E1010095",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0001022",
+      "Z0000580",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800173",
+      "Z0000129",
+      "Z0000564",
+      "E1210334",
+      "Z0000234",
+      "E1190044",
+      "E1190069",
+      "Z0000862",
+      "Z0000574",
+      "Z0000614",
+      "E1210367",
+      "Z0000570",
+      "Z0000257",
+      "Z0000603",
+      "Z0001747",
+      "Z0000866",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0000571",
+      "A0130004",
+      "Z0000823",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "Z0000588",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300175",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "variants": [
+      {
+        "label": "Overpack L",
+        "itemNumber": "G625.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/21",
+            "alt": "Base Jet 125 3000-20-0-d, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/22",
+            "alt": "Base Jet 125 3000-20-0-d, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/23",
+            "alt": "Base Jet 125 3000-20-0-d, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G625.004",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/31",
+            "alt": "Base Jet 125 3000-20-0-d, Crash frame L, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G625.005",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/41",
+            "alt": "Base Jet 125 3000-20-0-d, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft silent",
+        "itemNumber": "G625.006",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-20-0-d/51",
+            "alt": "Base Jet 125 3000-20-0-d, Kontejner 10 ft silent, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trail-jet-125-3000-20-0-d",
+    "name": "Trail Jet 125 3000-20-0-d",
+    "itemNumber": "G629",
+    "series": "trail-jet",
+    "engine": "diesel",
+    "kw": 110,
+    "bar": 3000,
+    "lpm": 20,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/01",
+        "alt": "Trail Jet 125 3000-20-0-d, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/02",
+        "alt": "Trail Jet 125 3000-20-0-d, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/03",
+        "alt": "Trail Jet 125 3000-20-0-d, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/04",
+        "alt": "Trail Jet 125 3000-20-0-d, fotografija 4"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/05",
+        "alt": "Trail Jet 125 3000-20-0-d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/11",
+        "alt": "Trail Jet 125 3000-20-0-d u radu, fotografija 1"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/12",
+        "alt": "Trail Jet 125 3000-20-0-d u radu, fotografija 2"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/13",
+        "alt": "Trail Jet 125 3000-20-0-d u radu, fotografija 3"
+      },
+      {
+        "src": "masine/trail-jet-125-3000-20-0-d/14",
+        "alt": "Trail Jet 125 3000-20-0-d u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 3000 bar (8702 – 43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 20 l/min (2,1 – 5,3 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "016"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Dizel motor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, cilindri, zapremina, hlađenje",
+        "value": "115 kW / 110 kW, 850 o/min, 850 – 2100 o/min, regulacija broja obrtaja, 4 cil., 4100 cm³, vodeno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Potrošnja goriva pri 60% opterećenja",
+        "value": "16,5 l/h"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "110 kW, 221 o/min, 221 – 547 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Zapremina rezervoara za gorivo",
+        "value": "210 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "400 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine, oslono opterećenje",
+        "value": "2030 kg, 120 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3854 × 1980 × 2080 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/7"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 83 dB, LwA = 106 dB"
+      }
+    ],
+    "video": "rBl7EiBaCVA",
+    "brochure": "https://shop-api.falch.com/media/f1/a4/9e/1753367654/falch_bro_g629.pdf",
+    "standard": [
+      "E1600082",
+      "E1600089",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800173",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500207",
+      "Z0001717",
+      "Z0000961",
+      "E1500243",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010099",
+      "Z0000624",
+      "E1010095",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "E1400887",
+      "E1400888",
+      "Z0001022",
+      "Z0000580",
+      "E1130009",
+      "Z0000208",
+      "Z0000217",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800173",
+      "Z0000129",
+      "Z0000564",
+      "E1210334",
+      "Z0000234",
+      "E1190069",
+      "Z0000574",
+      "Z0000614",
+      "E1210367",
+      "Z0000570",
+      "Z0000257",
+      "Z0000603",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0001740",
+      "E0700119",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "Z0000588",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300246",
+      "E1300215",
+      "E1300175",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ]
+  },
+  {
+    "slug": "base-jet-125-1000-67-0-e",
+    "name": "Base Jet 125 1000-67-0-e",
+    "itemNumber": "G558",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 125,
+    "bar": 1000,
+    "lpm": 67,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/01",
+        "alt": "Base Jet 125 1000-67-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/02",
+        "alt": "Base Jet 125 1000-67-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/03",
+        "alt": "Base Jet 125 1000-67-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/04",
+        "alt": "Base Jet 125 1000-67-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/05",
+        "alt": "Base Jet 125 1000-67-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/11",
+        "alt": "Base Jet 125 1000-67-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/12",
+        "alt": "Base Jet 125 1000-67-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/13",
+        "alt": "Base Jet 125 1000-67-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-1000-67-0-e/14",
+        "alt": "Base Jet 125 1000-67-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "300 – 1000 bar (4351 – 14504 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "23 – 67 l/min (6,1 – 17,7 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "093"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "160 kW / 132 kW, 650 o/min, 650 – 1800 o/min, frekventna regulacija, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 250 A"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "125 kW, 220 o/min, 220 – 610 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "2030 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1780 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 75 dB, LwA = 95 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/b8/02/d4/1665749771/falch_bro_g558.pdf",
+    "standard": [
+      "E1300040",
+      "E1600082",
+      "E1600089",
+      "E1010096",
+      "Z0000149",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810040",
+      "Z0000136",
+      "Z0000137",
+      "E0800191",
+      "E1230717",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "Z0000585",
+      "E1500073",
+      "E1300040",
+      "Z0000701",
+      "Z0000670",
+      "Z0000702",
+      "Z0000688",
+      "Z0000699",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010096",
+      "Z073",
+      "Z0000214",
+      "E1010169",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "Z0000208",
+      "Z0000217",
+      "E1230717",
+      "E0810040",
+      "E0810050",
+      "Z0000136",
+      "Z0000137",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800544",
+      "E0800191",
+      "E0800514",
+      "Z0000129",
+      "E0800054",
+      "Z0000142",
+      "Z0000664",
+      "E1210941",
+      "Z0000573",
+      "E1210336",
+      "Z0000564",
+      "E1210334",
+      "Z0000184",
+      "Z0000782",
+      "Z0000234",
+      "E1190069",
+      "Z0000131",
+      "S126",
+      "Z0000211",
+      "Z0000847",
+      "Z0000848",
+      "Z0000769",
+      "Z0000770",
+      "E0800166",
+      "E0800094",
+      "E0800058",
+      "E0800100",
+      "E0800057",
+      "E0800551",
+      "E0800552",
+      "Z0000846",
+      "Z0000845",
+      "E1230715",
+      "Z0000141",
+      "Z0000653",
+      "E1210194",
+      "Z0000571",
+      "A0130004",
+      "Z0000591",
+      "W020",
+      "C010",
+      "F0000040",
+      "Z0000150",
+      "E1300246",
+      "E1300215",
+      "E1300210",
+      "W1300048",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G558.001",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/21",
+            "alt": "Base Jet 125 1000-67-0-e, Crash frame L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/22",
+            "alt": "Base Jet 125 1000-67-0-e, Crash frame L, fotografija 2"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G558.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/31",
+            "alt": "Base Jet 125 1000-67-0-e, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/32",
+            "alt": "Base Jet 125 1000-67-0-e, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/33",
+            "alt": "Base Jet 125 1000-67-0-e, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G558.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-1000-67-0-e/41",
+            "alt": "Base Jet 125 1000-67-0-e, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "base-jet-125-2500-26-0-e",
+    "name": "Base Jet 125 2500-26-0-e",
+    "itemNumber": "G569",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 125,
+    "bar": 2500,
+    "lpm": 26,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/01",
+        "alt": "Base Jet 125 2500-26-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/02",
+        "alt": "Base Jet 125 2500-26-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/03",
+        "alt": "Base Jet 125 2500-26-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/04",
+        "alt": "Base Jet 125 2500-26-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/05",
+        "alt": "Base Jet 125 2500-26-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/11",
+        "alt": "Base Jet 125 2500-26-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/12",
+        "alt": "Base Jet 125 2500-26-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/13",
+        "alt": "Base Jet 125 2500-26-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-2500-26-0-e/14",
+        "alt": "Base Jet 125 2500-26-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 2500 bar (8702 – 36260 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "9 – 26 l/min (2,4 – 6,9 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "023"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "160 kW / 132 kW, 650 o/min, 650 – 1800 o/min, frekventna regulacija, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 250 A"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "125 kW, 220 o/min, 220 – 610 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "2030 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1780 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 75 dB, LwA = 95 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/6f/bd/94/1665751726/falch_bro_g569.pdf",
+    "standard": [
+      "E1600082",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800167",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "Z0000585",
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010072",
+      "Z0000594",
+      "E1010070",
+      "Z0000593",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "E1400887",
+      "E1400888",
+      "Z0000580",
+      "Z0000208",
+      "Z0000217",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800301",
+      "E0800164",
+      "E0800494",
+      "Z0000129",
+      "Z0000564",
+      "Z0000664",
+      "E1210941",
+      "Z0000782",
+      "E1190044",
+      "E1190069",
+      "Z0000774",
+      "Z0000775",
+      "E0800118",
+      "E0800117",
+      "Z0000574",
+      "Z0000614",
+      "Z0000556",
+      "E1210367",
+      "Z0000570",
+      "Z0000141",
+      "Z0000257",
+      "Z0000603",
+      "Z0001747",
+      "Z0000866",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0000571",
+      "A0130004",
+      "Z0000823",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "Z0000588",
+      "E1230213",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300246",
+      "E1300215",
+      "E1300175",
+      "W1300048",
+      "C010",
+      "F0000040"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G569.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/21",
+            "alt": "Base Jet 125 2500-26-0-e, Crash frame L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/22",
+            "alt": "Base Jet 125 2500-26-0-e, Crash frame L, fotografija 2"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G569.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/31",
+            "alt": "Base Jet 125 2500-26-0-e, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G569.018",
+        "images": [
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/41",
+            "alt": "Base Jet 125 2500-26-0-e, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/42",
+            "alt": "Base Jet 125 2500-26-0-e, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-2500-26-0-e/43",
+            "alt": "Base Jet 125 2500-26-0-e, Overpack L, fotografija 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "base-jet-125-3000-22-0-e",
+    "name": "Base Jet 125 3000-22-0-e",
+    "itemNumber": "G354",
+    "series": "base-jet",
+    "engine": "electric",
+    "kw": 125,
+    "bar": 3000,
+    "lpm": 22,
+    "hotWater": false,
+    "images": [
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/01",
+        "alt": "Base Jet 125 3000-22-0-e, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/02",
+        "alt": "Base Jet 125 3000-22-0-e, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/03",
+        "alt": "Base Jet 125 3000-22-0-e, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/04",
+        "alt": "Base Jet 125 3000-22-0-e, fotografija 4"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/05",
+        "alt": "Base Jet 125 3000-22-0-e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/11",
+        "alt": "Base Jet 125 3000-22-0-e u radu, fotografija 1"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/12",
+        "alt": "Base Jet 125 3000-22-0-e u radu, fotografija 2"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/13",
+        "alt": "Base Jet 125 3000-22-0-e u radu, fotografija 3"
+      },
+      {
+        "src": "masine/base-jet-125-3000-22-0-e/14",
+        "alt": "Base Jet 125 3000-22-0-e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "600 – 3000 bar (8702 – 43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "8 – 22 l/min (2,1 – 5,8 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Standardna veličina mlaznice",
+        "value": "018"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Elektromotor: maksimalna / izlazna snaga, prazan hod, broj obrtaja, upravljanje, hlađenje",
+        "value": "160 kW / 132 kW, 650 o/min, 650 – 1800 o/min, frekventna regulacija, vazdušno"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 250 A"
+      },
+      {
+        "group": "Pogon i pumpa",
+        "label": "Pumpa: snaga, prazan hod, broj obrtaja, pritisak dovodne vode, najviša temperatura ulazne vode",
+        "value": "125 kW, 220 o/min, 220 – 610 o/min, 2 – 5 bar, 40 °C"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Zapremina rezervoara za vodu",
+        "value": "80 l"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa prazne mašine",
+        "value": "2030 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2240 × 1550 × 1780 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Upozorenje na nedostatak vode",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Automatsko isključivanje",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Zaštita od smrzavanja",
+        "value": "Da"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Nivo buke",
+        "value": "LpA = 75 dB, LwA = 95 dB"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/b1/a0/0f/1665743912/falch_bro_g354.pdf",
+    "standard": [
+      "E1600082",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z0000214",
+      "Z0000404",
+      "Z0000216",
+      "Z0000609",
+      "Z0000208",
+      "E0810128",
+      "Z0000136",
+      "Z0000137",
+      "E0800173",
+      "Z0000580",
+      "E1190041",
+      "E1190042",
+      "W1300048",
+      "F0000040"
+    ],
+    "recommended": [
+      "E1500073",
+      "Z009",
+      "Z010",
+      "Z0000534",
+      "G100",
+      "Z064",
+      "E1600023",
+      "E1600082",
+      "Z0000504",
+      "E1600089",
+      "E1010099",
+      "Z0000624",
+      "E1010095",
+      "Z0000599",
+      "Z0000581",
+      "A0500021",
+      "Z073",
+      "E0500148",
+      "Z0000214",
+      "Z0000579",
+      "Z0000404",
+      "Z0000406",
+      "Z0000216",
+      "Z0000320",
+      "Z0000609",
+      "E1400887",
+      "E1400888",
+      "Z0000580",
+      "Z0000208",
+      "Z0000217",
+      "E0810128",
+      "E0810129",
+      "Z0000136",
+      "Z0000137",
+      "E1210194",
+      "E1230132",
+      "E1300039",
+      "E1190041",
+      "E1190042",
+      "E0800301",
+      "E0800173",
+      "E0800164",
+      "Z0000129",
+      "Z0000564",
+      "E1210334",
+      "Z0000234",
+      "E1190044",
+      "E1190069",
+      "Z0000574",
+      "Z0000614",
+      "E1210367",
+      "Z0000570",
+      "Z0000257",
+      "Z0000603",
+      "E1210196",
+      "E0500034",
+      "E1210132",
+      "Z0000653",
+      "Z0000571",
+      "A0130004",
+      "Z0000823",
+      "Z0000591",
+      "W020",
+      "Z0000988",
+      "Z094",
+      "Z0000079",
+      "Z0000675",
+      "Z0000672",
+      "Z0000075",
+      "Z0000226",
+      "Z0000068",
+      "Z0000041",
+      "E1300040",
+      "Z0000588",
+      "E1230330",
+      "E1230356",
+      "E1300172",
+      "E1230214",
+      "E1230240",
+      "E1300246",
+      "E1300215",
+      "E1300175",
+      "W1300048"
+    ],
+    "variants": [
+      {
+        "label": "Crash frame L",
+        "itemNumber": "G354.001",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/21",
+            "alt": "Base Jet 125 3000-22-0-e, Crash frame L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/22",
+            "alt": "Base Jet 125 3000-22-0-e, Crash frame L, fotografija 2"
+          }
+        ]
+      },
+      {
+        "label": "Overpack L",
+        "itemNumber": "G354.002",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/31",
+            "alt": "Base Jet 125 3000-22-0-e, Overpack L, fotografija 1"
+          },
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/32",
+            "alt": "Base Jet 125 3000-22-0-e, Overpack L, fotografija 2"
+          },
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/33",
+            "alt": "Base Jet 125 3000-22-0-e, Overpack L, fotografija 3"
+          }
+        ]
+      },
+      {
+        "label": "Kontejner 10 ft basic",
+        "itemNumber": "G354.003",
+        "images": [
+          {
+            "src": "masine/base-jet-125-3000-22-0-e/41",
+            "alt": "Base Jet 125 3000-22-0-e, Kontejner 10 ft basic, fotografija 1"
+          }
+        ]
+      }
+    ]
+  }
+]
