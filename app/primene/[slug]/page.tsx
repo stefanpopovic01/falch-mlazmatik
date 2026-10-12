@@ -16,6 +16,7 @@ import {
   groupLabel,
   relatedApplications,
 } from "@/lib/applications";
+import { galleryItem } from "@/lib/gallery";
 import { getImage } from "@/lib/images";
 
 export const dynamicParams = false;
@@ -70,28 +71,16 @@ export default async function PrimenaPage({ params }: PageProps<"/primene/[slug]
         {/* Naslovna slika je velika (2x2), ostale popunjavaju desnu stranu. */}
         <Gallery
           className="grid grid-cols-2 gap-4 lg:grid-cols-4 lg:gap-5"
-          items={application.images.map((image, i) => {
-            const cover = i === 0;
-            const full = getImage(image.src);
-            return {
-              className: cover ? "col-span-2 aspect-[3/2] lg:row-span-2 lg:aspect-auto" : "aspect-[4/3]",
-              full: { src: full.largest, width: full.width, height: full.height, alt: image.alt },
-              thumb: (
-                <Img
-                  src={image.src}
-                  alt={image.alt}
-                  fill
-                  priority={cover}
-                  sizes={
-                    cover
-                      ? "(min-width: 1024px) 50vw, 100vw"
-                      : "(min-width: 1024px) 25vw, 50vw"
-                  }
-                  className="object-cover transition-transform duration-700 group-hover:scale-105"
-                />
-              ),
-            };
-          })}
+          items={application.images.map((image, i) =>
+            i === 0
+              ? galleryItem(
+                  image,
+                  "(min-width: 1024px) 50vw, 100vw",
+                  "col-span-2 aspect-[3/2] lg:row-span-2 lg:aspect-auto",
+                  true,
+                )
+              : galleryItem(image, "(min-width: 1024px) 25vw, 50vw", "aspect-[4/3]"),
+          )}
         />
       </Container>
 

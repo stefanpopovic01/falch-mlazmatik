@@ -1882,5 +1882,120 @@
     "widths": [
       360
     ]
+  },
+  "servis/demonstracije/01": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "servis/demonstracije/02": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "servis/demonstracije/03": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "servis/demonstracije/04": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "servis/demonstracije/05": {
+    "width": 960,
+    "height": 640,
+    "widths": [
+      960
+    ]
+  },
+  "servis/popravke/01": {
+    "width": 1600,
+    "height": 1200,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "servis/popravke/02": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      960
+    ]
+  },
+  "servis/popravke/03": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      960
+    ]
+  },
+  "servis/popravke/04": {
+    "width": 960,
+    "height": 720,
+    "widths": [
+      960
+    ]
+  },
+  "servis/video-pistolj-30": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis/video-prekidacki-ventil-2500-bar": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis/video-pumpa-1000-2000-bar": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis/video-pumpa-125-kw": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis/video-pumpa-500-bar-ventili": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
+  },
+  "servis/video-pumpa-500-bar-zaptivke": {
+    "width": 960,
+    "height": 540,
+    "widths": [
+      480,
+      960
+    ]
   }
 }

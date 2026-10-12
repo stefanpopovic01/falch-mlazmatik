@@ -14,8 +14,8 @@ const OUT = "public/media";
 const MANIFEST = "lib/images.json";
 // Širine po vrsti slike. Samo naslovna slika (01) ima više veličina, da repozitorijum ostane lak.
 const PROFILES = [
-  // Poster video snimka: prikazuje se samo kao pločica
-  { test: /\/video$/, steps: [480, 960] },
+  // Poster video snimka (video ili video-<naziv>): prikazuje se samo kao pločica
+  { test: /\/video(-[a-z0-9-]+)?$/, steps: [480, 960] },
   // Slike galerije (02, 03, ...): samo jedna veličina, i za stranicu i za uvećani prikaz
   { test: /\/(0[2-9]|[1-9]\d)$/, steps: [960] },
   // Sve ostalo, uključujući naslovnu sliku (01): kartice, pločice i veliki prikaz

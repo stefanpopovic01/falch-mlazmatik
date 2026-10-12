@@ -5,6 +5,7 @@ export const routes = {
   masine: "/proizvodi/masine",
   pribor: "/proizvodi/pribor",
   servis: "/servis",
+  demonstracije: "/servis/demonstracije",
   kontakt: "/kontakt",
   privatnost: "/privatnost",
   kolacici: "/kolacici",
@@ -26,8 +27,19 @@ export const nav: NavItem[] = [
       { label: "Pribor", note: "13 kategorija pribora", href: routes.pribor },
     ],
   },
-  { label: "Servis", href: routes.servis },
+  {
+    label: "Servis",
+    href: routes.servis,
+    children: [
+      { label: "Servis i delovi", note: "Popravke i rezervni delovi", href: routes.servis },
+      { label: "Demonstracije", note: "Mašina u radu pre kupovine", href: routes.demonstracije },
+    ],
+  },
 ];
+
+// Link ka kontakt formularu sa unapred izabranom temom upita (/kontakt?tema=...)
+export type ContactTopic = "servis" | "rezervni-deo" | "demonstracija";
+export const contactHref = (topic: ContactTopic) => `${routes.kontakt}?tema=${topic}`;
 
 // Pritisak je potvrdio klijent. Ostale brojke su okvirne iz ponude.
 export const trust = [
