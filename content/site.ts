@@ -54,7 +54,6 @@ export const trust = [
   { value: "3.000", unit: "bar", label: "Radni pritisak do" },
   { value: "30+", unit: "", label: "Mašina u ponudi" },
   { value: "300+", unit: "", label: "Komada pribora" },
-  { value: "44", unit: "", label: "Primene" },
 ];
 
 // Podaci preuzeti sa mlazmatik.co.rs (sedište i servis). Potvrditi sa klijentom.

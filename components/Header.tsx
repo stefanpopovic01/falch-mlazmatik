@@ -8,8 +8,29 @@ import { nav, routes } from "@/content/site";
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  // Naziv otvorenog padajućeg menija. Jedna vrednost, pa je uvek otvoren najviše jedan.
+  const [menu, setMenu] = useState<string | null>(null);
+  const pathname = usePathname();
   // Samo početna ima hero ispod zaglavlja, pa je samo tamo providno.
-  const overHero = usePathname() === routes.home;
+  const overHero = pathname === routes.home;
+
+  // Posle prelaska na drugu stranicu zatvaraju se i padajući i mobilni meni.
+  useEffect(() => {
+    setMenu(null);
+    setOpen(false);
+  }, [pathname]);
+
+  useEffect(() => {
+    const onKey = (event: KeyboardEvent) => event.key === "Escape" && setMenu(null);
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
+  // Klik na stavku zatvara meni i skida fokus sa linka, da ga fokus ne drži otvorenim.
+  const closeMenu = () => {
+    setMenu(null);
+    (document.activeElement as HTMLElement | null)?.blur();
+  };
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24);
@@ -49,17 +70,32 @@ export default function Header() {
         </Link>
 
         <nav aria-label="Glavni meni" className="hidden items-center gap-1 lg:flex">
-          {nav.map((item) => (
-            <div key={item.label} className="group relative">
+          {nav.map((item) => {
+            const expanded = menu === item.label;
+            return (
+            <div
+              key={item.label}
+              className="relative"
+              onMouseEnter={() => item.children && setMenu(item.label)}
+              onMouseLeave={() => setMenu((current) => (current === item.label ? null : current))}
+              onFocus={() => item.children && setMenu(item.label)}
+              onBlur={(event) => {
+                if (!event.currentTarget.contains(event.relatedTarget)) {
+                  setMenu((current) => (current === item.label ? null : current));
+                }
+              }}
+            >
               <Link
                 href={item.href}
+                onClick={closeMenu}
+                aria-expanded={item.children ? expanded : undefined}
                 className="flex items-center gap-1.5 px-4 py-3 text-[15px] font-medium text-white/85 transition-colors hover:text-white"
               >
                 {item.label}
                 {item.children && (
                   <svg
                     viewBox="0 0 12 12"
-                    className="size-3 transition-transform duration-200 group-hover:rotate-180 group-focus-within:rotate-180"
+                    className={`size-3 transition-transform duration-200 ${expanded ? "rotate-180" : ""}`}
                     fill="none"
                     stroke="currentColor"
                     strokeWidth="1.6"
@@ -70,12 +106,19 @@ export default function Header() {
                 )}
               </Link>
               {item.children && (
-                <div className="invisible absolute left-0 top-full w-72 translate-y-1 pt-2 opacity-0 transition-all duration-200 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+                <div
+                  className={`absolute left-0 top-full w-72 pt-2 transition-all duration-200 ${
+                    expanded
+                      ? "visible translate-y-0 opacity-100"
+                      : "invisible translate-y-1 opacity-0"
+                  }`}
+                >
                   <div className="overflow-hidden rounded-xl bg-white p-2 shadow-[0_24px_60px_-20px_rgba(23,19,43,0.55)]">
                     {item.children.map((child) => (
                       <Link
                         key={child.label}
                         href={child.href}
+                        onClick={closeMenu}
                         className="block rounded-lg px-4 py-3 transition-colors hover:bg-mist"
                       >
                         <span className="block font-display text-base font-bold text-ink">
@@ -88,7 +131,8 @@ export default function Header() {
                 </div>
               )}
             </div>
-          ))}
+            );
+          })}
           <Link
             href={routes.kontakt}
             className="ml-4 rounded-full bg-white px-6 py-2.5 text-[15px] font-semibold text-ink transition-colors hover:bg-brand-light hover:text-white"
