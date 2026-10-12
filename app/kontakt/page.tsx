@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import ContactForm from "@/components/kontakt/ContactForm";
 import Container from "@/components/ui/Container";
@@ -8,12 +7,13 @@ import { kontakt as content } from "@/content/kontakt";
 import { company, routes } from "@/content/site";
 import { accessories } from "@/lib/accessories";
 import { machines } from "@/lib/machines";
+import { JsonLd, organizationJsonLd, pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: content.title,
   description: content.lead,
-  alternates: { canonical: routes.kontakt },
-};
+  path: routes.kontakt,
+});
 
 function Detail({ label, children }: { label: string; children: ReactNode }) {
   return (
@@ -41,6 +41,7 @@ export default function KontaktPage() {
 
   return (
     <>
+      <JsonLd data={organizationJsonLd()} />
       <PageHeader
         crumbs={[{ label: "Početna", href: routes.home }, { label: content.title }]}
         title={content.title}

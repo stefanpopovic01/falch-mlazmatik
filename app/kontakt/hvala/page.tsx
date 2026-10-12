@@ -1,16 +1,17 @@
-import type { Metadata } from "next";
 import EnquirySent from "@/components/kontakt/EnquirySent";
 import ButtonLink from "@/components/ui/ButtonLink";
 import Container from "@/components/ui/Container";
 import Eyebrow from "@/components/ui/Eyebrow";
 import { hvala as content } from "@/content/kontakt";
 import { company, routes } from "@/content/site";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+// Stranica se ne prikazuje u pretrazi i ne ulazi u sitemap
+export const metadata = pageMetadata({
   title: "Upit je poslat",
-  // Stranica se ne prikazuje u pretrazi i ne ulazi u sitemap
-  robots: { index: false, follow: false },
-};
+  path: routes.hvala,
+  noindex: true,
+});
 
 export default function HvalaPage() {
   return (

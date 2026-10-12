@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import CtaBand from "@/components/CtaBand";
 import ButtonLink from "@/components/ui/ButtonLink";
 import Container from "@/components/ui/Container";
@@ -10,12 +9,13 @@ import Steps from "@/components/ui/Steps";
 import { demonstracije as content, servis } from "@/content/servis";
 import { routes } from "@/content/site";
 import { galleryItem } from "@/lib/gallery";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: content.title,
   description: content.lead,
-  alternates: { canonical: routes.demonstracije },
-};
+  path: routes.demonstracije,
+});
 
 export default function DemonstracijePage() {
   const { how, test } = content;

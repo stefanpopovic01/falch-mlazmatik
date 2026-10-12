@@ -8,6 +8,7 @@ import Container from "@/components/ui/Container";
 import PageHeader from "@/components/ui/PageHeader";
 import { routes } from "@/content/site";
 import { accessoriesIn, accessoryCategories, categoryHref, getCategory } from "@/lib/accessories";
+import { pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -20,11 +21,11 @@ export async function generateMetadata({
 }: PageProps<"/proizvodi/pribor/[kategorija]">): Promise<Metadata> {
   const category = getCategory((await params).kategorija);
   if (!category) return {};
-  return {
+  return pageMetadata({
     title: `${category.label} | Pribor`,
     description: category.intro,
-    alternates: { canonical: categoryHref(category.slug) },
-  };
+    path: categoryHref(category.slug),
+  });
 }
 
 export default async function KategorijaPage({

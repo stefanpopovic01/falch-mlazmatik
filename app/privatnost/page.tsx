@@ -1,13 +1,13 @@
-import type { Metadata } from "next";
 import LegalPage from "@/components/LegalPage";
 import { privatnost } from "@/content/legal";
 import { routes } from "@/content/site";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: privatnost.title,
   description: privatnost.lead,
-  alternates: { canonical: routes.privatnost },
-};
+  path: routes.privatnost,
+});
 
 export default function PrivatnostPage() {
   return <LegalPage content={privatnost} />;

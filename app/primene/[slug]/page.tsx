@@ -18,6 +18,7 @@ import {
 } from "@/lib/applications";
 import { galleryItem } from "@/lib/gallery";
 import { getImage } from "@/lib/images";
+import { pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -30,12 +31,12 @@ export async function generateMetadata({
 }: PageProps<"/primene/[slug]">): Promise<Metadata> {
   const application = getApplication((await params).slug);
   if (!application) return {};
-  return {
+  return pageMetadata({
     title: application.title,
     description: application.intro,
-    alternates: { canonical: applicationHref(application.slug) },
-    openGraph: { images: [getImage(application.images[0].src).largest] },
-  };
+    path: applicationHref(application.slug),
+    image: getImage(application.images[0].src).largest,
+  });
 }
 
 export default async function PrimenaPage({ params }: PageProps<"/primene/[slug]">) {

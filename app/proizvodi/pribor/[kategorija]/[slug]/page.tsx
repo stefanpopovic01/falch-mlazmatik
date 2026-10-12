@@ -20,6 +20,7 @@ import {
 } from "@/lib/accessories";
 import { getImage, resolveImage } from "@/lib/images";
 import { machineHref, machines } from "@/lib/machines";
+import { JsonLd, pageMetadata, productJsonLd } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -40,14 +41,12 @@ export async function generateMetadata({
     .slice(0, 3)
     .map((spec) => `${spec.label}: ${spec.value}`)
     .join(", ");
-  return {
+  return pageMetadata({
     title: `${accessory.name} (${accessory.code})`,
     description: `${accessory.name}, šifra ${accessory.code}.${specs ? ` ${specs}.` : ""}`,
-    alternates: { canonical: accessoryHref(accessory) },
-    openGraph: accessory.images[0]
-      ? { images: [getImage(accessory.images[0].src).largest] }
-      : undefined,
-  };
+    path: accessoryHref(accessory),
+    image: accessory.images[0] ? getImage(accessory.images[0].src).largest : undefined,
+  });
 }
 
 export default async function ArtikalPage({
@@ -67,6 +66,17 @@ export default async function ArtikalPage({
 
   return (
     <>
+      <JsonLd
+        data={productJsonLd({
+          name: accessory.name,
+          sku: accessory.code,
+          path: accessoryHref(accessory),
+          description: `${accessory.name}, šifra ${accessory.code}.`,
+          category: `${category.label}, pribor`,
+          images: accessory.images.map((image) => getImage(image.src).largest),
+          properties: accessory.specs.map((spec) => ({ name: spec.label, value: spec.value })),
+        })}
+      />
       <Container as="section" className="pb-16 pt-28 lg:pb-24 lg:pt-36">
         <Breadcrumbs
           tone="light"

@@ -25,6 +25,7 @@ import {
   seriesLabels,
   similarMachines,
 } from "@/lib/machines";
+import { JsonLd, pageMetadata, productJsonLd } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -44,13 +45,13 @@ export async function generateMetadata({
 }: PageProps<"/proizvodi/masine/[slug]">): Promise<Metadata> {
   const machine = getMachine((await params).slug);
   if (!machine) return {};
-  return {
+  return pageMetadata({
     title: `${machine.name} (${machine.itemNumber})`,
     description: describe(machine),
     // Varijante (?varijanta=...) upućuju na osnovnu stranicu mašine
-    alternates: { canonical: machineHref(machine.slug) },
-    openGraph: { images: [getImage(machine.images[0].src).largest] },
-  };
+    path: machineHref(machine.slug),
+    image: getImage(machine.images[0].src).largest,
+  });
 }
 
 const slugify = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-");
@@ -85,6 +86,17 @@ export default async function MasinaPage({ params }: PageProps<"/proizvodi/masin
 
   return (
     <>
+      <JsonLd
+        data={productJsonLd({
+          name: machine.name,
+          sku: machine.itemNumber,
+          path: machineHref(machine.slug),
+          description: describe(machine),
+          category: `${seriesLabels[machine.series]}, visokopritisne mašine`,
+          images: machine.images.map((image) => getImage(image.src).largest),
+          properties: chips.map((chip) => ({ name: chip.label, value: chip.value })),
+        })}
+      />
       <Container as="section" className="pb-16 pt-28 lg:pb-24 lg:pt-36">
         <Breadcrumbs
           tone="light"

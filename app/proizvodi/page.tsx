@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import CtaBand from "@/components/CtaBand";
 import ArrowIcon from "@/components/ui/ArrowIcon";
@@ -8,14 +7,15 @@ import PageHeader from "@/components/ui/PageHeader";
 import { routes } from "@/content/site";
 import { accessories, accessoryCategories } from "@/lib/accessories";
 import { machines } from "@/lib/machines";
+import { pageMetadata } from "@/lib/seo";
 
 const lead = "Visokopritisne mašine i pribor koji ide uz njih.";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Proizvodi",
   description: lead,
-  alternates: { canonical: routes.proizvodi },
-};
+  path: routes.proizvodi,
+});
 
 const sections = [
   {

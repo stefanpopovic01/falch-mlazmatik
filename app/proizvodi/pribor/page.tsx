@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import CtaBand from "@/components/CtaBand";
 import ArrowIcon from "@/components/ui/ArrowIcon";
@@ -13,14 +12,15 @@ import {
   categoryHref,
   getAccessory,
 } from "@/lib/accessories";
+import { pageMetadata } from "@/lib/seo";
 
 const lead = `${accessories.length} artikala u ${accessoryCategories.length} kategorija. Izaberite kategoriju, pa tražite po nazivu ili šifri.`;
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Pribor",
   description: lead,
-  alternates: { canonical: routes.pribor },
-};
+  path: routes.pribor,
+});
 
 export default function PriborPage() {
   return (

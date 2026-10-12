@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import CtaBand from "@/components/CtaBand";
 import MachineBrowser from "@/components/masine/MachineBrowser";
@@ -17,12 +16,13 @@ import {
   seriesLabels,
   seriesRange,
 } from "@/lib/machines";
+import { JsonLd, pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: listing.title,
   description: listing.lead,
-  alternates: { canonical: routes.masine },
-};
+  path: routes.masine,
+});
 
 const filtered = (key: string, values: (string | number)[]) =>
   `${routes.masine}?${key}=${values.join(",")}#lista`;
@@ -187,10 +187,7 @@ export default function MasinePage() {
         </div>
       </Container>
 
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd).replace(/</g, "\\u003c") }}
-      />
+      <JsonLd data={faqJsonLd} />
 
       <CtaBand />
     </>

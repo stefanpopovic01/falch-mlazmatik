@@ -4,6 +4,7 @@ import ConsentManager from "@/components/consent/ConsentManager";
 import CookieBanner from "@/components/consent/CookieBanner";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import { siteUrl } from "@/content/site";
 import { consentDefaultScript } from "@/lib/consent";
 import "./globals.css";
 
@@ -31,6 +32,9 @@ export const metadata: Metadata = {
   },
   description:
     "Industrijske visokopritisne mašine i pribor FALCH, uz servis i demonstracije.",
+  metadataBase: new URL(siteUrl),
+  openGraph: { siteName: "Mlazmatik", locale: "sr_RS", type: "website" },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

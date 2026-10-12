@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import CtaBand from "@/components/CtaBand";
 import ApplicationTile from "@/components/primene/ApplicationTile";
 import ApplicationsBrowser from "@/components/primene/ApplicationsBrowser";
@@ -6,15 +5,16 @@ import Container from "@/components/ui/Container";
 import PageHeader from "@/components/ui/PageHeader";
 import { routes } from "@/content/site";
 import { applications, groups } from "@/lib/applications";
+import { pageMetadata } from "@/lib/seo";
 
 const lead =
   "Voda pod visokim pritiskom čisti, skida premaze i uklanja beton. Izaberite grupu i pronađite posao koji radite.";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Primene",
   description: lead,
-  alternates: { canonical: routes.primene },
-};
+  path: routes.primene,
+});
 
 export default function PrimenePage() {
   return (
