@@ -26,8 +26,9 @@ function Chevron({ flip = false }: { flip?: boolean }) {
   );
 }
 
+// Tamna podloga sa svetlim rubom: dugmad se vide i preko bele fotografije proizvoda i preko tamne pozadine.
 const control =
-  "grid size-12 place-items-center rounded-full bg-white/10 text-white backdrop-blur-sm transition-colors hover:bg-white hover:text-ink";
+  "grid size-12 place-items-center rounded-full bg-ink/80 text-white shadow-[0_4px_16px_rgba(23,19,43,0.35)] ring-1 ring-white/40 backdrop-blur-sm transition-colors hover:bg-white hover:text-ink";
 
 // Uvećani prikaz slike preko celog ekrana (strelice na tastaturi, Esc zatvara).
 export default function Lightbox({ images, index, onChange }: Props) {
@@ -89,7 +90,7 @@ export default function Lightbox({ images, index, onChange }: Props) {
                   type="button"
                   onClick={() => step(-1)}
                   aria-label="Prethodna slika"
-                  className={`absolute left-0 top-1/2 -translate-y-1/2 ${control}`}
+                  className={`absolute left-1 top-1/2 -translate-y-1/2 sm:left-0 ${control}`}
                 >
                   <Chevron flip />
                 </button>
@@ -97,7 +98,7 @@ export default function Lightbox({ images, index, onChange }: Props) {
                   type="button"
                   onClick={() => step(1)}
                   aria-label="Sledeća slika"
-                  className={`absolute right-0 top-1/2 -translate-y-1/2 ${control}`}
+                  className={`absolute right-1 top-1/2 -translate-y-1/2 sm:right-0 ${control}`}
                 >
                   <Chevron />
                 </button>

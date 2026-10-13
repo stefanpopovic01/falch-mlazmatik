@@ -35,7 +35,7 @@ export default function LegalPage({ content }: { content: Content }) {
 
       <Container as="section" className="py-14 lg:py-20">
         <div className="grid gap-12 lg:grid-cols-12 lg:gap-8">
-          <nav aria-label="Sadržaj stranice" className="lg:col-span-4">
+          <nav aria-label="Sadržaj stranice" className="min-w-0 lg:col-span-4">
             <div className="lg:sticky lg:top-28">
               <p className="font-mono text-xs uppercase tracking-[0.22em] text-muted">Sadržaj</p>
               <ol className="mt-4">
@@ -56,7 +56,7 @@ export default function LegalPage({ content }: { content: Content }) {
             </div>
           </nav>
 
-          <div className="lg:col-span-7 lg:col-start-6">
+          <div className="min-w-0 lg:col-span-7 lg:col-start-6">
             {content.draft && (
               <p
                 role="note"
@@ -84,41 +84,51 @@ export default function LegalPage({ content }: { content: Content }) {
                           {block.settingsButton}
                         </CookieSettingsButton>
                       ) : "table" in block ? (
-                        <div key={i} className="overflow-x-auto rounded-2xl bg-white ring-1 ring-line">
-                          <table className="w-full min-w-[520px] table-fixed text-left text-base">
-                            <colgroup>
-                              <col className="w-[36%]" />
-                              <col />
-                              <col className="w-[24%]" />
-                            </colgroup>
-                            <thead>
-                              <tr>
-                                {block.table.head.map((cell) => (
-                                  <th
-                                    key={cell}
-                                    className="px-5 py-3 font-mono text-xs font-normal uppercase tracking-[0.18em] text-muted"
+                        // Na telefonu se svaki red tabele prikazuje kao kartica sa nazivima polja
+                        <table
+                          key={i}
+                          className="block w-full text-left text-base sm:table sm:table-fixed sm:overflow-hidden sm:rounded-2xl sm:bg-white sm:ring-1 sm:ring-line"
+                        >
+                          <colgroup className="max-sm:hidden">
+                            <col className="w-[36%]" />
+                            <col />
+                            <col className="w-[24%]" />
+                          </colgroup>
+                          <thead className="max-sm:sr-only">
+                            <tr>
+                              {block.table.head.map((cell) => (
+                                <th
+                                  key={cell}
+                                  className="px-5 py-3 font-mono text-xs font-normal uppercase tracking-[0.18em] text-muted"
+                                >
+                                  {cell}
+                                </th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody className="block space-y-3 sm:table-row-group sm:space-y-0">
+                            {block.table.rows.map((row) => (
+                              <tr
+                                key={row[0]}
+                                className="block rounded-2xl bg-white p-5 ring-1 ring-line sm:table-row sm:rounded-none sm:border-t sm:border-line sm:p-0 sm:align-top sm:ring-0"
+                              >
+                                {row.map((cell, c) => (
+                                  <td
+                                    key={c}
+                                    className={`block sm:table-cell sm:px-5 sm:py-4 ${c > 0 ? "max-sm:mt-3" : ""} ${
+                                      c === 0 ? "break-all font-mono text-sm text-ink" : ""
+                                    }`}
                                   >
+                                    <span className="mb-1 block font-mono text-[11px] uppercase tracking-[0.18em] text-muted sm:hidden">
+                                      {block.table.head[c]}
+                                    </span>
                                     {cell}
-                                  </th>
+                                  </td>
                                 ))}
                               </tr>
-                            </thead>
-                            <tbody>
-                              {block.table.rows.map((row) => (
-                                <tr key={row[0]} className="border-t border-line align-top">
-                                  {row.map((cell, c) => (
-                                    <td
-                                      key={c}
-                                      className={`px-5 py-4 ${c === 0 ? "break-words font-mono text-sm text-ink" : ""}`}
-                                    >
-                                      {cell}
-                                    </td>
-                                  ))}
-                                </tr>
-                              ))}
-                            </tbody>
-                          </table>
-                        </div>
+                            ))}
+                          </tbody>
+                        </table>
                       ) : (
                         <ul key={i} className="space-y-2">
                           {block.list.map((item) => (
