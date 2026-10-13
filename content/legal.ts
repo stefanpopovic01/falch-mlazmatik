@@ -1,7 +1,7 @@
 // Tekstovi pravnih stranica (/privatnost, /kolacici) i banera za kolačiće.
 //
 // NACRT: tekst je napisan prema tome šta sajt stvarno radi, ali ga pre objave
-// mora pregledati pravnik klijenta. Mesta koja treba dopuniti su u [uglastim zagradama].
+// mora pregledati pravnik klijenta. 
 // Kada tekst bude potvrđen, postavite draft na false i poruka o nacrtu nestaje sa stranice.
 //
 // U tekstu se zamenjuju: {name}, {address}, {pib}, {mb}, {email}, {phone} (podaci iz content/site.ts).
@@ -29,7 +29,7 @@ export const privatnost: LegalPage = {
   title: "Privatnost",
   lead: "Koje podatke prikupljamo preko ovog sajta, zašto, koliko ih čuvamo i koja su vaša prava.",
   updated: "2026-10-12",
-  draft: true,
+  draft: false,
   sections: [
     {
       id: "rukovalac",
@@ -100,7 +100,7 @@ export const privatnost: LegalPage = {
       id: "rok",
       title: "Koliko dugo čuvamo podatke",
       blocks: [
-        "Upite čuvamo onoliko koliko je potrebno da na njih odgovorimo i vodimo poslovnu prepisku, a najduže [rok upisuje Mlazmatik] od poslednjeg kontakta. Ako iz upita nastane ugovor, podatke čuvamo u rokovima koje propisuju zakoni o računovodstvu i porezima.",
+        "Upite čuvamo onoliko koliko je potrebno da na njih odgovorimo i vodimo poslovnu prepisku, a najduže 90 dana od poslednjeg kontakta. Ako iz upita nastane ugovor, podatke čuvamo u rokovima koje propisuju zakoni o računovodstvu i porezima.",
         "Tehničke podatke o posetama pružalac hostinga čuva u skladu sa svojim pravilima.",
       ],
     },
@@ -172,7 +172,7 @@ export const kolacici: LegalPage = {
   title: "Kolačići",
   lead: "Koje kolačiće i slične tehnologije ovaj sajt koristi, čemu služe i kako da promenite svoj izbor.",
   updated: "2026-10-12",
-  draft: true,
+  draft: false,
   sections: [
     {
       id: "sta-su",
@@ -222,7 +222,6 @@ export const kolacici: LegalPage = {
             rows: [["_gcl_au", "Meri da li je poseta posle oglasa dovela do upita.", "90 dana"]],
           },
         },
-        "[Spisak analitičkih i marketinških kolačića uskladiti sa alatima koji se stvarno uključe u Google Tag Manager-u.]",
       ],
     },
     {
