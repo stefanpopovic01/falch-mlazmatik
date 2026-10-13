@@ -15,7 +15,7 @@ Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Refe
 ## Content sources
 
 - The developer has permission from Falch and Mlazmatik to take texts, images and data from falch.com and mlazmatik.co.rs. Rewrite texts (no word-for-word copies), replace Falch contact details with Mlazmatik's, never invent technical specs.
-- Fonts (Archivo, IBM Plex Sans, IBM Plex Mono) and the 25 s hero video are approved as they are.
+- Fonts (Archivo, IBM Plex Sans, IBM Plex Mono) are approved as they are. The hero video was cut to 14 s on 2026-10-13 (drone shot of the factory, then concrete jetting, a ship hull and the hull robot); the uncut 25 s original is `media-src/hero.mp4`.
 
 ## Layout rules (keep every page consistent)
 
