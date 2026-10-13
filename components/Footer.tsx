@@ -120,8 +120,21 @@ export default function Footer() {
         </p>
 
         <div className="flex flex-col gap-3 border-t border-white/10 py-6 text-sm text-white/50 sm:flex-row sm:items-center sm:justify-between">
-          <p>
-            © {new Date().getFullYear()} {company.name}
+          <p className="flex flex-wrap gap-x-6 gap-y-2">
+            <span>
+              © {new Date().getFullYear()} {company.name}
+            </span>
+            <span>
+              Izrada sajta:{" "}
+              <a
+                href="https://www.tyne.rs"
+                target="_blank"
+                rel="noopener"
+                className="text-white/70 underline-offset-4 transition-colors hover:text-white hover:underline"
+              >
+                tyne.rs
+              </a>
+            </span>
           </p>
           <ul className="flex flex-wrap gap-x-6 gap-y-2">
             <li>
