@@ -27,7 +27,6 @@ function Detail({ label, children }: { label: string; children: ReactNode }) {
 const link = "transition-colors hover:text-brand";
 
 export default function KontaktPage() {
-  // Šifre mašina, njihovih varijanti i pribora, da formular uz šifru prikaže naziv
   const products = Object.fromEntries([
     ...accessories.map((item) => [item.code, item.name]),
     ...machines.flatMap((machine) => [
@@ -69,7 +68,6 @@ export default function KontaktPage() {
                       </span>
                     ))}
                   </address>
-                  {/* Link umesto ugrađene mape: mapa bi postavila kolačiće pre saglasnosti */}
                   <a
                     href={company.mapUrl}
                     target="_blank"
