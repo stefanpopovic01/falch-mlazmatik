@@ -3,6 +3,7 @@ import { routes } from "@/content/site";
 import { accessories, accessoryCategories, accessoryHref, categoryHref } from "@/lib/accessories";
 import { applicationHref, applications } from "@/lib/applications";
 import { machineHref, machines } from "@/lib/machines";
+import { robotHref, robots } from "@/lib/robots";
 import { absoluteUrl } from "@/lib/seo";
 
 // Sitemap se gradi iz sadržaja. Stranica /kontakt/hvala namerno nije u njemu.
@@ -17,11 +18,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry(routes.masine, 0.9),
     entry(routes.proizvodi, 0.8),
     entry(routes.pribor, 0.8),
+    entry(routes.roboti, 0.8),
     entry(routes.primene, 0.8),
     entry(routes.servis, 0.7),
     entry(routes.demonstracije, 0.7),
     entry(routes.kontakt, 0.7),
     ...machines.map((machine) => entry(machineHref(machine.slug), 0.8)),
+    ...robots.map((robot) => entry(robotHref(robot.slug), 0.7)),
     ...applications.map((application) => entry(applicationHref(application.slug), 0.6)),
     ...accessoryCategories.map((category) => entry(categoryHref(category.slug), 0.6)),
     ...accessories.map((accessory) => entry(accessoryHref(accessory), 0.5)),

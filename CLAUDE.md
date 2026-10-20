@@ -2,13 +2,13 @@
 
 # Mlazmatik site
 
-Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Reference: https://www.falch.com/en/. Scope follows the client proposal (Tyne Agency PDF): Početna, Primene (up to 44 pages, 8 groups), Proizvodi (Mašine with filters, Pribor in 13 categories), Servis, Kontakt, plus Privatnost, Kolačići, thank-you page and 404. Must be professional, fast, SEO-ready and mobile-first.
+Site for Mlazmatik, a dealer of FALCH high-pressure water jetting machines. Reference: https://www.falch.com/en/. Scope follows the client proposal (Tyne Agency PDF): Početna, Primene (up to 44 pages, 8 groups), Proizvodi (Mašine with filters, Pribor in 13 categories, Roboti, added 2026-10-20), Servis, Kontakt, plus Privatnost, Kolačići, thank-you page and 404. Must be professional, fast, SEO-ready and mobile-first.
 
 ## Naming
 
 - The section the proposal calls "Usluge" is named **"Servis"** everywhere (menu, route `/servis`, copy). Never write "Usluge".
 - All copy is Serbian, Latin script. `lang="sr"`.
-- Routes are Serbian (`/primene`, `/proizvodi/masine`, `/proizvodi/pribor`, `/servis`, `/kontakt`), decided 2026-10-04.
+- Routes are Serbian (`/primene`, `/proizvodi/masine`, `/proizvodi/pribor`, `/proizvodi/roboti`, `/servis`, `/kontakt`), decided 2026-10-04.
 - Servis has no hub page: `/servis` is one page (repairs, spare parts), demonstrations are at `/servis/demonstracije`.
 - Routes and menu live in `content/site.ts`. Never hardcode a path; use `routes`.
 
@@ -51,7 +51,7 @@ Hero (with trust bar), category cards, Izdvojene mašine (machines with `feature
 
 ## Structure
 
-- `content/` holds all text and data; components contain no copy. `site.ts` (routes, menu, company contact data, trust numbers, default CTA text), `home.ts` (home page texts), `servis.ts` (texts of `/servis` and `/servis/demonstracije`), `applications.json`, `application-groups.json`, `machines.json`, `machines-info.ts` (listing intro, power buckets for the filter, guide and FAQ), `accessories.json`, `accessory-categories.json`.
+- `content/` holds all text and data; components contain no copy. `site.ts` (routes, menu, company contact data, trust numbers, default CTA text), `home.ts` (home page texts), `servis.ts` (texts of `/servis` and `/servis/demonstracije`), `applications.json`, `application-groups.json`, `machines.json`, `machines-info.ts` (listing intro, power buckets for the filter, guide and FAQ), `accessories.json`, `accessory-categories.json`, `robots.json`, `robot-groups.json` (10 Falch application groups, each with a video and the slugs of our applications it covers), `robots-info.ts` (robot listing texts, filter labels, one-line text per family).
 - `lib/` holds code that reads content (`applications.ts`, `images.ts`) and the generated `images.json`.
 - `npm run validate` checks content against the image manifest and runs automatically before `npm run build`. Extend `scripts/validate-content.mjs` with every new content file.
 - `components/ui/` shared building blocks (`Container`, `SectionHeading`, `PageHeader`, `Img`, `Gallery` with lightbox, `YouTube` click-to-load, `Steps` numbered columns for real sequences, `ButtonLink`), `components/<page>/` sections of one page.
@@ -67,6 +67,8 @@ Hero (with trust bar), category cards, Izdvojene mašine (machines with `feature
 - Machine images live in `media-src/masine/<slug>/`: `01`-`05` gallery, `11`-`14` photos in use, `21`+, `31`+ ... images of the 1st, 2nd ... variant, `video` poster. Accessory images: `media-src/pribor/<code lowercase>/01`.
 - Machine data was imported from falch.com on 2026-10-12. `kw` is pump power, `bar` and `lpm` are the maximums; never derive them from the name. Each machine may carry a `review` array of spec values that looked wrong on Falch's site; it is not rendered. Rows whose Falch value contained a template placeholder were dropped. Never render a "rent" row.
 - Brochures are linked to Falch's hosted PDF (`brochure` is a URL), not stored in the repo: 26 files at about 1.9 MB each would add roughly 50 MB.
+- Robots: `/proizvodi/roboti` (intro, filters `tip`/`pogon`/`primena` via the shared `MachineBrowser`, group videos) and `/proizvodi/roboti/<slug>`, which reuses `MachineHero` with one variant and has no accessories. Robot accessories (Falch section 4) are out of scope. Application pages show up to 4 robots ("Roboti za ovaj posao") from `robotsForApplication()` plus a link to the filtered list. Robot images: `media-src/roboti/<slug>/` (same numbering as machines), group video posters `roboti/video-<group>`. Robot descriptions in `familyText` must stay limited to what the name and specs say; six robots have no spec table on Falch and render a short "ask us" text instead.
+- Machines cover 1.8 to 508 kW (55 machines since 2026-10-20). Power buckets in `machines-info.ts` follow the real kW clusters; add a bucket when a machine falls outside them.
 - Accessories: `/proizvodi/pribor` (13 category tiles, cover photo set by `cover` code in `accessory-categories.json`), `/proizvodi/pribor/<kategorija>` (search by name or code, no filters), `/proizvodi/pribor/<kategorija>/<slug>`. Build links with `accessoryHref()` and `categoryHref()`; `AccessoryCard` is always a link.
 - Accessory names were translated from a term list in the import; `nameEn` keeps Falch's original and `details` the rest of its title. `specs` come from Falch's structured attributes for 72 items; for the rest they were derived by pattern from the title (labels such as Priključak, Temperatura, Ostalo), so treat them as unverified. 45 items have no specs. Falch has no descriptions for these items.
 - `components/ui/ProductGallery` is the product gallery (main image, thumbnails, lightbox) used by machines and accessories.

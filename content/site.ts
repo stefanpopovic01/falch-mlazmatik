@@ -12,6 +12,7 @@ export const routes = {
   proizvodi: "/proizvodi",
   masine: "/proizvodi/masine",
   pribor: "/proizvodi/pribor",
+  roboti: "/proizvodi/roboti",
   servis: "/servis",
   demonstracije: "/servis/demonstracije",
   kontakt: "/kontakt",
@@ -34,6 +35,7 @@ export const nav: NavItem[] = [
     children: [
       { label: "Mašine", note: "Wheel jet, base jet, trail jet", href: routes.masine },
       { label: "Pribor", note: "13 kategorija pribora", href: routes.pribor },
+      { label: "Roboti", note: "Poluautomatski i automatski", href: routes.roboti },
     ],
   },
   {
@@ -60,7 +62,7 @@ export function quoteHref(itemNumber: string, variant?: string) {
 // Pritisak je potvrdio klijent. Ostale brojke su okvirne iz ponude.
 export const trust = [
   { value: "3.000", unit: "bar", label: "Radni pritisak do" },
-  { value: "30+", unit: "", label: "Mašina u ponudi" },
+  { value: "50+", unit: "", label: "Mašina u ponudi" },
   { value: "300+", unit: "", label: "Komada pribora" },
 ];
 

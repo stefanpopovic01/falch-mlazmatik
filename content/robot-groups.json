@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "spoljne-povrsine",
+    "label": "Čišćenje spoljnih površina",
+    "applications": [
+      "ciscenje-spoljnih-povrsina"
+    ],
+    "video": "eZ8wwYLWhsQ"
+  },
+  {
+    "slug": "sanacija-betona",
+    "label": "Sanacija betona",
+    "applications": [
+      "hidrodemolicija",
+      "sanacija-betona"
+    ],
+    "video": "FIr-7d-fMJ8"
+  },
+  {
+    "slug": "zastita-od-korozije",
+    "label": "Zaštita od korozije",
+    "applications": [
+      "uklanjanje-korozije"
+    ],
+    "video": "nr_JyW2vdn0"
+  },
+  {
+    "slug": "oplate",
+    "label": "Čišćenje oplata",
+    "applications": [
+      "ciscenje-oplata"
+    ],
+    "video": "C1bXy7Gwg7U"
+  },
+  {
+    "slug": "lakirnice",
+    "label": "Čišćenje lakirnica",
+    "applications": [
+      "ciscenje-lakirnica"
+    ],
+    "video": "_vT_8iGeD3o"
+  },
+  {
+    "slug": "cevi-i-kanalizacija",
+    "label": "Cevi i kanalizacija",
+    "applications": [
+      "ciscenje-cevi"
+    ],
+    "video": "wgY83JoJZxs"
+  },
+  {
+    "slug": "skele",
+    "label": "Čišćenje skela",
+    "applications": [
+      "ciscenje-skela"
+    ],
+    "video": "ozEIJSMApxE"
+  },
+  {
+    "slug": "industrija",
+    "label": "Industrijsko čišćenje",
+    "applications": [
+      "ciscenje-industrijske-opreme",
+      "ciscenje-izmenjivaca-toplote"
+    ],
+    "video": "namwSYnLKmg"
+  },
+  {
+    "slug": "brodovi",
+    "label": "Obnova brodova",
+    "applications": [
+      "obnova-brodova",
+      "ciscenje-brodova"
+    ],
+    "video": "CvPpxK-H8x0"
+  },
+  {
+    "slug": "oznake",
+    "label": "Uklanjanje oznaka",
+    "applications": [
+      "uklanjanje-oznaka-na-putu"
+    ],
+    "video": "822tjvB-mZc"
+  }
+]

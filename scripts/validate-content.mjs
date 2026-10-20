@@ -119,11 +119,49 @@ for (const item of machines) {
   }
 }
 
+// ---------- roboti ----------
+const robots = await read("content/robots.json");
+const robotGroups = await read("content/robot-groups.json");
+const applicationSlugs = new Set(applications.map((item) => item.slug));
+const robotGroupSlugs = new Set();
+for (const group of robotGroups) {
+  const where = `robot-groups.json [${group.slug}]`;
+  if (!group.slug || !group.label) fail(where, "nedostaje slug ili label");
+  robotGroupSlugs.add(group.slug);
+  for (const slug of group.applications ?? []) {
+    if (!applicationSlugs.has(slug)) fail(where, `primena "${slug}" ne postoji u applications.json`);
+  }
+  if (group.video && !images[`roboti/video-${group.slug}`]) fail(where, `nedostaje poster videa "roboti/video-${group.slug}"`);
+}
+const robotSlugs = new Set();
+const robotNumbers = new Set(machineNumbers);
+for (const [i, item] of robots.entries()) {
+  const where = `robots.json [${item.itemNumber ?? item.slug ?? `#${i}`}]`;
+  for (const field of ["slug", "name", "itemNumber", "family"]) {
+    if (typeof item[field] !== "string" || !item[field].trim()) fail(where, `nedostaje polje "${field}"`);
+  }
+  if (!["worker", "robot"].includes(item.type)) fail(where, `nepoznat tip "${item.type}"`);
+  if (!["električni", "pneumatski", "dizel"].includes(item.drive)) fail(where, `nepoznat pogon "${item.drive}"`);
+  if (robotSlugs.has(item.slug)) fail(where, "slug se ponavlja");
+  if (robotNumbers.has(item.itemNumber)) fail(where, "šifra se ponavlja");
+  robotSlugs.add(item.slug);
+  robotNumbers.add(item.itemNumber);
+  for (const group of item.groups ?? []) {
+    if (!robotGroupSlugs.has(group)) fail(where, `nepoznata grupa "${group}"`);
+  }
+  if (!Array.isArray(item.images) || item.images.length === 0) fail(where, "mora imati bar jednu sliku");
+  for (const image of [...(item.images ?? []), ...(item.applicationImages ?? [])]) checkImage(where, image);
+  for (const spec of item.specs ?? []) {
+    if (!spec.group || !spec.label || !spec.value) fail(where, `nepotpun red specifikacije "${spec.label ?? "?"}"`);
+  }
+  if (item.video && !images[`roboti/${item.slug}/video`]) fail(where, `nedostaje poster videa "roboti/${item.slug}/video"`);
+}
+
 if (errors.length) {
   console.error(`Sadržaj nije ispravan (${errors.length}):\n${errors.map((e) => `  - ${e}`).join("\n")}`);
   process.exit(1);
 }
 
 console.log(
-  `Sadržaj je ispravan: ${applications.length} primena, ${machines.length} mašina, ${accessories.length} artikala pribora, ${Object.keys(images).length} slika.`,
+  `Sadržaj je ispravan: ${applications.length} primena, ${machines.length} mašina, ${robots.length} robota, ${accessories.length} artikala pribora, ${Object.keys(images).length} slika.`,
 );

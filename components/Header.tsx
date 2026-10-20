@@ -178,7 +178,7 @@ export default function Header() {
                 {item.label}
               </Link>
               {item.children && (
-                <div className="mt-3 flex gap-2">
+                <div className="mt-3 flex flex-wrap gap-2">
                   {item.children.map((child) => (
                     <Link
                       key={child.label}

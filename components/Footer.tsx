@@ -8,6 +8,7 @@ const links = [
   { label: "Primene", href: routes.primene },
   { label: "Mašine", href: routes.masine },
   { label: "Pribor", href: routes.pribor },
+  { label: "Roboti", href: routes.roboti },
   { label: "Servis", href: routes.servis },
   { label: "Demonstracije", href: routes.demonstracije },
   { label: "Kontakt", href: routes.kontakt },

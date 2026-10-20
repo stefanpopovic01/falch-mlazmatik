@@ -27,8 +27,8 @@ export const cards = {
     },
     {
       title: "Proizvodi",
-      meta: "Mašine · Pribor",
-      text: "Visokopritisne mašine sa električnim, benzinskim i dizel motorom, uz pribor za svaku od njih.",
+      meta: "Mašine · Pribor · Roboti",
+      text: "Visokopritisne mašine sa električnim, benzinskim i dizel motorom, pribor za svaku od njih i roboti koji posao rade umesto rukovaoca.",
       cta: "Pogledaj proizvode",
       href: routes.proizvodi,
       image: "high-tech-water-filtration-at-sunrise",
@@ -49,7 +49,7 @@ export const cards = {
 export const featuredMachines = {
   eyebrow: "Izdvojene mašine",
   title: "Od radionice do gradilišta.",
-  lead: "Izbor iz ponude, od kompaktnih mašina na točkovima do prikolica od 110 kW.",
+  lead: "Izbor iz ponude, od kompaktnih mašina na točkovima do mašina na prikolici. U ponudi su i stacionarne mašine do 500 kW.",
   button: "Sve mašine",
 };
 

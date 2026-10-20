@@ -1,0 +1,1603 @@
+[
+  {
+    "slug": "drain-worker-250-a",
+    "name": "Drain Worker 250 a",
+    "itemNumber": "Z0000682",
+    "family": "Drain Worker",
+    "type": "worker",
+    "drive": "pneumatski",
+    "groups": [
+      "sanacija-betona",
+      "cevi-i-kanalizacija"
+    ],
+    "images": [
+      {
+        "src": "roboti/drain-worker-250-a/01",
+        "alt": "Drain Worker 250 a, fotografija 1"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/02",
+        "alt": "Drain Worker 250 a, fotografija 2"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/03",
+        "alt": "Drain Worker 250 a, fotografija 3"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/04",
+        "alt": "Drain Worker 250 a, fotografija 4"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/05",
+        "alt": "Drain Worker 250 a, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/drain-worker-250-a/11",
+        "alt": "Drain Worker 250 a u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/12",
+        "alt": "Drain Worker 250 a u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/drain-worker-250-a/13",
+        "alt": "Drain Worker 250 a u radu, fotografija 3"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "100 – 3000 bar (1450 – 43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj pneumatskih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: - / Y: - / Z: - / mlazna jedinica: 1"
+      },
+      {
+        "group": "Pogon",
+        "label": "Potrošnja komprimovanog vazduha",
+        "value": "470 l/min"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "74,2 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2005 × 2500 × 2500 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Performanse",
+        "label": "Područje primene: Ø cevi",
+        "value": "900–2500 mm"
+      }
+    ],
+    "video": "HA8Tu0ceoz4",
+    "brochure": "https://shop-api.falch.com/media/1a/89/a8/1644099929/falch_bro_z0000682.pdf"
+  },
+  {
+    "slug": "lift-worker-250-e",
+    "name": "Lift Worker 250 e",
+    "itemNumber": "Z0000837",
+    "family": "Lift Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "zastita-od-korozije",
+      "brodovi"
+    ],
+    "images": [
+      {
+        "src": "roboti/lift-worker-250-e/01",
+        "alt": "Lift Worker 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/02",
+        "alt": "Lift Worker 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/03",
+        "alt": "Lift Worker 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/04",
+        "alt": "Lift Worker 250 e, fotografija 4"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/lift-worker-250-e/11",
+        "alt": "Lift Worker 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/12",
+        "alt": "Lift Worker 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/13",
+        "alt": "Lift Worker 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-e/14",
+        "alt": "Lift Worker 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna širina alata",
+        "value": "380 mm"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "230 V / 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3587 × 713 × 908 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "90 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "video": "Y7PF7Lrc0C8",
+    "brochure": "https://shop-api.falch.com/media/93/44/07/1682585722/falch_bro_z0000837.pdf"
+  },
+  {
+    "slug": "lift-worker-250-heli-e",
+    "name": "Lift Worker 250 heli e",
+    "itemNumber": "Z0001729",
+    "family": "Lift Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "brodovi"
+    ],
+    "images": [
+      {
+        "src": "roboti/lift-worker-250-heli-e/01",
+        "alt": "Lift Worker 250 heli e, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/02",
+        "alt": "Lift Worker 250 heli e, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/03",
+        "alt": "Lift Worker 250 heli e, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/04",
+        "alt": "Lift Worker 250 heli e, fotografija 4"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/05",
+        "alt": "Lift Worker 250 heli e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/lift-worker-250-heli-e/11",
+        "alt": "Lift Worker 250 heli e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/12",
+        "alt": "Lift Worker 250 heli e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/13",
+        "alt": "Lift Worker 250 heli e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-heli-e/14",
+        "alt": "Lift Worker 250 heli e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "500 – 1500 bar (7252 – 21756 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna širina alata",
+        "value": "1000 mm"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "850 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: - / Y: - / Z: - / mlazna jedinica: 1"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "230 V / 50/60 Hz, 5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "3868 × 1332 × 1332 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "129 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP 55"
+      }
+    ],
+    "video": "S6A-NRO6vlI",
+    "brochure": "https://shop-api.falch.com/media/ca/8e/6e/1682585851/falch_bro_z0001729.pdf"
+  },
+  {
+    "slug": "lift-worker-250-beam-e",
+    "name": "Lift Worker 250 beam e",
+    "itemNumber": "Z0000839",
+    "family": "Lift Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "brodovi"
+    ],
+    "images": [
+      {
+        "src": "roboti/lift-worker-250-beam-e/01",
+        "alt": "Lift Worker 250 beam e, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/02",
+        "alt": "Lift Worker 250 beam e, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/03",
+        "alt": "Lift Worker 250 beam e, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/04",
+        "alt": "Lift Worker 250 beam e, fotografija 4"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/05",
+        "alt": "Lift Worker 250 beam e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/lift-worker-250-beam-e/11",
+        "alt": "Lift Worker 250 beam e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/12",
+        "alt": "Lift Worker 250 beam e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/13",
+        "alt": "Lift Worker 250 beam e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/lift-worker-250-beam-e/14",
+        "alt": "Lift Worker 250 beam e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna površina (x / y)",
+        "value": "0,38 – 3,70 / - m"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna širina alata",
+        "value": "380 mm"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: - / Z: - / mlazna jedinica: 1"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "230 V / 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "4178 × 1168 × 1758 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "155 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "video": "yMmRPzDhgAU",
+    "brochure": "https://shop-api.falch.com/media/40/53/3e/1682585592/falch_bro_z0000839.pdf"
+  },
+  {
+    "slug": "line-worker-250-30-380-e-vc",
+    "name": "Line Worker 250 30-380-e vc",
+    "itemNumber": "Z0000683",
+    "family": "Line Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "spoljne-povrsine",
+      "sanacija-betona",
+      "zastita-od-korozije",
+      "lakirnice",
+      "industrija",
+      "oznake"
+    ],
+    "images": [
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/01",
+        "alt": "Line Worker 250 30-380-e vc, fotografija 1"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/02",
+        "alt": "Line Worker 250 30-380-e vc, fotografija 2"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/03",
+        "alt": "Line Worker 250 30-380-e vc, fotografija 3"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/04",
+        "alt": "Line Worker 250 30-380-e vc, fotografija 4"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/05",
+        "alt": "Line Worker 250 30-380-e vc, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/11",
+        "alt": "Line Worker 250 30-380-e vc u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/12",
+        "alt": "Line Worker 250 30-380-e vc u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/13",
+        "alt": "Line Worker 250 30-380-e vc u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/line-worker-250-30-380-e-vc/14",
+        "alt": "Line Worker 250 30-380-e vc u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: - / Y: 1 / Z: - / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1510 × 577 × 1110 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "120 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "video": "okxLtFhilbw",
+    "brochure": "https://shop-api.falch.com/media/2e/f5/53/1654842161/falch_bro_z0000683.pdf",
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"230 V/<Spannungsa..> / 50/60 Hz, 5 m\""
+    ]
+  },
+  {
+    "slug": "multi-worker-250-e",
+    "name": "Multi Worker 250 e",
+    "itemNumber": "Z0000583",
+    "family": "Multi Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "zastita-od-korozije",
+      "industrija",
+      "brodovi"
+    ],
+    "images": [
+      {
+        "src": "roboti/multi-worker-250-e/01",
+        "alt": "Multi Worker 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/02",
+        "alt": "Multi Worker 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/03",
+        "alt": "Multi Worker 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/04",
+        "alt": "Multi Worker 250 e, fotografija 4"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/05",
+        "alt": "Multi Worker 250 e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/multi-worker-250-e/11",
+        "alt": "Multi Worker 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/12",
+        "alt": "Multi Worker 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/13",
+        "alt": "Multi Worker 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/multi-worker-250-e/14",
+        "alt": "Multi Worker 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna širina alata",
+        "value": "150 – 260 mm"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: - / Y: 1 / Z: 1 / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "610 × 750 × 1600 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "89 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "video": "uK_2biT3BrI",
+    "brochure": "https://shop-api.falch.com/media/94/74/5c/1669977092/falch_bro_z0000583.pdf",
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"400 V/<Spannungsa..>, 50 Hz, 8 A, <Kabellänge> m\""
+    ]
+  },
+  {
+    "slug": "pipe-worker-250-inside-e",
+    "name": "Pipe Worker 250 inside e",
+    "itemNumber": "Z0000860",
+    "family": "Pipe Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [],
+    "images": [
+      {
+        "src": "roboti/pipe-worker-250-inside-e/01",
+        "alt": "Pipe Worker 250 inside e, fotografija 1"
+      },
+      {
+        "src": "roboti/pipe-worker-250-inside-e/02",
+        "alt": "Pipe Worker 250 inside e, fotografija 2"
+      },
+      {
+        "src": "roboti/pipe-worker-250-inside-e/03",
+        "alt": "Pipe Worker 250 inside e, fotografija 3"
+      },
+      {
+        "src": "roboti/pipe-worker-250-inside-e/04",
+        "alt": "Pipe Worker 250 inside e, fotografija 4"
+      },
+      {
+        "src": "roboti/pipe-worker-250-inside-e/05",
+        "alt": "Pipe Worker 250 inside e, fotografija 5"
+      }
+    ],
+    "applicationImages": [],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: - / Y: - / Z: - / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2661 × 2316 × 1590 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "212 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/5f/63/89/1646298238/falch_bro_z0000860.pdf",
+    "review": [
+      "Radna površina (x / y): red izostavljen, vrednost nepotpuna: \"1,7 – … / - m\""
+    ]
+  },
+  {
+    "slug": "pipe-worker-250-outside-e",
+    "name": "Pipe Worker 250 outside e",
+    "itemNumber": "Z0000859",
+    "family": "Pipe Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "cevi-i-kanalizacija",
+      "industrija"
+    ],
+    "images": [
+      {
+        "src": "roboti/pipe-worker-250-outside-e/01",
+        "alt": "Pipe Worker 250 outside e, fotografija 1"
+      },
+      {
+        "src": "roboti/pipe-worker-250-outside-e/02",
+        "alt": "Pipe Worker 250 outside e, fotografija 2"
+      },
+      {
+        "src": "roboti/pipe-worker-250-outside-e/03",
+        "alt": "Pipe Worker 250 outside e, fotografija 3"
+      },
+      {
+        "src": "roboti/pipe-worker-250-outside-e/04",
+        "alt": "Pipe Worker 250 outside e, fotografija 4"
+      },
+      {
+        "src": "roboti/pipe-worker-250-outside-e/05",
+        "alt": "Pipe Worker 250 outside e, fotografija 5"
+      }
+    ],
+    "applicationImages": [],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: - / Z: 1 / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 16 A, 5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2180 × 1990 × 1655 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "185 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP55"
+      }
+    ],
+    "brochure": "https://shop-api.falch.com/media/4f/b3/69/1646221104/falch_bro_z0000859.pdf",
+    "review": [
+      "Radna površina (x / y): red izostavljen, vrednost nepotpuna: \"1,7 – … / - m\""
+    ]
+  },
+  {
+    "slug": "surface-worker-250-e",
+    "name": "Surface Worker 250 e",
+    "itemNumber": "Z0000798",
+    "family": "Surface Worker",
+    "type": "worker",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "zastita-od-korozije",
+      "oplate",
+      "industrija"
+    ],
+    "images": [
+      {
+        "src": "roboti/surface-worker-250-e/01",
+        "alt": "Surface Worker 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/02",
+        "alt": "Surface Worker 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/03",
+        "alt": "Surface Worker 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/04",
+        "alt": "Surface Worker 250 e, fotografija 4"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/surface-worker-250-e/11",
+        "alt": "Surface Worker 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/12",
+        "alt": "Surface Worker 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/13",
+        "alt": "Surface Worker 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/surface-worker-250-e/14",
+        "alt": "Surface Worker 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": [],
+    "video": "jAd-hOXsVkI",
+    "brochure": "https://shop-api.falch.com/media/ff/e6/40/1646221614/falch_bro_z0000798.pdf"
+  },
+  {
+    "slug": "beam-rob-250-e",
+    "name": "Beam Rob 250 e",
+    "itemNumber": "Z0000757",
+    "family": "Beam Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "oplate",
+      "skele"
+    ],
+    "images": [
+      {
+        "src": "roboti/beam-rob-250-e/01",
+        "alt": "Beam Rob 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/02",
+        "alt": "Beam Rob 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/03",
+        "alt": "Beam Rob 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/04",
+        "alt": "Beam Rob 250 e, fotografija 4"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/05",
+        "alt": "Beam Rob 250 e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/beam-rob-250-e/11",
+        "alt": "Beam Rob 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/12",
+        "alt": "Beam Rob 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/13",
+        "alt": "Beam Rob 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/beam-rob-250-e/14",
+        "alt": "Beam Rob 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: - / Z: opcija / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2427 × 1327 × 1558 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "155 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP65 / IP54"
+      }
+    ],
+    "video": "KovhkIhU6TE",
+    "review": [
+      "Električni priključak: napon / frekvencija, osigurač, dužina kabla: red izostavljen, Falch vrednost sadrži placeholder: \"<Nennspannu..> V/<Spannungsa..> / <Nennfreque..> Hz, <Nennstrom ..> A, <Kabellänge> m\"",
+      "Radna površina (x / y): red izostavljen, vrednost nepotpuna: \"1,7 – … / - m\""
+    ]
+  },
+  {
+    "slug": "beam-rob-250-a",
+    "name": "Beam Rob 250 a",
+    "itemNumber": "Z0000360",
+    "family": "Beam Rob",
+    "type": "robot",
+    "drive": "pneumatski",
+    "groups": [],
+    "images": [
+      {
+        "src": "roboti/beam-rob-250-a/01",
+        "alt": "Beam Rob 250 a, fotografija 1"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/02",
+        "alt": "Beam Rob 250 a, fotografija 2"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/03",
+        "alt": "Beam Rob 250 a, fotografija 3"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/04",
+        "alt": "Beam Rob 250 a, fotografija 4"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/beam-rob-250-a/11",
+        "alt": "Beam Rob 250 a u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/12",
+        "alt": "Beam Rob 250 a u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/13",
+        "alt": "Beam Rob 250 a u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/beam-rob-250-a/14",
+        "alt": "Beam Rob 250 a u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj pneumatskih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: - / Z: opcija / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Pogon",
+        "label": "Potrošnja komprimovanog vazduha",
+        "value": "1000 l/min"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2178 × 1431 × 1174 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "110 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      }
+    ],
+    "review": [
+      "Radna površina (x / y): red izostavljen, vrednost nepotpuna: \"1,7 – … / - m\""
+    ]
+  },
+  {
+    "slug": "bundle-rob-250-a",
+    "name": "Bundle Rob 250 a",
+    "itemNumber": "Z0000707",
+    "family": "Bundle Rob",
+    "type": "robot",
+    "drive": "pneumatski",
+    "groups": [
+      "industrija"
+    ],
+    "images": [
+      {
+        "src": "roboti/bundle-rob-250-a/01",
+        "alt": "Bundle Rob 250 a, fotografija 1"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/02",
+        "alt": "Bundle Rob 250 a, fotografija 2"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/03",
+        "alt": "Bundle Rob 250 a, fotografija 3"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/04",
+        "alt": "Bundle Rob 250 a, fotografija 4"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/05",
+        "alt": "Bundle Rob 250 a, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/bundle-rob-250-a/11",
+        "alt": "Bundle Rob 250 a u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/12",
+        "alt": "Bundle Rob 250 a u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/13",
+        "alt": "Bundle Rob 250 a u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/bundle-rob-250-a/14",
+        "alt": "Bundle Rob 250 a u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj pneumatskih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: 1 / Z: 1 / mlazna jedinica: -"
+      },
+      {
+        "group": "Pogon",
+        "label": "Potrošnja komprimovanog vazduha",
+        "value": "1500 l/min"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1612 × 810 × 1594 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "62 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Performanse",
+        "label": "Broj creva",
+        "value": "2"
+      },
+      {
+        "group": "Performanse",
+        "label": "Područje primene: Ø cevi",
+        "value": "8–15 mm"
+      }
+    ],
+    "video": "Tca1ZW0mxNs",
+    "brochure": "https://shop-api.falch.com/media/58/1a/56/1644100866/falch_bro_z0000707.pdf"
+  },
+  {
+    "slug": "climb-rob-250-e-m",
+    "name": "Climb Rob 250 e m",
+    "itemNumber": "Z0000904",
+    "family": "Climb Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "zastita-od-korozije",
+      "industrija"
+    ],
+    "images": [
+      {
+        "src": "roboti/climb-rob-250-e-m/01",
+        "alt": "Climb Rob 250 e m, fotografija 1"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/02",
+        "alt": "Climb Rob 250 e m, fotografija 2"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/03",
+        "alt": "Climb Rob 250 e m, fotografija 3"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/04",
+        "alt": "Climb Rob 250 e m, fotografija 4"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/05",
+        "alt": "Climb Rob 250 e m, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/climb-rob-250-e-m/11",
+        "alt": "Climb Rob 250 e m u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/12",
+        "alt": "Climb Rob 250 e m u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/13",
+        "alt": "Climb Rob 250 e m u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/climb-rob-250-e-m/14",
+        "alt": "Climb Rob 250 e m u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "500 – 3000 bar (7252 – 43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Radna širina alata",
+        "value": "jet cap: 380 mm; swing arm: 260 - 1200 mm"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: 1 / Z: - / mlazna jedinica: -"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50/60 Hz, 16 A, 5,5 m"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "1256 × 866 × 1852 mm"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa pribora",
+        "value": "jet cap: 38 kg, swing arm: 24 kg, winch rc: 41 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa robota",
+        "value": "65 kg"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP 55"
+      }
+    ],
+    "video": "JTGLGNKVcAE",
+    "brochure": "https://shop-api.falch.com/media/ce/3e/76/1721028565/falch_bro_z0000904.pdf",
+    "review": [
+      "Radna površina (x / y): red izostavljen, vrednost bez podatka: \"m\"",
+      "Potrošnja komprimovanog vazduha: red izostavljen, vrednost bez podatka: \"0 l/min\"",
+      "Masa prazne mašine: red izostavljen, 500 kg uz masu robota 65 kg, verovatno masa kompleta: \"500 kg\""
+    ]
+  },
+  {
+    "slug": "frame-rob-250-e",
+    "name": "Frame Rob 250 e",
+    "itemNumber": "Z0000612",
+    "family": "Frame Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona",
+      "oplate",
+      "lakirnice",
+      "skele"
+    ],
+    "images": [
+      {
+        "src": "roboti/frame-rob-250-e/01",
+        "alt": "Frame Rob 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/02",
+        "alt": "Frame Rob 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/03",
+        "alt": "Frame Rob 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/04",
+        "alt": "Frame Rob 250 e, fotografija 4"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/frame-rob-250-e/11",
+        "alt": "Frame Rob 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/12",
+        "alt": "Frame Rob 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/13",
+        "alt": "Frame Rob 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/frame-rob-250-e/14",
+        "alt": "Frame Rob 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": []
+  },
+  {
+    "slug": "surface-rob-250-e",
+    "name": "Surface Rob 250 e",
+    "itemNumber": "Z0000828",
+    "family": "Surface Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "spoljne-povrsine",
+      "sanacija-betona",
+      "zastita-od-korozije",
+      "lakirnice",
+      "skele",
+      "industrija",
+      "brodovi"
+    ],
+    "images": [
+      {
+        "src": "roboti/surface-rob-250-e/01",
+        "alt": "Surface Rob 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/02",
+        "alt": "Surface Rob 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/03",
+        "alt": "Surface Rob 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/04",
+        "alt": "Surface Rob 250 e, fotografija 4"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/05",
+        "alt": "Surface Rob 250 e, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/surface-rob-250-e/11",
+        "alt": "Surface Rob 250 e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/12",
+        "alt": "Surface Rob 250 e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/13",
+        "alt": "Surface Rob 250 e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/surface-rob-250-e/14",
+        "alt": "Surface Rob 250 e u radu, fotografija 4"
+      }
+    ],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "3000 bar (43511 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Najveća povratna sila (pri najvišem pritisku i protoku)",
+        "value": "600 N"
+      },
+      {
+        "group": "Pogon",
+        "label": "Broj električnih pogona (osa x/y/z / mlazna jedinica)",
+        "value": "X: 1 / Y: 1 / Z: 1 / mlazna jedinica: (1)"
+      },
+      {
+        "group": "Pogon",
+        "label": "Električni priključak: napon / frekvencija, osigurač, dužina kabla",
+        "value": "400 V / 50 Hz, 16 A"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Masa",
+        "value": "240 kg"
+      },
+      {
+        "group": "Dimenzije i masa",
+        "label": "Dužina × širina × visina",
+        "value": "2200 × 2100 × 1200 mm"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Stepen zaštite",
+        "value": "IP 54"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Režim rada (h/d)",
+        "value": "24/1"
+      },
+      {
+        "group": "Ostalo",
+        "label": "Garancija",
+        "value": "24 meseca"
+      }
+    ],
+    "video": "pUE75jKzEww",
+    "brochure": "https://shop-api.falch.com/media/0a/35/f9/1646834836/falch_bro_z0000828.pdf"
+  },
+  {
+    "slug": "crawl-rob-500-conjet-acr-327-mpa-e",
+    "name": "Crawl Rob 500 Conjet ACR 327 MPA e",
+    "itemNumber": "Z0100000",
+    "family": "Crawl Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "sanacija-betona"
+    ],
+    "images": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-327-mpa-e/01",
+        "alt": "Crawl Rob 500 Conjet ACR 327 MPA e, fotografija 1"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-327-mpa-e/11",
+        "alt": "Crawl Rob 500 Conjet ACR 327 MPA e u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-327-mpa-e/12",
+        "alt": "Crawl Rob 500 Conjet ACR 327 MPA e u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-327-mpa-e/13",
+        "alt": "Crawl Rob 500 Conjet ACR 327 MPA e u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-327-mpa-e/14",
+        "alt": "Crawl Rob 500 Conjet ACR 327 MPA e u radu, fotografija 4"
+      }
+    ],
+    "specs": [],
+    "brochure": "https://shop-api.falch.com/media/39/ff/78/1769079081/falch_bro_z0100000.pdf"
+  },
+  {
+    "slug": "crawl-rob-500-conjet-acr-557-h-d",
+    "name": "Crawl Rob 500 Conjet ACR 557 H d",
+    "itemNumber": "Z0100004",
+    "family": "Crawl Rob",
+    "type": "robot",
+    "drive": "dizel",
+    "groups": [
+      "sanacija-betona"
+    ],
+    "images": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-h-d/01",
+        "alt": "Crawl Rob 500 Conjet ACR 557 H d, fotografija 1"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-h-d/11",
+        "alt": "Crawl Rob 500 Conjet ACR 557 H d u radu, fotografija 1"
+      }
+    ],
+    "specs": [],
+    "brochure": "https://shop-api.falch.com/media/42/fe/42/1769079227/falch_bro_z0100004.pdf"
+  },
+  {
+    "slug": "crawl-rob-500-conjet-acr-557-mpa-d",
+    "name": "Crawl Rob 500 Conjet ACR 557 MPA d",
+    "itemNumber": "Z0100005",
+    "family": "Crawl Rob",
+    "type": "robot",
+    "drive": "dizel",
+    "groups": [
+      "sanacija-betona"
+    ],
+    "images": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-d/01",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA d, fotografija 1"
+      }
+    ],
+    "applicationImages": [],
+    "specs": [],
+    "brochure": "https://shop-api.falch.com/media/2c/10/05/1769079361/falch_bro_z0100005.pdf"
+  },
+  {
+    "slug": "crawl-rob-500-conjet-acr-557-mpa-xl-d",
+    "name": "Crawl Rob 500 Conjet ACR 557 MPA XL d",
+    "itemNumber": "Z0100006",
+    "family": "Crawl Rob",
+    "type": "robot",
+    "drive": "dizel",
+    "groups": [
+      "sanacija-betona"
+    ],
+    "images": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/01",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d, fotografija 1"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/02",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d, fotografija 2"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/03",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d, fotografija 3"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/04",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d, fotografija 4"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/05",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d, fotografija 5"
+      }
+    ],
+    "applicationImages": [
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/11",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d u radu, fotografija 1"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/12",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d u radu, fotografija 2"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/13",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d u radu, fotografija 3"
+      },
+      {
+        "src": "roboti/crawl-rob-500-conjet-acr-557-mpa-xl-d/14",
+        "alt": "Crawl Rob 500 Conjet ACR 557 MPA XL d u radu, fotografija 4"
+      }
+    ],
+    "specs": [],
+    "brochure": "https://shop-api.falch.com/media/0d/9e/b4/1769079525/falch_bro_z0100006.pdf"
+  },
+  {
+    "slug": "drum-rob-250-e",
+    "name": "Drum Rob 250 e",
+    "itemNumber": "Z0001829",
+    "family": "Drum Rob",
+    "type": "robot",
+    "drive": "električni",
+    "groups": [
+      "oznake"
+    ],
+    "images": [
+      {
+        "src": "roboti/drum-rob-250-e/01",
+        "alt": "Drum Rob 250 e, fotografija 1"
+      },
+      {
+        "src": "roboti/drum-rob-250-e/02",
+        "alt": "Drum Rob 250 e, fotografija 2"
+      },
+      {
+        "src": "roboti/drum-rob-250-e/03",
+        "alt": "Drum Rob 250 e, fotografija 3"
+      },
+      {
+        "src": "roboti/drum-rob-250-e/04",
+        "alt": "Drum Rob 250 e, fotografija 4"
+      },
+      {
+        "src": "roboti/drum-rob-250-e/05",
+        "alt": "Drum Rob 250 e, fotografija 5"
+      }
+    ],
+    "applicationImages": [],
+    "specs": [
+      {
+        "group": "Performanse",
+        "label": "Radni pritisak",
+        "value": "1500 bar (21756 psi)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Protok",
+        "value": "80 l/min (21,1 US gal/min)"
+      },
+      {
+        "group": "Performanse",
+        "label": "Vreme čišćenja",
+        "value": "30 – 60 min"
+      },
+      {
+        "group": "Performanse",
+        "label": "Način rada",
+        "value": "mobilni / stacionarni"
+      }
+    ]
+  }
+]

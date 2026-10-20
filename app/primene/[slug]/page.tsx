@@ -1,13 +1,17 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import CtaBand from "@/components/CtaBand";
 import ApplicationTile from "@/components/primene/ApplicationTile";
+import RobotCard from "@/components/roboti/RobotCard";
+import ArrowIcon from "@/components/ui/ArrowIcon";
 import Container from "@/components/ui/Container";
 import Gallery from "@/components/ui/Gallery";
 import Img from "@/components/ui/Img";
 import PageHeader from "@/components/ui/PageHeader";
 import SectionHeading from "@/components/ui/SectionHeading";
 import YouTube from "@/components/ui/YouTube";
+import { applicationRow } from "@/content/robots-info";
 import { routes } from "@/content/site";
 import {
   applicationHref,
@@ -18,6 +22,7 @@ import {
 } from "@/lib/applications";
 import { galleryItem } from "@/lib/gallery";
 import { getImage } from "@/lib/images";
+import { robotsForApplication, robotsHref } from "@/lib/robots";
 import { pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -42,6 +47,7 @@ export async function generateMetadata({
 export default async function PrimenaPage({ params }: PageProps<"/primene/[slug]">) {
   const application = getApplication((await params).slug);
   if (!application) notFound();
+  const matching = robotsForApplication(application.slug);
 
   return (
     <>
@@ -111,6 +117,37 @@ export default async function PrimenaPage({ params }: PageProps<"/primene/[slug]
                 }
               />
             </div>
+          </Container>
+        </section>
+      )}
+
+      {matching.items.length > 0 && (
+        <section className="bg-white py-20 lg:py-28">
+          <Container>
+            <SectionHeading
+              eyebrow={applicationRow.eyebrow}
+              title={applicationRow.title}
+              action={
+                <Link
+                  href={robotsHref(matching.group.slug)}
+                  className="group inline-flex items-center gap-2 font-semibold text-brand underline-offset-4 hover:underline"
+                >
+                  {applicationRow.all}
+                  <span className="font-mono text-sm font-normal text-muted">{matching.total}</span>
+                  <ArrowIcon className="transition-transform duration-300 group-hover:translate-x-1" />
+                </Link>
+              }
+            />
+            <ul className="mt-12 grid gap-5 sm:grid-cols-2 lg:mt-16 lg:grid-cols-4">
+              {matching.items.map((robot) => (
+                <li key={robot.slug}>
+                  <RobotCard
+                    robot={robot}
+                    sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+                  />
+                </li>
+              ))}
+            </ul>
           </Container>
         </section>
       )}

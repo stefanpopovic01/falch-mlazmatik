@@ -7,6 +7,7 @@ import { kontakt as content } from "@/content/kontakt";
 import { company, routes } from "@/content/site";
 import { accessories } from "@/lib/accessories";
 import { machines } from "@/lib/machines";
+import { robots } from "@/lib/robots";
 import { JsonLd, organizationJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata = pageMetadata({
@@ -29,6 +30,7 @@ const link = "transition-colors hover:text-brand";
 export default function KontaktPage() {
   const products = Object.fromEntries([
     ...accessories.map((item) => [item.code, item.name]),
+    ...robots.map((robot) => [robot.itemNumber, robot.name]),
     ...machines.flatMap((machine) => [
       [machine.itemNumber, machine.name],
       ...(machine.variants ?? []).flatMap((variant) =>

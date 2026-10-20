@@ -4,22 +4,35 @@ import { useSearchParams } from "next/navigation";
 import { type ReactNode, Suspense, useRef } from "react";
 
 type Group = { key: string; label: string; options: { value: string; label: string }[] };
-type Item = { slug: string; values: Record<string, string>; node: ReactNode };
+// Vrednost može biti i lista (robot pripada u više grupa primena).
+type Item = { slug: string; values: Record<string, string | string[]>; node: ReactNode };
 type Selected = Record<string, string[]>;
 
 type Props = {
   groups: Group[];
   // Kartice se crtaju na serveru; ovde se samo prikazuju ili sakrivaju.
   items: Item[];
+  // Poruka kada nijedna kartica ne odgovara filterima
+  empty?: string;
+};
+
+const has = (item: Item, key: string, value: string) => {
+  const own = item.values[key];
+  return Array.isArray(own) ? own.includes(value) : own === value;
 };
 
 // Unutar grupe važi ILI, između grupa I.
 const matches = (item: Item, selected: Selected, except?: string) =>
   Object.entries(selected).every(
-    ([key, values]) => key === except || values.length === 0 || values.includes(item.values[key]),
+    ([key, values]) => key === except || values.length === 0 || values.some((value) => has(item, key, value)),
   );
 
-function View({ groups, items, selected }: Props & { selected: Selected }) {
+function View({
+  groups,
+  items,
+  empty = "Nema mašina za izabrane filtere.",
+  selected,
+}: Props & { selected: Selected }) {
   const drawer = useRef<HTMLDialogElement>(null);
 
   // Stanje filtera živi u adresi (?snaga=30&pritisak=500,1000), pa link može da se podeli.
@@ -53,10 +66,10 @@ function View({ groups, items, selected }: Props & { selected: Selected }) {
           <div className="mt-3 flex flex-wrap gap-2">
             {group.options.map((option) => {
               const on = (selected[group.key] ?? []).includes(option.value);
-              // Koliko mašina ostaje ako se ova opcija uključi, uz ostale grupe
+              // Koliko kartica ostaje ako se ova opcija uključi, uz ostale grupe
               const count = items.filter(
                 (item) =>
-                  item.values[group.key] === option.value && matches(item, selected, group.key),
+                  has(item, group.key, option.value) && matches(item, selected, group.key),
               ).length;
               return (
                 <button
@@ -136,7 +149,7 @@ function View({ groups, items, selected }: Props & { selected: Selected }) {
         {visible.length === 0 && (
           <div className="rounded-2xl bg-white p-10 text-center ring-1 ring-line">
             <p className="font-display text-2xl font-extrabold tracking-[-0.02em]">
-              Nema mašina za izabrane filtere.
+              {empty}
             </p>
             <p className="mt-2 text-muted">Uklonite neki filter ili počnite iznova.</p>
             <div className="mt-6">{clear}</div>

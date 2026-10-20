@@ -1,5 +1,5 @@
 // Tekstovi stranice /proizvodi/masine: uvod, klase snage za filter i vodič ispod liste.
-// Izvor: falch.com (machines), skraćeno i prepisano. Bez robota i bez tabele "key benefits".
+// Izvor: falch.com (machines), skraćeno i prepisano. Bez tabele "key benefits". Roboti su u robots-info.ts.
 
 export const listing = {
   title: "Mašine",
@@ -11,7 +11,9 @@ export const powerBuckets = [
   { id: "do-6", label: "do 6 kW", max: 6 },
   { id: "11-18", label: "11–18 kW", max: 25 },
   { id: "30", label: "30 kW", max: 50 },
-  { id: "110-125", label: "110–125 kW", max: Infinity },
+  { id: "110-125", label: "110–125 kW", max: 150 },
+  { id: "230-256", label: "230–256 kW", max: 300 },
+  { id: "488-508", label: "488–508 kW", max: Infinity },
 ];
 
 export const guide = {
@@ -48,7 +50,7 @@ export const guide = {
       },
       {
         series: "base-jet",
-        text: "Stacionarne mašine na ramu, za intenzivan industrijski rad i najviše pritiske.",
+        text: "Stacionarne mašine na ramu, za intenzivan industrijski rad, najviše pritiske i najveće snage, do 500 kW.",
       },
       {
         series: "trail-jet",
@@ -96,7 +98,7 @@ export const guide = {
       },
       {
         q: "Električni, benzinski ili dizel pogon?",
-        a: "Električni pogon je izbor za zatvoren prostor i mesta sa priključkom na struju. Benzinski i dizel motor daju nezavisnost od priključka, a dizel se koristi za najveće snage.",
+        a: "Električni pogon je izbor za zatvoren prostor i mesta sa priključkom na struju. Benzinski i dizel motor daju nezavisnost od priključka, a dizel se koristi za najveće snage, do 500 kW.",
       },
       {
         q: "Mogu li da vidim mašinu u radu pre kupovine?",

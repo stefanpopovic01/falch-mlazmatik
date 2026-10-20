@@ -1,6 +1,6 @@
 # Mlazmatik sajt
 
-Katalog FALCH visokopritisnih mašina i pribora za Mlazmatik d.o.o. Sajt prodaje na upit: nema korpe, a svaka stranica vodi ka kontakt formularu.
+Katalog FALCH visokopritisnih mašina, pribora i robota za Mlazmatik d.o.o. Sajt prodaje na upit: nema korpe, a svaka stranica vodi ka kontakt formularu.
 
 Sajt je statičan. Nema baze ni servera: sav sadržaj je u fajlovima u folderu `content/`, a stranice se prave pri buildu. Izmena sadržaja znači izmenu fajla i novo objavljivanje.
 
@@ -59,6 +59,8 @@ Fajlovi u `content/`:
 | `home.ts` | Tekstovi početne strane |
 | `machines.json` | Mašine |
 | `machines-info.ts` | Uvod, klase snage za filter, vodič i pitanja ispod liste mašina |
+| `robots.json`, `robot-groups.json` | Roboti i 10 grupa po primeni (sa snimkom i vezom ka našim primenama) |
+| `robots-info.ts` | Uvod i prednosti na stranici robota, nazivi filtera, kratak opis po porodici, red "Roboti za ovaj posao" |
 | `accessories.json`, `accessory-categories.json` | Pribor i 13 kategorija |
 | `applications.json`, `application-groups.json` | Primene i 8 grupa |
 | `servis.ts` | Tekstovi stranica Servis i Demonstracije |
@@ -111,6 +113,14 @@ Sve je u objektu `company` u `content/site.ts`. Podnožje, stranica Kontakt, pra
 - `review`: beleške o podacima koje treba proveriti. Ne prikazuje se na sajtu.
 
 Mašina se u listi pojavljuje sama, sortirano po snazi, a opcije filtera se grade iz podataka. Ako nova mašina ima snagu van postojećih klasa, dopunite `powerBuckets` u `content/machines-info.ts`.
+
+### Novi robot
+
+1. Slike stavite u `media-src/roboti/<slug>/` (`01`-`05` galerija, `11`-`14` u radu, `video` poster) i pokrenite `npm run images`.
+2. U `content/robots.json` dodajte unos sa poljima `slug`, `name`, `itemNumber`, `family`, `type` (`worker` = poluautomatski, `robot` = automatski), `drive` (`električni`, `pneumatski` ili `dizel`), `groups` (slugovi iz `robot-groups.json`), `images`, `applicationImages`, `specs`, po želji `video` i `brochure`.
+3. Ako je porodica nova, dodajte njen kratak opis u `familyText` u `content/robots-info.ts`.
+
+Robot se sam pojavljuje u listi `/proizvodi/roboti`, u filteru i na stranicama primena čije grupe pokriva (`robot-groups.json` → `applications`). Na stranici primene prikazuju se najviše 4 robota i link na listu filtriranu po toj grupi.
 
 ### Novi pribor
 
@@ -169,7 +179,7 @@ Veličine zavise od imena fajla:
 | `video`, `video-<naziv>` | Poster YouTube snimka | 480, 960 |
 | sve u `pribor/` | Fotografije pribora | 480, 960 |
 
-Brojevi u folderu mašine: `01` do `05` galerija, `11` do `14` fotografije u radu, `21`+ slike prve varijante, `31`+ druge, i tako redom.
+Brojevi u folderu mašine i robota: `01` do `05` galerija, `11` do `14` fotografije u radu, `21`+ slike prve varijante, `31`+ druge, i tako redom.
 
 U sadržaju se slika navodi putanjom bez ekstenzije, npr. `"masine/wheel-jet-30-500-30-0-e/01"`. Svaka slika mora imati `alt`.
 
@@ -193,6 +203,7 @@ Slike se ne provlače kroz Vercelovu optimizaciju (`next/image` se ne koristi), 
 - nedostaje obavezno polje
 - primena ima nepoznatu grupu ili više od 5 slika, pribor nepoznatu kategoriju ili više od 3 slike
 - postoji `video`, a nema slike postera
+- robot ima nepoznatu grupu, tip ili pogon, ili grupa robota navodi primenu koje nema
 
 Kada dodate novi fajl sa sadržajem, dopunite i `scripts/validate-content.mjs`.
 
@@ -246,11 +257,12 @@ Vercelov besplatni plan (Hobby) dozvoljen je samo za nekomercijalnu upotrebu, pa
 
 ## Šta treba znati o podacima
 
-Mašine, pribor i primene uvezeni su sa falch.com u oktobru 2026.
+Mašine, pribor, roboti i primene uvezeni su sa falch.com u oktobru 2026. Mašine od 230 do 508 kW i 20 robota dodati su 20. oktobra 2026.
 
 - **Tehnički podaci mašina** su prepisani kako ih Falch prikazuje. Vrednosti koje su izgledale pogrešno zabeležene su u polju `review` te mašine. Na pet mašina izostavljen je red "Električni priključak", jer je izvor sadržao neispravan zapis.
 - **Nazivi pribora** su prevedeni; originalni naziv je u polju `nameEn`.
-- **Specifikacije pribora**: 72 artikla imaju prave tabele iz izvora. Kod ostalih su redovi izvedeni iz dugačkog originalnog naziva, pa ih treba proveriti; u nekim vrednostima je ostao engleski tekst. 45 artikala nema specifikaciju.
+- **Specifikacije pribora**: deo artikala ima prave tabele iz izvora. Kod ostalih su redovi izvedeni iz dugačkog originalnog naziva, pa ih treba proveriti; u nekim vrednostima je ostao engleski tekst. 49 artikala nema specifikaciju.
+- **Roboti**: šest modela (Surface Worker 250 e, Frame Rob 250 e i četiri Crawl Rob 500 Conjet) na Falch-ovom sajtu nemaju tabelu tehničkih podataka, pa je ni ovde nemaju; stranica umesto tabele poziva na upit. Pipe Worker 250 inside e i Beam Rob 250 a Falch ne navodi ni u jednoj primeni. Kratki opisi u `familyText` napisani su samo iz naziva porodice i specifikacije; dobro je da ih klijent pogleda. Pribor za robote nije uvezen.
 - **Brošure** se otvaraju sa Falch-ovog servera (polje `brochure` je adresa). Nisu u repozitorijumu jer bi dodale oko 50 MB.
 - **Garancije rokova** sa Falch-ovih stranica servisa namerno nisu preuzete.
 - **Logo** u zaglavlju i podnožju je Falch-ov (`public/media/logo.svg`).
