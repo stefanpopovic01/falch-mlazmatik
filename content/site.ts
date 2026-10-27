@@ -81,7 +81,7 @@ export const company = {
   ],
   mapUrl: "https://www.google.com/maps/search/?api=1&query=Mlazmatik+Kačarevo",
   phone: { label: "+381 69 1077931", href: "tel:+381691077931" },
-  mobile: { label: "+381 63 363 767", href: "tel:+38163363767" },
+  mobile: { label: "+381 63 363767", href: "tel:+38163363767" },
   // Redosled je redosled prikaza na sajtu
   emails: ["mlazmatik@outlook.com", "info@mlazmatik.co.rs"],
   hours: ["Pon–pet 08:30–16:30"],

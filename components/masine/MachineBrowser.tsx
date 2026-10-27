@@ -110,7 +110,8 @@ function View({
   return (
     <div id="lista" className="scroll-mt-28 lg:grid lg:grid-cols-12 lg:gap-8">
       <aside className="hidden lg:col-span-3 lg:block">
-        <div className="sticky top-28">
+        {/* Na nižim ekranima filteri su viši od prozora, pa kolona ima svoj skrol */}
+        <div className="sticky top-28 -ml-1 max-h-[calc(100dvh-8rem)] overflow-y-auto overscroll-contain pb-6 pl-1 pr-3 [scrollbar-width:thin]">
           <div className="mb-6 flex items-center justify-between">
             <h2 className="font-display text-xl font-extrabold tracking-[-0.02em]">Filteri</h2>
             {active > 0 && clear}
