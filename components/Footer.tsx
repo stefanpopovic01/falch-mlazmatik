@@ -98,9 +98,11 @@ export default function Footer() {
                 </a>
               </p>
               <p>
-                <a href={`mailto:${company.email}`} className={linkClass}>
-                  {company.email}
-                </a>
+                {company.emails.map((email) => (
+                  <a key={email} href={`mailto:${email}`} className={`block ${linkClass}`}>
+                    {email}
+                  </a>
+                ))}
               </p>
               <p className="text-base text-white/50">
                 {company.hours.map((line) => (

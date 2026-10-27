@@ -3,7 +3,7 @@ import CookieSettingsButton from "@/components/consent/CookieSettingsButton";
 import Container from "@/components/ui/Container";
 import PageHeader from "@/components/ui/PageHeader";
 import { type LegalPage as Content, draftNotice } from "@/content/legal";
-import { company, routes } from "@/content/site";
+import { company, emailText, routes } from "@/content/site";
 
 const fill = (text: string) =>
   text
@@ -11,7 +11,7 @@ const fill = (text: string) =>
     .replace("{address}", company.address.join(", "))
     .replace("{pib}", company.pib)
     .replace("{mb}", company.maticniBroj)
-    .replace("{email}", company.email)
+    .replace("{email}", emailText)
     .replace("{phone}", company.phone.label);
 
 const formatDate = (iso: string) => {
@@ -147,12 +147,17 @@ export default function LegalPage({ content }: { content: Content }) {
 
             <p className="mt-14 border-t border-line pt-8 text-lg text-muted">
               Pitanja o ovom tekstu:{" "}
-              <a
-                href={`mailto:${company.email}`}
-                className="font-medium text-brand underline underline-offset-4"
-              >
-                {company.email}
-              </a>
+              {company.emails.map((email, i) => (
+                <span key={email}>
+                  {i > 0 && " ili "}
+                  <a
+                    href={`mailto:${email}`}
+                    className="font-medium text-brand underline underline-offset-4"
+                  >
+                    {email}
+                  </a>
+                </span>
+              ))}
               . Pogledajte i{" "}
               <Link
                 href={content.title === "Kolačići" ? routes.privatnost : routes.kolacici}

@@ -51,7 +51,7 @@ export const familyText: Record<string, string> = {
   "Frame Rob": "Automatski robot na ramu.",
   "Surface Rob": "Automatski robot za obradu velikih površina, sa pogonom po tri ose.",
   "Crawl Rob": "Robot na gusenicama za hidrodemoliciju betona, iz programa Conjet.",
-  "Drum Rob": "Automatski robot za mobilni ili stacionarni rad.",
+  "Drum Rob": "Robot za pranje betonskih miksera.",
 };
 
 export const groupsSection = {

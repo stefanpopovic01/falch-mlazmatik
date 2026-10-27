@@ -112,7 +112,7 @@ Sve je u objektu `company` u `content/site.ts`. Podnožje, stranica Kontakt, pra
 - `similar` (nije obavezno): slugovi tri slične mašine. Bez ovoga se biraju automatski, po izvedbi, pritisku i motoru.
 - `review`: beleške o podacima koje treba proveriti. Ne prikazuje se na sajtu.
 
-Mašina se u listi pojavljuje sama, sortirano po snazi, a opcije filtera se grade iz podataka. Ako nova mašina ima snagu van postojećih klasa, dopunite `powerBuckets` u `content/machines-info.ts`.
+Mašina se u listi pojavljuje sama, sortirano po snazi, a opcije filtera se grade iz podataka. Klase snage su iste kao na falch.com (`powerBuckets` u `content/machines-info.ts`); prazna klasa se ne prikazuje.
 
 ### Novi robot
 

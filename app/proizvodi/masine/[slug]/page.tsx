@@ -12,7 +12,7 @@ import Gallery from "@/components/ui/Gallery";
 import Img from "@/components/ui/Img";
 import SectionHeading from "@/components/ui/SectionHeading";
 import YouTube from "@/components/ui/YouTube";
-import { company, quoteHref, routes } from "@/content/site";
+import { emailText, quoteHref, routes } from "@/content/site";
 import { categoryHref, getAccessory, groupByCategory } from "@/lib/accessories";
 import { galleryItem } from "@/lib/gallery";
 import { getImage, resolveImage } from "@/lib/images";
@@ -124,6 +124,32 @@ export default async function MasinaPage({ params }: PageProps<"/proizvodi/masin
         />
       </Container>
 
+      {/* Video odmah posle slika, pre tehničkih podataka */}
+      {machine.video && (
+        <section className="bg-ink bg-[radial-gradient(60%_50%_at_15%_0%,rgba(96,84,151,0.45),transparent)] py-20 text-white lg:py-28">
+          <Container className="grid gap-10 lg:grid-cols-12 lg:items-center lg:gap-8">
+            <div className="lg:col-span-4">
+              <SectionHeading stacked tone="dark" eyebrow="Video" title="Mašina u radu." />
+            </div>
+            <div className="lg:col-span-8">
+              <YouTube
+                id={machine.video}
+                title={machine.name}
+                poster={
+                  <Img
+                    src={`masine/${machine.slug}/video`}
+                    alt=""
+                    fill
+                    sizes="(min-width: 1024px) 60vw, 100vw"
+                    className="object-cover"
+                  />
+                }
+              />
+            </div>
+          </Container>
+        </section>
+      )}
+
       <section className="bg-white py-20 lg:py-28">
         <Container className="grid gap-12 lg:grid-cols-12 lg:gap-8">
           <div className="lg:col-span-4">
@@ -223,44 +249,21 @@ export default async function MasinaPage({ params }: PageProps<"/proizvodi/masin
         </Container>
       )}
 
-      {machine.video && (
-        <section className="bg-ink bg-[radial-gradient(60%_50%_at_15%_0%,rgba(96,84,151,0.45),transparent)] py-20 text-white lg:py-28">
-          <Container className="grid gap-10 lg:grid-cols-12 lg:items-center lg:gap-8">
-            <div className="lg:col-span-4">
-              <SectionHeading stacked tone="dark" eyebrow="Video" title="Mašina u radu." />
-            </div>
-            <div className="lg:col-span-8">
-              <YouTube
-                id={machine.video}
-                title={machine.name}
-                poster={
-                  <Img
-                    src={`masine/${machine.slug}/video`}
-                    alt=""
-                    fill
-                    sizes="(min-width: 1024px) 60vw, 100vw"
-                    className="object-cover"
-                  />
-                }
-              />
-            </div>
+      {machine.applicationImages.length > 0 && (
+        <section className="bg-white py-20 lg:py-28">
+          <Container>
+            <SectionHeading eyebrow="Na terenu" title="U primeni." />
+            <Gallery
+              className="mt-12 grid grid-cols-2 gap-4 lg:mt-16 lg:grid-cols-4 lg:gap-5"
+              items={machine.applicationImages.map((image) =>
+                galleryItem(image, "(min-width: 1024px) 25vw, 50vw", "aspect-[4/3]"),
+              )}
+            />
           </Container>
         </section>
       )}
 
-      {machine.applicationImages.length > 0 && (
-        <Container as="section" className="py-20 lg:py-28">
-          <SectionHeading eyebrow="Na terenu" title="U primeni." />
-          <Gallery
-            className="mt-12 grid grid-cols-2 gap-4 lg:mt-16 lg:grid-cols-4 lg:gap-5"
-            items={machine.applicationImages.map((image) =>
-              galleryItem(image, "(min-width: 1024px) 25vw, 50vw", "aspect-[4/3]"),
-            )}
-          />
-        </Container>
-      )}
-
-      <section className="bg-white py-20 lg:py-28">
+      <section className="py-20 lg:py-28">
         <Container>
           <SectionHeading eyebrow="Mašine" title="Slične mašine." />
           <ul className="mt-12 grid gap-5 sm:grid-cols-2 lg:mt-16 lg:grid-cols-3">
@@ -281,7 +284,7 @@ export default async function MasinaPage({ params }: PageProps<"/proizvodi/masin
         <CtaBand
           eyebrow="Ponuda"
           title={`Zatražite ponudu za ${machine.name}.`}
-          text={`Šifra ${machine.itemNumber} se upisuje u upit sama. Možete i da pišete na ${company.email}.`}
+          text={`Šifra ${machine.itemNumber} se upisuje u upit sama. Možete i da pišete na ${emailText}.`}
           button="Zatraži ponudu"
           href={quoteHref(machine.itemNumber)}
         />

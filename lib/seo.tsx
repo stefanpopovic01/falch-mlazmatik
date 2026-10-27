@@ -57,7 +57,7 @@ export const organizationJsonLd = () => ({
   url: absoluteUrl(routes.home),
   image: absoluteUrl(DEFAULT_SHARE_IMAGE),
   telephone: company.phone.href.replace("tel:", ""),
-  email: company.email,
+  email: company.emails[0],
   taxID: company.pib,
   address: {
     "@type": "PostalAddress",

@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { type FormEvent, useEffect, useId, useState } from "react";
 import ArrowIcon from "@/components/ui/ArrowIcon";
 import { kontakt } from "@/content/kontakt";
-import { company, routes } from "@/content/site";
+import { company, emailText, routes } from "@/content/site";
 import { ENQUIRY_FLAG } from "@/lib/analytics";
 
 const ENDPOINT = process.env.NEXT_PUBLIC_FORM_ENDPOINT;
@@ -50,7 +50,7 @@ const empty: Values = {
 };
 
 const fill = (text: string) =>
-  text.replace("{email}", company.email).replace("{phone}", company.phone.label);
+  text.replace("{email}", emailText).replace("{phone}", company.phone.label);
 
 const input =
   "w-full rounded-xl bg-mist/60 px-4 py-3.5 text-base text-ink ring-1 ring-line transition-shadow placeholder:text-muted focus:bg-white focus:outline-none focus:ring-2 focus:ring-brand aria-[invalid=true]:ring-2 aria-[invalid=true]:ring-error";

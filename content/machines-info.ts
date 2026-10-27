@@ -6,14 +6,17 @@ export const listing = {
   lead: "Industrijske visokopritisne mašine od 100 do 3.000 bara, sa električnim, benzinskim i dizel pogonom. Filtrirajte po snazi, izvedbi, motoru i pritisku.",
 };
 
-// Klase snage za filter. Mašina ulazi u prvu klasu čiji je max veći ili jednak njenoj snazi (kW).
+// Klase snage za filter, iste kao na falch.com. Mašina ulazi u prvu klasu čiji je max veći ili jednak njenoj snazi (kW).
+// Klase bez mašina se ne prikazuju.
 export const powerBuckets = [
   { id: "do-6", label: "do 6 kW", max: 6 },
-  { id: "11-18", label: "11–18 kW", max: 25 },
-  { id: "30", label: "30 kW", max: 50 },
-  { id: "110-125", label: "110–125 kW", max: 150 },
-  { id: "230-256", label: "230–256 kW", max: 300 },
-  { id: "488-508", label: "488–508 kW", max: Infinity },
+  { id: "7-12", label: "7–12 kW", max: 12 },
+  { id: "13-15", label: "13–15 kW", max: 15 },
+  { id: "16-25", label: "16–25 kW", max: 25 },
+  { id: "26-30", label: "26–30 kW", max: 30 },
+  { id: "31-125", label: "31–125 kW", max: 125 },
+  { id: "126-250", label: "126–250 kW", max: 250 },
+  { id: "251-500", label: "251–500 kW", max: Infinity },
 ];
 
 export const guide = {

@@ -78,16 +78,19 @@ export const company = {
   postal: { street: "Maršala Tita 1B", postalCode: "26212", city: "Kačarevo", country: "RS" },
   openingHours: [
     { days: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], opens: "08:30", closes: "16:30" },
-    { days: ["Saturday"], opens: "08:00", closes: "15:00" },
   ],
   mapUrl: "https://www.google.com/maps/search/?api=1&query=Mlazmatik+Kačarevo",
-  phone: { label: "+381 13 601 895", href: "tel:+38113601895" },
+  phone: { label: "+381 69 1077931", href: "tel:+381691077931" },
   mobile: { label: "+381 63 363 767", href: "tel:+38163363767" },
-  email: "info@mlazmatik.co.rs",
-  hours: ["Pon–pet 08:30–16:30", "Subota 08:00–15:00"],
+  // Redosled je redosled prikaza na sajtu
+  emails: ["mlazmatik@outlook.com", "info@mlazmatik.co.rs"],
+  hours: ["Pon–pet 08:30–16:30"],
   // Dodati kada klijent pošalje linkove: { label: "Facebook", href: "..." }
   socials: [] as { label: string; href: string }[],
 };
+
+// Adrese u rečenici: "a@b.rs ili c@d.rs"
+export const emailText = company.emails.join(" ili ");
 
 // Podrazumevani tekst ljubičaste trake sa pozivom na akciju (components/CtaBand.tsx)
 export const cta = {

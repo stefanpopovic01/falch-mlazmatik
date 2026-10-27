@@ -11,7 +11,7 @@ import Img from "@/components/ui/Img";
 import SectionHeading from "@/components/ui/SectionHeading";
 import YouTube from "@/components/ui/YouTube";
 import { driveLabels, typeLabels } from "@/content/robots-info";
-import { company, quoteHref, routes } from "@/content/site";
+import { company, emailText, quoteHref, routes } from "@/content/site";
 import { applicationHref, getApplication } from "@/lib/applications";
 import { galleryItem } from "@/lib/gallery";
 import { getImage, resolveImage } from "@/lib/images";
@@ -123,6 +123,32 @@ export default async function RobotPage({ params }: PageProps<"/proizvodi/roboti
         />
       </Container>
 
+      {/* Video odmah posle slika, pre tehničkih podataka */}
+      {robot.video && (
+        <section className="bg-ink bg-[radial-gradient(60%_50%_at_15%_0%,rgba(96,84,151,0.45),transparent)] py-20 text-white lg:py-28">
+          <Container className="grid gap-10 lg:grid-cols-12 lg:items-center lg:gap-8">
+            <div className="lg:col-span-4">
+              <SectionHeading stacked tone="dark" eyebrow="Video" title="Robot u radu." />
+            </div>
+            <div className="lg:col-span-8">
+              <YouTube
+                id={robot.video}
+                title={robot.name}
+                poster={
+                  <Img
+                    src={`roboti/${robot.slug}/video`}
+                    alt=""
+                    fill
+                    sizes="(min-width: 1024px) 60vw, 100vw"
+                    className="object-cover"
+                  />
+                }
+              />
+            </div>
+          </Container>
+        </section>
+      )}
+
       <section className="bg-white py-20 lg:py-28">
         <Container className="grid gap-12 lg:grid-cols-12 lg:gap-8">
           <div className="lg:col-span-4">
@@ -134,9 +160,14 @@ export default async function RobotPage({ params }: PageProps<"/proizvodi/roboti
             {specGroups.length === 0 && (
               <p className="max-w-[52ch] text-lg leading-relaxed text-muted">
                 Za tehničke podatke ovog modela pošaljite upit ili pišite na{" "}
-                <a href={`mailto:${company.email}`} className="font-semibold text-brand hover:underline">
-                  {company.email}
-                </a>
+                {company.emails.map((email, i) => (
+                  <span key={email}>
+                    {i > 0 && " ili "}
+                    <a href={`mailto:${email}`} className="font-semibold text-brand hover:underline">
+                      {email}
+                    </a>
+                  </span>
+                ))}
                 {robot.brochure ? " ili preuzmite brošuru." : "."}
               </p>
             )}
@@ -184,31 +215,6 @@ export default async function RobotPage({ params }: PageProps<"/proizvodi/roboti
         </Container>
       </section>
 
-      {robot.video && (
-        <section className="bg-ink bg-[radial-gradient(60%_50%_at_15%_0%,rgba(96,84,151,0.45),transparent)] py-20 text-white lg:py-28">
-          <Container className="grid gap-10 lg:grid-cols-12 lg:items-center lg:gap-8">
-            <div className="lg:col-span-4">
-              <SectionHeading stacked tone="dark" eyebrow="Video" title="Robot u radu." />
-            </div>
-            <div className="lg:col-span-8">
-              <YouTube
-                id={robot.video}
-                title={robot.name}
-                poster={
-                  <Img
-                    src={`roboti/${robot.slug}/video`}
-                    alt=""
-                    fill
-                    sizes="(min-width: 1024px) 60vw, 100vw"
-                    className="object-cover"
-                  />
-                }
-              />
-            </div>
-          </Container>
-        </section>
-      )}
-
       {robot.applicationImages.length > 0 && (
         <Container as="section" className="py-20 lg:py-28">
           <SectionHeading eyebrow="Na terenu" title="U primeni." />
@@ -242,7 +248,7 @@ export default async function RobotPage({ params }: PageProps<"/proizvodi/roboti
         <CtaBand
           eyebrow="Ponuda"
           title={`Zatražite ponudu za ${robot.name}.`}
-          text={`Šifra ${robot.itemNumber} se upisuje u upit sama. Možete i da pišete na ${company.email}.`}
+          text={`Šifra ${robot.itemNumber} se upisuje u upit sama. Možete i da pišete na ${emailText}.`}
           button="Zatraži ponudu"
           href={quoteHref(robot.itemNumber)}
         />

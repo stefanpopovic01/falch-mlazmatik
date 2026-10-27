@@ -88,9 +88,11 @@ export default function KontaktPage() {
                   </a>
                 </Detail>
                 <Detail label={details.email}>
-                  <a href={`mailto:${company.email}`} className={link}>
-                    {company.email}
-                  </a>
+                  {company.emails.map((email) => (
+                    <a key={email} href={`mailto:${email}`} className={`block ${link}`}>
+                      {email}
+                    </a>
+                  ))}
                 </Detail>
                 <Detail label={details.hours}>
                   {company.hours.map((line) => (
