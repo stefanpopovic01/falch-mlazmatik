@@ -135,7 +135,7 @@ export default function Footer() {
                 rel="noopener"
                 className="text-white/70 underline-offset-4 transition-colors hover:text-white hover:underline"
               >
-                tyne.rs
+                Tyne Agency
               </a>
             </span>
           </p>
