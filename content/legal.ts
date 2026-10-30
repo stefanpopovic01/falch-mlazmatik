@@ -50,7 +50,7 @@ export const privatnost: LegalPage = {
             "ime i prezime",
             "naziv firme, ako ga upišete",
             "mejl adresu",
-            "broj telefona, ako ga upišete",
+            "broj telefona",
             "sadržaj poruke, kao i šifru proizvoda, model mašine ili šifru dela na koje se upit odnosi",
           ],
         },

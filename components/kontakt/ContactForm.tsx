@@ -96,6 +96,9 @@ export default function ContactForm({ products }: Props) {
     const found: typeof errors = {};
     if (!values.name.trim()) found.name = messages.name;
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(values.email.trim())) found.email = messages.email;
+    // Broj sa najmanje 6 cifara; dozvoljeni su +, razmaci, crtice, kose crte i zagrade
+    const phone = values.phone.trim();
+    if (!/^\+?[\d\s()/-]+$/.test(phone) || phone.replace(/\D/g, "").length < 6) found.phone = messages.phone;
     if (!values.message.trim()) found.message = messages.message;
     if (!values.consent) found.consent = messages.consent;
     setErrors(found);
@@ -227,7 +230,7 @@ export default function ContactForm({ products }: Props) {
           {error("email")}
         </div>
         <div>
-          {label("phone", fields.phone)}
+          {label("phone", fields.phone, true)}
           <input
             id={`${id}-phone`}
             type="tel"
@@ -236,7 +239,10 @@ export default function ContactForm({ products }: Props) {
             value={values.phone}
             onChange={(event) => set("phone", event.target.value)}
             className={input}
+            required
+            {...invalid("phone")}
           />
+          {error("phone")}
         </div>
 
         <div>

@@ -36,6 +36,7 @@ export const kontakt = {
   errors: {
     name: "Upišite ime i prezime.",
     email: "Upišite ispravnu mejl adresu.",
+    phone: "Upišite broj telefona.",
     message: "Napišite poruku.",
     consent: "Potrebna je saglasnost da bismo mogli da odgovorimo.",
     // {email} i {phone} se zamenjuju podacima firme
