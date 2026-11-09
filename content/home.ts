@@ -31,7 +31,7 @@ export const cards = {
       text: "Visokopritisne mašine sa električnim, benzinskim i dizel motorom, pribor za svaku od njih i roboti koji posao rade umesto rukovaoca.",
       cta: "Pogledaj proizvode",
       href: routes.proizvodi,
-      image: "high-tech-water-filtration-at-sunrise",
+      image: "proizvodi-falch",
       imageClass: "",
     },
     {
